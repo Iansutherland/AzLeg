@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzLeg.ConsoleUI", "AzLeg.ConsoleUI\AzLeg.ConsoleUI.csproj", "{4CB0F500-12B3-474D-B017-2CE3C8DAA3EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzLeg.Data", "AzLeg.Data\AzLeg.Data.csproj", "{D367B32B-358D-431C-8CC5-131F2EEA8339}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzLeg.Data", "AzLeg.Data\AzLeg.Data.csproj", "{D367B32B-358D-431C-8CC5-131F2EEA8339}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AzLeg.DataStore", "AzLeg.DataStore\AzLeg.DataStore.sqlproj", "{42224D0C-7316-4D83-B1B1-7A0D9F339EED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,12 @@ Global
 		{D367B32B-358D-431C-8CC5-131F2EEA8339}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D367B32B-358D-431C-8CC5-131F2EEA8339}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D367B32B-358D-431C-8CC5-131F2EEA8339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42224D0C-7316-4D83-B1B1-7A0D9F339EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42224D0C-7316-4D83-B1B1-7A0D9F339EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42224D0C-7316-4D83-B1B1-7A0D9F339EED}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{42224D0C-7316-4D83-B1B1-7A0D9F339EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42224D0C-7316-4D83-B1B1-7A0D9F339EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42224D0C-7316-4D83-B1B1-7A0D9F339EED}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
