@@ -35,7 +35,7 @@ namespace AzLeg.ConsoleUI
             }
             else
             {
-                throw new Exception($"response code from {this.httpClient.BaseAddress}/{url} returned code {response.StatusCode}");
+                return response.StatusCode.ToString();
             }
         }
 
@@ -100,6 +100,11 @@ namespace AzLeg.ConsoleUI
             return list;
         }
 
+        /// <summary>
+        /// Parse the citation, heading, and content of a plain article page from the website
+        /// </summary>
+        /// <param name="content"></param>
+        /// <returns></returns>
         public LegArticle ParseArticle(string content)
         {
             var article = new LegArticle();
@@ -110,6 +115,22 @@ namespace AzLeg.ConsoleUI
             article.Content = String.Join(" ", this.ParseArticleContent(content));
 
             return article;
+        }
+
+        public List<string> ParseArticleLinks(string content)
+        {
+            Regex articleLinkPattern = new Regex(@"https:\/\/www.azleg.gov\/ars\/\d{1,2}\/\d{5}(-\d{1,3})?.htm");
+            var matchesFound = articleLinkPattern.Matches(content);
+            var linkList = new List<string>();
+            if (matchesFound.Count > 0)
+            {
+                foreach(Match match in matchesFound)
+                {
+                    linkList.Add(match.Value);
+                }
+            }
+
+            return linkList;
         }
 
         /// <summary>

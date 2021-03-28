@@ -26,7 +26,7 @@ namespace AzLeg.ConsoleUI.Entities
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=cybertron\\sqlexpress;Database=AzLeg;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer("Data Source=(localdb)\\ProjectsV13;Initial Catalog=AzLeg;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
             }
         }
 
