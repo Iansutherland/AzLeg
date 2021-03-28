@@ -14,7 +14,7 @@ namespace AzLeg.ConsoleUI.Entities
 
         public int Id { get; set; }
         public int TitleId { get; set; }
-        public int Chapter { get; set; }
+        public string Chapter { get; set; }
         public string Heading { get; set; }
 
         public virtual LegTitle Title { get; set; }

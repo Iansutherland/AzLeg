@@ -1,5 +1,8 @@
 ﻿using AzLeg.ConsoleUI.Entities;
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.IO;
 
 namespace AzLeg.ConsoleUI
 {
@@ -7,30 +10,44 @@ namespace AzLeg.ConsoleUI
     {
         static void Main(string[] args)
         {
-            try {
-                using (var context = new AzLegContext())
+            try
+            {
+                using(var context = new AzLegContext())
                 {
+                    //add two Titles that have been repealed
+                    var title2 = new LegTitle();
+                    title2.Title = 2;
+                    title2.UrlAzLeg = "https://www.azleg.gov/arsDetail/?title=2";
+                    var title24 = new LegTitle();
+                    title24.Title = 24;
+                    title24.UrlAzLeg = "https://www.azleg.gov/arsDetail/?title=24";
+                    context.LegTitles.AddRange(new LegTitle[] { title2, title24 });
+
                     //base address used in scraper's httpclient
                     var scraper = new Scraper("https://www.azleg.gov/");
 
-                    //retrieve page html
-                    var stuff = scraper.retrieveURL("ars/1/00104.htm").Result;
+                    //all  the file names of the title page html files
+                    var fileList = Directory.GetFiles(".\\Scratch\\TitlePages");
 
-                    Console.WriteLine("------------results----------------\n" + stuff + "\n------------results----------------");
+                    foreach (string url in fileList)
+                    {
+                        string fileContents = File.ReadAllText(url);
 
-                    Console.WriteLine("---------------------------------------\n");
-                    //citation extract
-                    var citation = scraper.ParseCitation(stuff);
-                    Console.WriteLine($"Citation Parsed: {citation}");
+                        //parse for Title
+                        LegTitle legTitle = scraper.ParseTitleContent(fileContents);
+                        //Get title back from db so you have the DB PK for the FKs in Chapters
+                        LegTitle titleFromDB = context.LegTitles.Where(x => x.Title == legTitle.Title).FirstOrDefault();
 
-                    //article content extract
-                    var articleContent = scraper.ParseArticleContent(stuff);
-                    var articleString = "";
-                    articleContent.ForEach(x => articleString += x + "\n");
-                    Console.WriteLine($"Article Content:\n{articleString}");
+                        //get title chapters
+                        var legChapterList = scraper.ParseChapterContent(fileContents, titleFromDB.Id);
+                        //context.LegChapters.AddRange(legChapterList);
 
 
-                    Console.ReadLine();
+
+                        //context.SaveChanges();
+
+                        Console.WriteLine($"finished processing title content in file {url}");
+                    }
                 }
             }
             catch( Exception exception)

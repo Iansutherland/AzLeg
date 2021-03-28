@@ -16,7 +16,7 @@ namespace AzLeg.ConsoleUI.Entities
         public int Id { get; set; }
         public string Heading { get; set; }
         public string UrlAzLeg { get; set; }
-        public string Title { get; set; }
+        public int Title { get; set; }
 
         public virtual ICollection<LegArticle> LegArticles { get; set; }
         public virtual ICollection<LegChapter> LegChapters { get; set; }

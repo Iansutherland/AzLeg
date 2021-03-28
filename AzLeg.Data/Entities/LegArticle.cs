@@ -21,6 +21,7 @@ namespace AzLeg.ConsoleUI.Entities
         public string Citation { get; set; }
         public string UrlAzLeg { get; set; }
         public DateTime? CreateDate { get; set; }
+        public string Heading { get; set; }
 
         public virtual LegChapter Chapter { get; set; }
         public virtual LegTitle Title { get; set; }

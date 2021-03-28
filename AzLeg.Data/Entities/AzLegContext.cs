@@ -86,10 +86,6 @@ namespace AzLeg.ConsoleUI.Entities
             {
                 entity.ToTable("legChapter");
 
-                entity.Property(e => e.Heading)
-                    .HasMaxLength(150)
-                    .IsUnicode(false);
-
                 entity.HasOne(d => d.Title)
                     .WithMany(p => p.LegChapters)
                     .HasForeignKey(d => d.TitleId)
@@ -107,10 +103,6 @@ namespace AzLeg.ConsoleUI.Entities
 
                 entity.Property(e => e.UrlAzLeg)
                     .HasMaxLength(2083)
-                    .IsUnicode(false);
-
-                entity.Property(e => e.Title)
-                    .HasMaxLength(100)
                     .IsUnicode(false);
             });
 
