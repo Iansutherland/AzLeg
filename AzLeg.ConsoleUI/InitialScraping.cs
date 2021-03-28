@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Text;
 
 namespace AzLeg.ConsoleUI
@@ -25,12 +26,16 @@ namespace AzLeg.ConsoleUI
                     LegTitle legTitle = scraper.ParseTitleContent(fileContents);
 
                     //add title to db
-                    //context.LegTitles.Add(legTitle);
+                    context.LegTitles.Add(legTitle);
+
+                    LegTitle titleFromDB = context.LegTitles.Where(x => x.Title == legTitle.Title).FirstOrDefault();
 
                     //get title chapters
-                    var legChapterList = scraper.ParseChapterContent(fileContents, legTitle.Title);
+                    var legChapterList = scraper.ParseChapterContent(fileContents, titleFromDB.Id);
 
+                    context.LegChapters.AddRange(legChapterList);
 
+                    //add Chapter Articles
 
                     Console.WriteLine($"finished processing title content in file {url}");
                 }
