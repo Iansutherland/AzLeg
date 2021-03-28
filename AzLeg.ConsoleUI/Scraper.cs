@@ -100,6 +100,26 @@ namespace AzLeg.ConsoleUI
             return list;
         }
 
+        internal List<string> ParseChapterSections(string fileContents)
+        {
+            var chapterSectionList = new List<string>();
+            var chapterSectionPattern = new Regex("(<div id=\"chapter\\d{1,2}\" .*>)(.*)<\\/div>");
+            var matches = chapterSectionPattern.Matches(fileContents);
+            if(matches.Count > 0)
+            {
+                foreach(Match match in matches)
+                {
+                    var split = match.Value.Split("<div id=\"chapter");
+                    foreach(var item in split)
+                    {
+                        chapterSectionList.Add(item);
+                    }
+                }
+            }
+
+            return chapterSectionList;
+        }
+
         /// <summary>
         /// Parse the citation, heading, and content of a plain article page from the website
         /// </summary>
@@ -117,6 +137,11 @@ namespace AzLeg.ConsoleUI
             return article;
         }
 
+        /// <summary>
+        /// Parse the {domain}/ars/{title}/{chapter}{article}.htm links out
+        /// </summary>
+        /// <param name="content"></param>
+        /// <returns></returns>
         public List<string> ParseArticleLinks(string content)
         {
             Regex articleLinkPattern = new Regex(@"https:\/\/www.azleg.gov\/ars\/\d{1,2}\/\d{5}(-\d{1,3})?.htm");
@@ -131,6 +156,88 @@ namespace AzLeg.ConsoleUI
             }
 
             return linkList;
+        }
+
+        public List<string> ParseArticleSections(string content)
+        {
+            var articleSections = new List<string>();
+            Regex articleSectionPattern = new Regex("<div class=\"article\">(.*)<\\/div>");
+            var matches = articleSectionPattern.Matches(content);
+            if(matches.Count > 0)
+            {
+                foreach(Match match in matches)
+                {
+                    var split = match.Value.Split("<div class=\"article\">").ToList();
+                    foreach(string article in split)
+                    {
+                        articleSections.Add(article);
+                    }
+                }
+            }
+
+            return articleSections;
+        }
+
+        /// <summary>
+        /// Parse the article (small) url for the title number
+        /// </summary>
+        /// <param name="content"></param>
+        /// <returns></returns>
+        public int ParseArticleForTitle(string content)
+        {
+            int titleNum = 0;
+            Regex urlInTitlePattern = new Regex(@"ars/(\d{1,2})");
+            var matchFound = urlInTitlePattern.Match(content);
+            if (matchFound.Success)
+            {
+                try
+                {
+                    titleNum = Int32.Parse(matchFound.Groups[1].Value);
+                }
+                catch(Exception exception)
+                {
+                    var a = 1;
+                }
+            }
+
+            return titleNum;
+        }
+
+        /// <summary>
+        /// NOT THE CHAPTER NUMBER, Parse the article (small) url for the Chapter ID (from azleg site url site)
+        /// </summary>
+        /// <param name="content"></param>
+        /// <returns></returns>
+        internal string ParseARticleForChapterID(string content)
+        {
+            string chapterNum = "";
+            
+            Regex urlInTitlePattern = new Regex(@"ars/(\d{1,2})");
+            var matchFound = urlInTitlePattern.Match(content);
+            if (matchFound.Success)
+            {
+                chapterNum = matchFound.Value;
+            }
+
+            return chapterNum;
+        }
+
+        /// <summary>
+        /// Parse the article (small) url for the title number
+        /// </summary>
+        /// <param name="content"></param>
+        /// <returns></returns>
+        public string ParseArticleForArticle(string content)
+        {
+            string articleCitationBit = "";
+            Regex urlInArticlePattern = new Regex(@"ars/\d{1,2}/\d{3}(\d{2}([\w|-])?).htm");
+            var matchFound = urlInArticlePattern.Match(content);
+            if (matchFound.Success)
+            {
+                articleCitationBit = matchFound.Groups[1].Value;
+            }
+
+            return articleCitationBit;
         }
 
         /// <summary>
@@ -178,6 +285,24 @@ namespace AzLeg.ConsoleUI
             }
 
             return legChapterList;
+        }
+
+        /// <summary>
+        /// finds "Chapter {num}" in the text
+        /// </summary>
+        /// <param name="content"></param>
+        /// <returns></returns>
+        public string ParseChapterFormat(string content)
+        {
+            var chapter = "";
+            var chapterPattern = new Regex("Chapter (\\d{1,2}|\\d{1,2}\\.\\d)");
+            var match = chapterPattern.Match(content);
+            if (match.Success)
+            {
+                chapter = match.Groups[1].Value;
+            }
+
+            return chapter;
         }
 
         /// <summary>
