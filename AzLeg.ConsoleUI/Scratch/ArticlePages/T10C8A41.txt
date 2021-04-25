@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-841 - Duties of officers</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-841</font>. <font color=PURPLE><u>Duties of officers</u></font></p>
+
+<p>Each officer has the authority and shall perform the duties set forth in the bylaws or, to the extent consistent with the bylaws, the duties prescribed by the board of directors or by direction of an officer authorized by the board of directors to prescribe the duties of other officers. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2262 - Surplus and dividends</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2262</font>. <font color=PURPLE><u>Surplus and dividends</u></font></p>
+
+<p>Each year a corporation shall set apart, as earned surplus, all of its net earnings until such earned surplus shall equal the total of the capital and paid-in surplus then outstanding or ten per cent of the total outstanding borrowings of the corporation whichever is greater. The earned surplus shall be held in cash, shall be invested in United States government bonds or such other securities as may be legal investments under section 10-2263 and shall be kept and used to meet losses and contingencies of such corporation. Whenever the amount of earned surplus shall become impaired it shall be built up again to the required amount in the manner provided for its original accumulation. Net earnings and surplus shall be determined by the board of directors, after providing for such reserves as the directors deem desirable and the directors' determination made in good faith shall be conclusive on all persons. After setting aside the required reserves the directors may declare dividends from the balance of net earnings. </p>
+
+</BODY>
+
+</HTML>

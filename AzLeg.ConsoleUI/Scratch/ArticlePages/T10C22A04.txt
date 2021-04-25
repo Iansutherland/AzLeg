@@ -1,0 +1,23 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2404 - Election of benefit corporation status</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2404.</font> <font color=PURPLE><u>Election of benefit corporation status</u></font></p>
+
+<p>A. An existing business corporation may become a benefit corporation under this chapter by amending its articles of incorporation so that they contain, in addition to the requirements of section 10-202, a statement that the corporation is a benefit corporation.  In order to be effective, the amendment must be adopted by at least the supermajority status vote.</p>
+
+<p>B. If an entity that is not a benefit corporation is a party to a merger or the acquired entity in a share exchange, and the surviving or acquired entity in the merger or share exchange is to be a benefit corporation, the plan of merger or share exchange must be adopted by at least the supermajority status vote. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

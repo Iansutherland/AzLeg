@@ -1,0 +1,25 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1604 - Courtordered inspection</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1604</font>. <font color=PURPLE><u>Court-ordered inspection</u></font></p>
+
+<p>A. If a corporation does not allow a shareholder who complies with section 10-1602, subsection A to inspect and copy any records required by that subsection to be available for inspection, the court in the county where the corporation's known place of business is located may summarily order inspection and copying of the records demanded at the corporation's expense on application of the shareholder.</p>
+
+<p>B. If a corporation does not allow within a reasonable time a shareholder to inspect and copy any other record, the shareholder who complies with section 10-1602, subsections B and C may apply to the court in the county where the corporation's principal office is located for an order to permit inspection and copying of the records demanded. The court shall dispose of an application under this subsection on an expedited basis.</p>
+
+<p>C. If the court orders inspection and copying of the records demanded, it shall also order the corporation to pay the shareholder's costs, including reasonable attorney fees, incurred to obtain the order, unless the corporation proves that it refused inspection in good faith because it had a reasonable basis for doubt about the right of the shareholder to inspect the records demanded. The court may order a shareholder to pay all or a portion of the corporation's costs, including reasonable attorney fees, if the demand to inspect is denied in whole or in material part.</p>
+
+<p>D. If the court orders inspection and copying of the records demanded, it may impose reasonable restrictions on the use or distribution of the records by the demanding shareholder. </p>
+
+</BODY>
+
+</HTML>

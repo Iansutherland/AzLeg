@@ -1,0 +1,59 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3302 - General powers</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3302</font>. <font color=PURPLE><u>General powers</u></font></p>
+
+<p>Unless its articles of incorporation provide otherwise, every corporation has perpetual duration and succession in its corporate name and has the same powers as an individual to do all things necessary or convenient to carry out its affairs including power to:</p>
+
+<p>1. Sue and be sued, complain and defend in its corporate name.</p>
+
+<p>2. Have a corporate seal, which may be altered at will, and to use it, or a facsimile of it, by impressing or affixing or in any other manner reproducing it.</p>
+
+<p>3. Make and amend bylaws, not inconsistent with its articles of incorporation or with the laws of this state, for regulating and managing the affairs of the corporation.</p>
+
+<p>4. Purchase, receive, lease or otherwise acquire and own, hold, improve, use and otherwise deal with real or personal property or any interest in property wherever located.</p>
+
+<p>5. Sell, convey, mortgage, pledge, lease, exchange and otherwise dispose of all or any part of its property.</p>
+
+<p>6. Purchase, receive, subscribe for or otherwise acquire, own, hold, vote, use, sell, mortgage, lend, pledge or otherwise dispose of and deal with shares or other interests in or obligations of any entity.</p>
+
+<p>7. Make contracts and guarantees, incur liabilities, borrow monies, issue its notes, bonds and other obligations, which may be convertible into or include the option to purchase other securities of the corporation, and secure any of its obligations by mortgage, deed of trust, security agreement, pledge or other encumbrance of any of its property, franchises or income.</p>
+
+<p>8. Issue any bond, debenture or debt security of the corporation by causing one or more officers designated in the bylaws or by the board of directors to sign the bond, debenture or debt security either manually or in facsimile and, if deemed necessary or appropriate by the officers, by causing its authentication, countersignature or registration, either manually or in facsimile, by a trustee, transfer agent or registrar other than the corporation itself or an employee of the corporation. If an officer who has signed, either manually or in facsimile, a bond, debenture or debt security as provided in this paragraph ceases for any reason to be an officer before the security is issued, the corporation may issue the security with the same effect as if the officer were still in office at the date of issue.</p>
+
+<p>9. Lend monies, invest and reinvest its monies and receive and hold real and personal property as security for repayment, except as limited by section 10-3833.</p>
+
+<p>10. Be a promoter, incorporator, partner, member, associate or manager of any entity.</p>
+
+<p>11. Conduct its activities, locate offices and exercise the powers granted by chapters 24 through 40 of this title within or without this state.</p>
+
+<p>12. Elect or appoint directors, officers, employees and agents of the corporation, define their duties, fix their compensation and lend them monies and credit.</p>
+
+<p>13. Pay pensions and establish pension plans, pension trusts and other benefit or incentive plans for any of its or its affiliates' current or former directors, officers, employees and agents.</p>
+
+<p>14. Eliminate or limit the liability of its directors in the manner and to the extent provided by section 10-3202 and chapter 31, article 5 of this title.</p>
+
+<p>15. Make payments or donations not inconsistent with law for the public welfare or for charitable, religious, scientific or educational purposes and for other purposes that further the corporate interest.</p>
+
+<p>16. Impose dues, assessments, admission and transfer fees on its members.</p>
+
+<p>17. Establish conditions for admission of members, admit members and issue memberships.</p>
+
+<p>18. Carry on a business.</p>
+
+<p>19. Transact any lawful activity that will aid governmental policy.</p>
+
+<p>20. Do any other act not inconsistent with law that furthers the activities and affairs of the corporation. </p>
+
+</BODY>
+
+</HTML>

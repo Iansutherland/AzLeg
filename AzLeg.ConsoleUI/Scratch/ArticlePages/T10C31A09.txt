@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3809 - Removal of designated or appointed directors</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3809</font>. <font color=PURPLE><u>Removal of designated or appointed directors</u></font></p>
+
+<p>A. A designated director may be removed by an amendment to the articles of incorporation or bylaws deleting or changing the designation.</p>
+
+<p>B. Except as otherwise provided in the articles of incorporation or bylaws, an appointed director may be removed with or without cause by the person appointing the director. The person removing the director shall give written notice of the removal to the director and either the board of directors, its presiding officer or the corporation. A removal is effective when the notice is delivered unless the notice specifies a later effective date or event. </p>
+
+</BODY>
+
+</HTML>

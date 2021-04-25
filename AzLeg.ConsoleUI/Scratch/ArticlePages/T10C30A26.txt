@@ -1,0 +1,27 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3726 - Other methods of electing directors</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3726</font>. <font color=PURPLE><u>Other methods of electing directors</u></font></p>
+
+<p>A corporation may provide in its articles of incorporation or bylaws the process for election of directors by members or delegates by any of the following means:</p>
+
+<p>1. On the basis of chapter or other organizational unit.</p>
+
+<p>2. By region or other geographic unit.</p>
+
+<p>3. By preferential voting.</p>
+
+<p>4. By any other reasonable method. </p>
+
+</BODY>
+
+</HTML>

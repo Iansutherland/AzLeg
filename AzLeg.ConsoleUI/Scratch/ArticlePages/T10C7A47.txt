@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-747 - Applicability to foreign corporations</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-747</font>. <font color=PURPLE><u>Applicability to foreign corporations</u></font></p>
+
+<p>In any derivative proceeding in the right of a foreign corporation, the matters covered by this article are governed by the laws of the jurisdiction of incorporation of the foreign corporation except for sections 10-743, 10-745 and 10-746. </p>
+
+</BODY>
+
+</HTML>

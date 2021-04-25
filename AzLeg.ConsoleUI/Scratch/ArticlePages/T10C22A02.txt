@@ -1,0 +1,107 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2402 - Definitions</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2402.</font> <font color=PURPLE><u>Definitions</u></font></p>
+
+<p>In this chapter, unless the context otherwise requires:</p>
+
+<p>1. &quot;Benefit corporation&quot; means a corporation that both:</p>
+
+<p>(a) Has elected to become subject to this chapter.</p>
+
+<p>(b) The status of which as a benefit corporation has not been terminated.</p>
+
+<p>2. &quot;Benefit enforcement proceeding&quot; means any claim or action for either of the following:</p>
+
+<p>(a) The failure of a benefit corporation to pursue or create general public benefit or a specific public benefit purpose set forth in its articles.</p>
+
+<p>(b) A violation of any obligation, duty or standard of conduct under this chapter.</p>
+
+<p>3. &quot;General public benefit&quot; means a material positive impact on society and the environment, taken as a whole, assessed against a third-party standard, from the business and operations of a benefit corporation.</p>
+
+<p>4. &quot;Minimum status vote&quot; means:</p>
+
+<p>(a) In the case of a business corporation, in addition to any other required approval or vote, the satisfaction of the following conditions:</p>
+
+<p>(i) The shareholders of every class or series are entitled to vote as a separate voting group on the corporate action regardless of a limitation stated in the articles of incorporation or bylaws on the voting rights of any class or series.</p>
+
+<p>(ii) The corporate action is approved by vote of the shareholders of each class or series entitled to cast at least two-thirds of the votes that all shareholders of the class or series are entitled to cast on the action.</p>
+
+<p>(b) In the case of a domestic entity other than a business corporation, in addition to any other required approval, vote or consent, the satisfaction of the following conditions:</p>
+
+<p>(i) The holders of every class or series of equity interest in the entity that are entitled to receive a distribution of any kind from the entity are entitled to vote on or consent to the action regardless of any otherwise applicable limitation on the voting or consent rights of any class or series.</p>
+
+<p>(ii) The action is approved by vote or consent of the holders described in item (i) of this subdivision entitled to cast at least two-thirds of the votes or consents that all of those holders are entitled to cast on the action.</p>
+
+<p>5. &quot;Specific public benefit&quot; includes:</p>
+
+<p>(a) Providing low-income or underserved individuals or communities with beneficial products or services.</p>
+
+<p>(b) Promoting economic opportunity for individuals or communities beyond the creation of jobs in the normal course of business.</p>
+
+<p>(c) Protecting or restoring the environment.</p>
+
+<p>(d) Improving human health.</p>
+
+<p>(e) Promoting the arts, sciences or advancement of knowledge.</p>
+
+<p>(f) Increasing the flow of capital to entities with a purpose to benefit society or the environment.</p>
+
+<p>(g) Conferring any other particular benefit on society or the environment as specified in the benefit corporation's articles of incorporation.</p>
+
+<p>6. &quot;Subsidiary&quot; means, in relation to a person, an entity in which the person owns beneficially or of record fifty per cent or more of the outstanding equity interests.</p>
+
+<p>7. &quot;Supermajority status vote&quot; means:</p>
+
+<p>(a) For a business corporation, in addition to any other required approval or vote, the satisfaction of the following conditions:</p>
+
+<p>(i) The shareholders of every class or series are entitled to vote as a separate voting group on the corporate action regardless of a limitation stated in the articles of incorporation or bylaws on the voting rights of any class or series.</p>
+
+<p>(ii) The corporate action is approved by vote of the shareholders of each class or series entitled to cast at least three-fourths of the votes that all shareholders of the class or series are entitled to cast on the action.</p>
+
+<p>(b) For a domestic entity other than a business corporation, in addition to any other required approval, vote or consent, the satisfaction of the following conditions:</p>
+
+<p>(i) The holders of every class or series of equity interest in the entity that are entitled to receive a distribution of any kind from the entity are entitled to vote on or consent to the action regardless of any otherwise applicable limitation on the voting or consent rights of any class or series.</p>
+
+<p>(ii) The action is approved by vote or consent of the holders described in item (i) of this subdivision entitled to cast at least three-fourths of the votes or consents that all of those holders are entitled to cast on the action.</p>
+
+<p>8. &quot;Third-party standard&quot; means a recognized standard for defining, reporting and assessing corporate social and environmental performance that is:</p>
+
+<p>(a) Comprehensive because it assesses the effect of a business and its operations on the interests listed in section 10-2431, subsection A, paragraph 1.</p>
+
+<p>(b) Developed by an entity that is not controlled by the benefit corporation.</p>
+
+<p>(c) Credible because it is developed by an entity that both:</p>
+
+<p>(i) Has access to necessary expertise to assess overall corporate social and environmental performance.</p>
+
+<p>(ii) Uses a balanced multistakeholder approach to develop the standard, including a reasonable public comment period.</p>
+
+<p>(d) Transparent because the following information is publicly available about the standard:</p>
+
+<p>(i) The criteria considered when measuring the overall social and environmental performance of a business.</p>
+
+<p>(ii) The relative weightings, if any, of those criteria.</p>
+
+<p>(e) Transparent because the following information is publicly available about the development and revision of the standard:</p>
+
+<p>(i) The identity of the directors, officers, material owners and governing body of the entity that developed and controls revisions to the standard.</p>
+
+<p>(ii) The process by which revisions to the standard and changes to the membership of the governing body are made.</p>
+
+<p>(iii) An accounting of the revenue and sources of financial support for the entity, with sufficient detail to disclose any relationships that could reasonably be considered to present a potential conflict of interest. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

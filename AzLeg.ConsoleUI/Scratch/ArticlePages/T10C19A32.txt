@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2132 - Bylaws</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2132</font>. <font color=PURPLE><u>Bylaws</u></font></p>
+
+<p>The board of directors shall adopt the first bylaws of a generation and transmission cooperative to be adopted following incorporation, conversion, merger or consolidation.  Thereafter, bylaws shall be adopted, amended or repealed either by the board of directors or by a majority of the members acting through their voting delegates present in person or by proxy at any regular meeting or special meeting called for that purpose at which a quorum is present.  The bylaws shall state the rights and duties of members and directors and may contain other provisions for the regulation and management of the affairs of the generation and transmission cooperatives if the provisions are not inconsistent with this article or with articles of incorporation. </p>
+
+</BODY>
+
+</HTML>

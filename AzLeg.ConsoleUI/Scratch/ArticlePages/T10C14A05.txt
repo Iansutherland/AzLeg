@@ -1,0 +1,45 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1405 - Effect of dissolution</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1405</font>. <font color=PURPLE><u>Effect of dissolution</u></font></p>
+
+<p>A. A dissolved corporation continues its corporate existence but shall not carry on any business except that business appropriate to wind up and liquidate its business and affairs, including:</p>
+
+<p>1. Collecting its assets.</p>
+
+<p>2. Disposing of its properties that will not be distributed in kind to its shareholders.</p>
+
+<p>3. Discharging or making provisions for discharging its liabilities.</p>
+
+<p>4. Distributing its remaining property among its shareholders according to their interests.</p>
+
+<p>5. Doing every other act necessary to wind up and liquidate its business and affairs.</p>
+
+<p>B. Dissolution of a corporation does not:</p>
+
+<p>1. Transfer title to the corporation's property.</p>
+
+<p>2. Prevent transfer of its shares or securities, although the authorization to dissolve may provide for closing the corporation's share transfer records.</p>
+
+<p>3. Subject its directors or officers to standards of conduct different from those prescribed in chapter 8 of this title.</p>
+
+<p>4. Change quorum or voting requirements for its board of directors or shareholders, change provisions for selection, resignation or removal of its directors or officers, or both, or change provisions for amending its bylaws.</p>
+
+<p>5. Prevent commencement of a proceeding by or against the corporation in its corporate name or any officers, directors or shareholders or affect applicable statutes of limitation.</p>
+
+<p>6. Abate or suspend a proceeding pending by or against the corporation or any officers, directors or shareholders on the effective date of dissolution.</p>
+
+<p>7. Terminate the authority of the statutory agent of the corporation. </p>
+
+</BODY>
+
+</HTML>

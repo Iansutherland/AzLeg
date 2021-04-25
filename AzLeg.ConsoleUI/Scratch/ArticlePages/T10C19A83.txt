@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2083 - Construction of article</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2083</font>. <font color=PURPLE><u>Construction of article</u></font></p>
+
+<p>This article shall be construed liberally, and the enumeration of any object, purpose, power, manner, method or thing shall not be deemed to exclude like or similar objects, purposes, powers, manners, methods or things. </p>
+
+</BODY>
+
+</HTML>

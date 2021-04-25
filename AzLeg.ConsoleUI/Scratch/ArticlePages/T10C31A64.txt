@@ -1,0 +1,39 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3864 - Conflict of interest policy; exceptions</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3864</font>. <font color=PURPLE><u>Conflict of interest policy; exceptions</u></font></p>
+
+<p>A. The board of directors of a corporation shall adopt a policy regarding transactions between the corporation and interested persons, including the sale, lease or exchange of property to or from interested persons and the corporation, the lending or borrowing of monies to or from interested persons by the corporation or the payment of compensation by the corporation for services provided by interested persons. For the purposes of this subsection, &quot;interested person&quot; means an officer or director of a corporation or any other corporation, firm, association or entity in which an officer or director of a corporation is a member, officer or director or has a financial interest.</p>
+
+<p>B. The requirements of this section do not apply to any of the following:</p>
+
+<p>1. A corporation that had assets at the end of its last fiscal year with a book value of less than ten million dollars, net of accumulated depreciation, or had gross receipts or revenues of less than two million dollars in its last fiscal year.</p>
+
+<p>2. A corporation that offers goods or services only to members who are entitled to vote for its board of directors.</p>
+
+<p>3. A corporation organized for religious purposes that does not have, as a substantial portion of its business, the offering of goods or services on a regular basis to the public for remuneration.</p>
+
+<p>4. A corporation organized by or on behalf of the United States, this state, a political subdivision of this state or an agency or instrumentality of such a governmental entity.</p>
+
+<p>5. A hospital, medical, dental or optometric service corporation licensed pursuant to title 20, chapter 4, article 3.</p>
+
+<p>C. For the purposes of subsection B, paragraph 3:</p>
+
+<p>1. Goods and services include medical, hospital, dental or counseling or social services offered on a regular basis to the public for remuneration.</p>
+
+<p>2. A corporation organized for religious purposes includes a corporation or foreign corporation that controls or is controlled directly or indirectly by a corporation or foreign corporation organized for religious purposes.</p>
+
+<p>D. The exemption provided by subsection B, paragraph 4 does not apply to a corporation that provides services to or operates assets of the governmental entity pursuant to a lease or contract. </p>
+
+</BODY>
+
+</HTML>

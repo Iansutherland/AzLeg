@@ -10,6 +10,33 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="Scratch\ArticlePages\T10C1A.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Scratch\ArticlePages\T10C1A20.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Scratch\ArticlePages\T10C1A21.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Scratch\ArticlePages\T10C1A22.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Scratch\ArticlePages\T10C1A23.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Scratch\ArticlePages\T10C1A24.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Scratch\ArticlePages\T10C1A25.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Scratch\ArticlePages\T10C1A27.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Scratch\ArticlePages\T10C1A28.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Scratch\FIleLinks.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

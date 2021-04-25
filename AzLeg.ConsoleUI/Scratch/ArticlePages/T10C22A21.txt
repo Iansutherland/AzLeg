@@ -1,0 +1,29 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2421 - Corporate purposes</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2421.</font> <font color=PURPLE><u>Corporate purposes</u></font></p>
+
+<p>A. A benefit corporation shall have a purpose of creating general public benefit. This purpose is in addition to its purpose under section 10-301.</p>
+
+<p>B. The articles of incorporation of a benefit corporation may identify one or more specific public benefits that it is the purpose of the benefit corporation to create in addition to its purposes under section 10-301 and subsection A of this section. The identification of a specific public benefit under this subsection does not limit the obligation of a benefit corporation under subsection A of this section.</p>
+
+<p>C. The creation of general public benefit and a specific public benefit under subsections A and B of this section is in the best interests of the benefit corporation.</p>
+
+<p>D. A benefit corporation may amend its articles of incorporation to add, amend or delete the identification of a specific public benefit that it is the purpose of the benefit corporation to create. In order to be effective, the amendment must be adopted by at least the minimum status vote.</p>
+
+<p>E. A professional corporation that is a benefit corporation does not violate section 10-2211 by having the purpose to create general public benefit or a specific public benefit. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

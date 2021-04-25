@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3601 - Admission</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3601</font>. <font color=PURPLE><u>Admission</u></font></p>
+
+<p>A. The articles of incorporation or bylaws may establish criteria or procedures for admission of members and continuation of membership.</p>
+
+<p>B. No person shall be admitted as a member without that person's consent. Consent may be express or implied. </p>
+
+</BODY>
+
+</HTML>

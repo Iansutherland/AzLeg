@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1433 - Decree of dissolution</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1433</font>. <font color=PURPLE><u>Decree of dissolution</u></font></p>
+
+<p>A. If after a hearing the court determines that one or more of the grounds for judicial dissolution described in section 10-1430 exist, it may enter a decree that dissolves the corporation and that specifies the effective date. The clerk of the court shall deliver a certified copy of a dissolution decree to the commission which shall file it.</p>
+
+<p>B. After entering a decree of dissolution, the court shall direct the winding up and liquidation of the corporation's business and affairs in accordance with section 10-1405 and the notification of claimants in accordance with sections 10-1406 and 10-1407. </p>
+
+</BODY>
+
+</HTML>

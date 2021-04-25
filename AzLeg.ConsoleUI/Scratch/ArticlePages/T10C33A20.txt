@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-11020 - Amendment by board of directors</TITLE>
+<!Creation Date: 08/11/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-11020</font>. <font color=PURPLE><u>Amendment by board of directors</u></font></p>
+
+<p>A. If a corporation has no members, its board of directors may adopt one or more amendments to the corporation's bylaws.</p>
+
+<p>B. The adoption of an amendment pursuant to this section shall require the approval in writing by any person or persons whose approval is required pursuant to section 10-11030. </p>
+
+</BODY>
+
+</HTML>

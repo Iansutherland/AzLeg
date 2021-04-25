@@ -1,0 +1,29 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2051 - Definitions</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2051</font>. <font color=PURPLE><u>Definitions</u></font></p>
+
+<p>In this article, unless the context otherwise requires:</p>
+
+<p>1. &quot;Affiliate&quot; means a person that directly or indirectly, through one or more intermediaries, controls, is controlled by or is under common control with another person.</p>
+
+<p>2. &quot;Broadband service&quot; means providing access and transport to the internet, computer processing, information storage or protocol conversion at a download rate of at least twenty-five megabits per second and at an upload rate of at least three megabits per second.</p>
+
+<p>3. &quot;Cooperative&quot; means a corporation that is organized under this article or that becomes subject to this article in the manner provided in this article.</p>
+
+<p>4. &quot;Executed by the cooperative&quot; means executed by manual or facsimile signature on behalf of the cooperative by a duly authorized officer or, if the corporation is under the control of a receiver or trustee, by the receiver or trustee.</p>
+
+<p>5. &quot;Person&quot; means a natural person, firm, association, corporation, business trust, partnership, federal agency, state or political subdivision or agency of a state or any body politic. </p>
+
+</BODY>
+
+</HTML>

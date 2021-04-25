@@ -1,0 +1,53 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2085 - Expanded use for broadband service; just compensation; notice</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2085.</font> <font color=PURPLE><u>Expanded use for broadband service; just compensation; notice</p>
+
+<p></u></font>A. For the purposes of providing broadband service, if a cooperative, directly or through its affiliate, expands the use of an existing easement or other property right that is owned, held or used by the cooperative to provide electricity or other services and the expanded use reduces the fair market value of the property over which the easement or other property right runs, the property owner is entitled to just compensation from the cooperative.</p>
+
+<p>B. The property owner must commence an action in the superior court for just compensation based on diminution in value not later than eighteen months after the date that the cooperative provides notice to the property owner of the expanded use for broadband service.  If an action is not commenced within this time, the expanded use is deemed fully vested in the cooperative and its affiliate without the need to pay just compensation and the expanded use runs with the land.</p>
+
+<p>C. Notice under subsection B of this section is effective if sent by first class mail to the last known address of the property owner, by a printed insertion in the property owner's electric bill or by other commonly used publication or communication channels employed by the cooperative.</p>
+
+<p>D. In an action for just compensation based on a claim of expanded use for broadband service all of the following apply:</p>
+
+<p>1. The court or jury shall ascertain and assess the diminution in value of the property based on the difference between the fair market value of the entire parcel immediately before the expanded use and the fair market value of the entire parcel immediately after the expanded use. </p>
+
+<p>2. Evidence of revenues or profits derived from or the rental value of an assembled communications corridor are not admissible in determining fair market value. </p>
+
+<p>3. On payment of just compensation, the expanded use for broadband service is deemed fully vested in the cooperative and its affiliate and the expanded use shall run with the land.</p>
+
+<p>E. A class action may not be maintained against a cooperative or its affiliate in any action for just compensation based on a claim of expanded use for broadband service. </p>
+
+<p>F. Actions for just compensation as described in this section include trespass, inverse condemnation and other similar causes of action.</p>
+
+<p>G. This section does not prohibit a cooperative or its affiliate from reaching an agreement with a property owner to waive a claim for just compensation related to expanded use for broadband service or from acquiring the right to use the property for broadband service by other lawful means. </p>
+
+<p>H. If excavation is required to install fiber-optic cable or other underground facilities to provide broadband service, the cooperative or its affiliate shall provide written notice to the property owner of the expanded use for broadband service before excavation.  The cooperative or its affiliate shall send the notice by first class mail to the last known address of the property owner, by a printed insertion in the property owner's electric bill or by other commonly used publication or communication channels employed by the cooperative or its affiliate.  A notice sent to a property owner entitled to notice under this subsection must include all of the following:</p>
+
+<p>1. The name and mailing address of the cooperative or its affiliate.</p>
+
+<p>2. The mailing address, telephone number and email address for a representative of the cooperative or its affiliate.</p>
+
+<p>3. A summary statement describing the activities to be conducted during the excavation.</p>
+
+<p>4. The approximate dates when the excavation will start and end.</p>
+
+<p>I. The notice prescribed in subsection H of this section is not required before a cooperative's or its affiliate's use of an easement or other property right that includes an authorization for excavation for purposes of providing broadband service.  Failure to provide the notice prescribed in subsection H of this section:</p>
+
+<p>1. Prohibits the cooperative or its affiliate from proceeding with an excavation until the notice is provided.</p>
+
+<p>2. Does not invalidate or prevent the cooperative or its affiliate from expanding the use of the easement or property right as otherwise described in this section. </p>
+
+</BODY>
+
+</HTML>

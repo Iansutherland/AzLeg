@@ -1,0 +1,43 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-601 - Authorized shares</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-601</font>. <font color=PURPLE><u>Authorized shares</u></font></p>
+
+<p>A. The articles of incorporation shall prescribe the classes of shares and the number of shares of each class that the corporation is authorized to issue. If more than one class of shares is authorized, the articles of incorporation shall prescribe a distinguishing designation for each class, and before the issuance of shares of a class, the preferences, limitations and relative rights of that class shall be described in the articles of incorporation. All shares of a class shall have preferences, limitations and relative rights identical to those other shares of the same class except to the extent otherwise permitted by section 10-602.</p>
+
+<p>B. The articles of incorporation shall authorize both of the following:</p>
+
+<p>1. One or more classes of shares that together have unlimited voting rights.</p>
+
+<p>2. One or more classes of shares, which may be the same class or classes as those with voting rights, that together are entitled to receive the net assets of the corporation on dissolution.</p>
+
+<p>C. The articles of incorporation may authorize one or more classes of shares that:</p>
+
+<p>1. Have special, conditional or limited voting rights or no right to vote, except to the extent prohibited by chapters 1 through 17 of this title.</p>
+
+<p>2. Are redeemable or convertible as specified in the articles of incorporation either:</p>
+
+<p>(a) At the option of the corporation, the shareholder or another person or on the occurrence of a designated event.</p>
+
+<p>(b) For cash, indebtedness, securities or other property.</p>
+
+<p>(c) In a designated amount or in an amount determined in accordance with a designated formula or by reference to extrinsic data or events.</p>
+
+<p>3. Entitle the holders to distributions calculated in any manner, including dividends that may be cumulative, noncumulative or partially cumulative.</p>
+
+<p>4. Have preference over any other class of shares with respect to distributions, including dividends and distributions on the dissolution of the corporation.</p>
+
+<p>D. The description of the designations, preferences, limitations and relative rights of share classes in subsection C of this section is not exhaustive. </p>
+
+</BODY>
+
+</HTML>

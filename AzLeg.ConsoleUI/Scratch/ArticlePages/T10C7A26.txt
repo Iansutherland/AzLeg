@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-726 - Action by single and multiple voting groups</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-726</font>. <font color=PURPLE><u>Action by single and multiple voting groups</u></font></p>
+
+<p>A. If the articles of incorporation or chapters 1 through 17 of this title provide for voting by a single voting group on a matter, action on that matter is taken when voted on by that voting group as provided in section 10-725.</p>
+
+<p>B. If the articles of incorporation or chapters 1 through 17 of this title provide for voting by two or more voting groups on a matter, action on that matter is taken when voted on by each of those voting groups counted separately as provided in section 10-725. Voting by individual voting groups entitled to vote on a matter need not be simultaneous. </p>
+
+</BODY>
+
+</HTML>

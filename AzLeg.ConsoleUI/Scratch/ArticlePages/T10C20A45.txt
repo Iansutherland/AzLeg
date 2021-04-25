@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2245 - Application for authority to transact business</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2245</font>. <font color=PURPLE><u>Application for authority to transact business</u></font></p>
+
+<p>The application of a foreign professional corporation for authority to transact business in this state shall contain the information prescribed in section 10-1503 and shall include a statement that at least one-half of its shareholders who are entitled to vote for the election of directors, at least one-half of its directors and its president, if any, are licensed in one or more states to render a professional service described in its articles of incorporation and be accompanied by a statement from the licensing authority indicating that at least one of its shareholders or employees is licensed in this state to render that professional service. </p>
+
+</BODY>
+
+</HTML>

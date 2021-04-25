@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-121 - Forms</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-121</font>. <font color=PURPLE><u>Forms</u></font></p>
+
+<p>A. Certificates, reports and statements required by section 10-202, subsection D and sections 10-1622 and 10-1623 to be delivered to and filed by the commission shall be made on the forms that are prescribed and furnished by the commission.</p>
+
+<p>B. The commission may prescribe and furnish on request forms for other documents required or permitted to be filed by chapters 1 through 17 of this title, but their use is not mandatory. </p>
+
+</BODY>
+
+</HTML>

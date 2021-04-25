@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2254 - Capital stock</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2254</font>. <font color=PURPLE><u>Capital stock</u></font></p>
+
+<p>The capital stock of a corporation shall be not less than one hundred thousand dollars to be evidenced by shares, having a par value of not less than ten dollars each. </p>
+
+</BODY>
+
+</HTML>

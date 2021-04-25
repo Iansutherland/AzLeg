@@ -1,0 +1,35 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2706 - Application</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2706</font>. <font color=PURPLE><u>Application</u></font></p>
+
+<p>A. This chapter applies only to issuing public corporations and to corporations which elect pursuant to subsection C of this section to be subject to:</p>
+
+<p>1. All of the provisions of this article.</p>
+
+<p>2. All of the provisions of article 2 of this chapter.</p>
+
+<p>3. All of the provisions of article 3 of this chapter.</p>
+
+<p>4. Any combination of paragraph 1, 2 or 3.</p>
+
+<p>B. A corporation may not elect to be subject to less than all of the provisions in any article of this chapter. A corporation which elects to be subject to all or part of this chapter pursuant to subsection C of this section, for purposes of applying the provisions of this chapter or part of this chapter, shall be deemed an issuing public corporation.</p>
+
+<p>C. An election by a corporation pursuant to subsection A of this section must be contained either:</p>
+
+<p>1. In its articles of incorporation at the time of incorporation.</p>
+
+<p>2. In an amendment to its articles of incorporation or bylaws which is approved by the shareholders holding a majority of the outstanding voting power of all shares. </p>
+
+</BODY>
+
+</HTML>

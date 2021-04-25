@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2138 - Prohibition of duplication of service</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2138</font>. <font color=PURPLE><u>Prohibition of duplication of service</u></font></p>
+
+<p>A generation and transmission cooperative organized pursuant to this article is expressly prohibited from supplying electric generation service in the certificated service territory of or to any corporation in the certificated service territory of or to any member of a member owned nonprofit cooperative corporation unless the cooperative has the consent of that corporation. </p>
+
+</BODY>
+
+</HTML>

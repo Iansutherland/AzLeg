@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1876 - Amendments to trust instrument; filing; recordation</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1876</font>. <font color=PURPLE><u>Amendments to trust instrument; filing; recordation</u></font></p>
+
+<p>The articles, declaration of trust or trust agreement by which any business trust was created may be amended in the manner specified therein or in such manner as is valid under the law applicable to such business trust, provided that no such amendment shall be legally effective in this state until a copy thereof, certified as provided in section 10-1874, subsection A, paragraph 1, has been filed with the corporation commission and a copy thereof, certified by the corporation commission, has been filed in the office of the county recorder in the county where the principal place of business of the trust is located, where such certified copy shall be indexed and recorded. </p>
+
+</BODY>
+
+</HTML>

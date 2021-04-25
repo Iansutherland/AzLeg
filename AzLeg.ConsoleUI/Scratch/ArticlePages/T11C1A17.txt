@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>11-117 - La Paz county</TITLE>
+<!Creation Date: 08/11/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>11-117</font>. <font color=PURPLE><u>La Paz county</u></font></p>
+
+<p>La Paz county, the county seat of which is Parker, is bounded as follows: </p>
+
+<p>Commencing at the point where the meridian line one hundred thirteen degrees twenty minutes west longitude, as defined by the Mohave-Yavapai county boundary survey of 1908 and the Atwood survey of 1918, intersects the main channel of the Santa Maria river, being the southeast corner of Mohave county; thence south on the meridian, as defined, and along the western boundaries of Yavapai and Maricopa counties to the Gila and Salt river base line; thence west along said base line to the line common to ranges 16 and 17 west, Gila and Salt river base and meridian; thence north along said range line to the line common to townships 1 and 2 north; thence west along said township line to the line common to ranges 19 and 20 west; thence south along said range line to the line common to townships 4 and 5 south; thence west along said line to the west boundary of the state of Arizona; thence north along the Colorado river and the west boundary of the state of Arizona, as defined by the Arizona-California boundary compact, to the junction of the Colorado river and the Bill Williams' river; thence easterly up the Bill Williams' river and along the southern boundary of Mohave county to the Santa Maria river; thence up the Santa Maria river and the southern boundary of Mohave county to the point of beginning. </p>
+
+</BODY>
+
+</HTML>

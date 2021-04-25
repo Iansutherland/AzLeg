@@ -1,0 +1,35 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1401 - Dissolution by incorporators or initial directors</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1401</font>. <font color=PURPLE><u>Dissolution by incorporators or initial directors</u></font></p>
+
+<p>A majority of the incorporators or initial directors of a corporation that has not issued shares or has not commenced business may dissolve the corporation by delivering to the commission for filing the articles of dissolution. An incorporator or an initial director, whose signature shall be acknowledged, shall execute the articles of dissolution, and the articles shall set forth all of the following:</p>
+
+<p>1. The name of the corporation.</p>
+
+<p>2. The date of its incorporation.</p>
+
+<p>3. Either:</p>
+
+<p>(a) That none of the corporation's shares have been issued.</p>
+
+<p>(b) That the corporation has not commenced business.</p>
+
+<p>4. That no debt of the corporation remains unpaid.</p>
+
+<p>5. That the net assets of the corporation remaining after winding up have been distributed to the shareholders, if shares were issued.</p>
+
+<p>6. That a majority of the incorporators or initial directors authorized the dissolution. </p>
+
+</BODY>
+
+</HTML>

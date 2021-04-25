@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3635 - Discontinuance or settlement</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3635</font>. <font color=PURPLE><u>Discontinuance or settlement</u></font></p>
+
+<p>No derivative proceeding may be discontinued or settled without the court's approval. If the court determines that a proposed discontinuance or settlement will substantially affect the interests of the corporation's members or a class of members, the court shall direct that notice be given to the affected members. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,29 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2056 - Amendment of articles</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2056</font>. <font color=PURPLE><u>Amendment of articles</u></font></p>
+
+<p>A. A cooperative may amend its articles by complying with the requirements prescribed in subsection B of this section, but a change in location of its principal office may be effected in the manner set forth in section 10-2066.</p>
+
+<p>B. The proposed amendment shall be presented to a meeting of the members, and the notice of the meeting shall set forth or have attached to it the proposed amendment.  If the proposed amendment, with any changes, is approved by the affirmative vote of not less than two-thirds of those members voting or the number of members prescribed in the bylaws but not less than a majority of those members voting, the articles of amendment shall be executed by the cooperative.</p>
+
+<p>C. The articles of amendment shall state:</p>
+
+<p>1. The name of the cooperative.</p>
+
+<p>2. The address of its principal office.</p>
+
+<p>3. The amendment of its articles of incorporation.</p>
+
+</BODY>
+
+</HTML>

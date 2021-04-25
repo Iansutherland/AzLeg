@@ -1,0 +1,43 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3124 - Correcting filed document; articles of incorporation; application for authority to conduct affairs</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3124</font>. <font color=PURPLE><u>Correcting filed document; articles of incorporation; application for authority to conduct affairs</u></font></p>
+
+<p>A. A domestic or foreign corporation may correct a document that has been filed by the commission if the document either:</p>
+
+<p>1. Contains an incorrect statement and the correction does not materially alter a substantive provision.</p>
+
+<p>2. Was defectively executed, attested, sealed, verified or acknowledged.</p>
+
+<p>B. A document is corrected by both:</p>
+
+<p>1. Preparing articles of correction that:</p>
+
+<p>(a) Describe the document or attach a copy of it to the articles.</p>
+
+<p>(b) Specify the date the document was delivered to the commission.</p>
+
+<p>(c) Specify the incorrect statement and the reason it is incorrect or the manner in which the execution was defective.</p>
+
+<p>(d) Correct the incorrect statement or other defect.</p>
+
+<p>2. Delivering the articles to the commission for filing.</p>
+
+<p>C. Articles of correction are effective on the effective date of the document they correct except as to persons who rely on the incorrect statement or other defect and who are adversely affected by the correction. As to those persons, articles of correction are effective as provided in section 10-123.</p>
+
+<p>D. If articles of incorporation, articles of domestication or an application for authority to conduct affairs is rejected for filing by the commission, the articles or application may be resubmitted within thirty days after the date of rejection. If the resubmitted articles or application cures the defect that caused the rejection, the resubmitted articles or application shall be filed by the commission and is effective on the date that would have been the effective date of filing the articles or application if the articles or application had not been rejected. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

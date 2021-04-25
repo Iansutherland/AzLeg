@@ -1,0 +1,29 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-702 - Special meeting</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-702</font>. <font color=PURPLE><u>Special meeting</u></font></p>
+
+<p>A. Except as provided in section 10-2703, a corporation shall hold a special meeting of shareholders either:</p>
+
+<p>1. On the call of its board of directors or the person or persons authorized to do so by the articles of incorporation or bylaws.</p>
+
+<p>2. As provided in section 10-810, subsection D.</p>
+
+<p>B. If not otherwise fixed under section 10-703 or 10-707, the record date for determining shareholders entitled to demand a special meeting is the date the first shareholder signs the demand.</p>
+
+<p>C. Special shareholders' meetings may be held in or out of this state at the place stated in or fixed in accordance with the bylaws. If no place is stated in or fixed in accordance with the bylaws, special meetings shall be held at the corporation's principal office.</p>
+
+<p>D. Only business within the purpose or purposes described in the meeting notice required by section 10-705, subsection C may be conducted at a special shareholders' meeting. </p>
+
+</BODY>
+
+</HTML>

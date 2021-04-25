@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3812 - Compensation of directors</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3812</font>. <font color=PURPLE><u>Compensation of directors</u></font></p>
+
+<p>Unless the articles of incorporation or bylaws provide otherwise, the board of directors may fix the compensation of directors. </p>
+
+</BODY>
+
+</HTML>

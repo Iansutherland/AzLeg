@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-844 - Contract rights of officers</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-844</font>. <font color=PURPLE><u>Contract rights of officers</u></font></p>
+
+<p>A. The appointment of an officer does not itself create contract rights.</p>
+
+<p>B. An officer's removal does not affect the officer's contract rights, if any, with the corporation. An officer's resignation does not affect the corporation's contract rights, if any, with the officer. </p>
+
+</BODY>
+
+</HTML>

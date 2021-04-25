@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3806 - Staggered terms for directors</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3806</font>. <font color=PURPLE><u>Staggered terms for directors</u></font></p>
+
+<p>The articles of incorporation or bylaws may provide for staggering the directors' terms of office by dividing the total number of directors into two or more groups. The terms of office of the several groups need not be uniform. </p>
+
+</BODY>
+
+</HTML>

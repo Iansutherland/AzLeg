@@ -1,0 +1,37 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1810 - Definition of relative rights of capital units</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1810</font>. <font color=PURPLE><u>Definition of relative rights of capital units</u></font></p>
+
+<p>&quot;Relative rights of capital units&quot; means all the rights, privileges, obligations and duties of the capital units and may include, but are not limited to, disproportionate variations of the following:</p>
+
+<p>1. Participation in dividends or distributions from operating income.</p>
+
+<p>2. Participation in dividends or distributions from income other than operating income.</p>
+
+<p>3. Participation in distributions of the proceeds of a sale of all or substantially all of the assets of the corporation with further disproportionate variation depending upon the degree of gain or loss.</p>
+
+<p>4. Participation in distributions upon liquidation or dissolution.</p>
+
+<p>5. Voting rights.</p>
+
+<p>6. Restrictions or limitations on transfer.</p>
+
+<p>7. The obligation to perform services or provide goods or other property to the corporation.</p>
+
+<p>8. The obligation to devote time and energies which are collateral to corporate purposes.</p>
+
+<p>9. Assessments, if any. </p>
+
+</BODY>
+
+</HTML>

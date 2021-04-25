@@ -1,0 +1,31 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2252 - Purposes</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2252</font>. <font color=PURPLE><u>Purposes</u></font></p>
+
+<p>The purposes of a corporation formed under the terms of this chapter shall be to:</p>
+
+<p>1. Assist, promote, encourage and, through the cooperative efforts of the shareholders and the members of the corporation, develop and advance the business prosperity and economic welfare of Arizona.</p>
+
+<p>2. Encourage and assist in the location of new business and industry in Arizona.</p>
+
+<p>3. Rehabilitate existing business and industry in Arizona.</p>
+
+<p>4. Stimulate and assist in the expansion of all kinds of business activity which will tend to promote the business development and maintain the economic stability of the state, provide maximum opportunities for employment, encourage thrift, and improve the standard of living of the citizens of the state.</p>
+
+<p>5. Cooperate and act in conjunction with other organizations, public or private, the objects of which are the promotion and advancement of industrial, commercial, agricultural or recreational development of the state.</p>
+
+<p>6. Furnish money and credit to approved and deserving applicants for the promotion, development and conduct of all kinds of business activity in the state, thereby establishing a source of capital and credit not otherwise readily available therefor. </p>
+
+</BODY>
+
+</HTML>

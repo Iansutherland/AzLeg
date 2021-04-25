@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-127 - Evidentiary effect of copy of filed document</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-127</font>. <font color=PURPLE><u>Evidentiary effect of copy of filed document</u></font></p>
+
+<p>A stamp affixed to a copy of a document filed by the commission, bearing the signature of the executive director of the commission, which may be in facsimile or electronic form, and the seal of the commission, is conclusive evidence that the original document is on file with the commission. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

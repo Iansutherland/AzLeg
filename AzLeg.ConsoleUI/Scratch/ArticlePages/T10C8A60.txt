@@ -1,0 +1,51 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-860 - Definitions</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-860</font>. <font color=PURPLE><u>Definitions</u></font></p>
+
+<p>In this article, unless the context otherwise requires:</p>
+
+<p>1. &quot;Conflicting interest&quot; with respect to a corporation means the interest a director of the corporation has respecting a transaction effected or proposed to be effected by the corporation, by a subsidiary of the corporation or by any other entity in which the corporation has a controlling interest if either:</p>
+
+<p>(a) Whether or not the transaction is brought before the board of directors of the corporation for action, the director knows at the time of commitment that the director or a related person either:</p>
+
+<p>(i) Is a party to the transaction.</p>
+
+<p>(ii) Has a beneficial financial interest in or is so closely linked to the transaction and of such financial significance to the director or a related person that the interest would reasonably be expected to exert an influence on the director's judgment if he were called on to vote on the transaction.</p>
+
+<p>(b) The transaction is brought or is of such character and significance to the corporation that it would in the normal course be brought before the board of directors of the corporation for action, and the director knows at the time of commitment that any of the following persons is either a party to the transaction or has a beneficial financial interest in or is so closely linked to the transaction and of such financial significance to the person that the interest would reasonably be expected to exert an influence on the director's judgment if the director were called on to vote on the transaction:</p>
+
+<p>(i) An entity, other than the corporation, of which the director is a director, general partner, agent or employee.</p>
+
+<p>(ii) A person that controls one or more of the entities specified in item (i) of this subdivision or an entity that is controlled by or is under common control with one or more of the entities specified in item (i) of this subdivision.</p>
+
+<p>(iii) An individual who is a general partner, principal or employer of the director.</p>
+
+<p>2. &quot;Director's conflicting interest transaction&quot; with respect to a corporation means a transaction effected or proposed to be effected by the corporation, by a subsidiary of the corporation or by any other entity in which the corporation has a controlling interest respecting which a director of the corporation has a conflicting interest.</p>
+
+<p>3. &quot;Related person&quot; of a director means either:</p>
+
+<p>(a) The spouse, or a parent or sibling of the spouse, of the director, a child, grandchild, sibling, parent or spouse of a child, grandchild, sibling or parent, of the director, an individual having the same home as the director or a trust or estate of which an individual specified in this subdivision is a substantial beneficiary.</p>
+
+<p>(b) A trust, estate, incompetent, conservatee or minor of which the director is a fiduciary.</p>
+
+<p>4. &quot;Required disclosure&quot; means disclosure by the director who has a conflicting interest of both:</p>
+
+<p>(a) The existence and nature of the conflicting interest.</p>
+
+<p>(b) All facts known to the director respecting the subject matter of the transaction that an ordinarily prudent person would reasonably believe to be material to a judgment about whether or not to proceed with the transaction.</p>
+
+<p>5. &quot;Time of commitment&quot; respecting a transaction means the time when the transaction is consummated or, if made pursuant to contract, the time when the corporation, or its subsidiary or the entity in which it has a controlling interest, becomes contractually obligated so that its unilateral withdrawal from the transaction would entail significant loss, liability or other damage. </p>
+
+</BODY>
+
+</HTML>

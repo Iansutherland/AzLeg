@@ -1,0 +1,39 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-125 - Filing duty of commission</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-125</font>. <font color=PURPLE><u>Filing duty of commission</u></font></p>
+
+<p>A. At the time of delivery of a document to the commission, the commission shall stamp, endorse or attach the date and time of delivery of the document.</p>
+
+<p>B. The commission shall file a document delivered to the commission for filing if both of the following apply:</p>
+
+<p>1. The commission determines that the document satisfies the requirements of chapters 1 through 17 of this title.</p>
+
+<p>2. The corporation filing the document or on whose behalf the document is being filed is in good standing within the meaning of section 10-128.</p>
+
+<p>C. The commission may file a document delivered to the commission in which either the corporation has filed articles of dissolution or the corporation has filed a document that is required to bring the corporation into good standing.  The commission shall provide notice of the filing to the domestic or foreign corporation or its representative.</p>
+
+<p>D. If the commission refuses to file a document, it shall provide notice of the refusal to the domestic or foreign corporation or its representative within five days after the determination of refusal to file, together with a brief written explanation of the reason for the refusal.</p>
+
+<p>E. The filing or refusing to file a document by the commission does not:</p>
+
+<p>1. Affect the validity or invalidity of the document in whole or part, except to the extent that filing is required to make the document valid.</p>
+
+<p>2. Relate to the correctness or incorrectness of information contained in the document.</p>
+
+<p>3. Create a presumption that the document is valid or invalid or that information contained in the document is correct or incorrect. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

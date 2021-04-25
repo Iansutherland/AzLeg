@@ -1,0 +1,35 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3855 - Determination and authorization of indemnification</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3855</font>. <font color=PURPLE><u>Determination and authorization of indemnification</u></font></p>
+
+<p>A. A corporation may not indemnify a director under section 10-3851 unless authorized in the specific case after a determination has been made that indemnification of the director is permissible in the circumstances because the director has met the standard of conduct set forth in section 10-3851.</p>
+
+<p>B. The determination shall be made either:</p>
+
+<p>1. By the board of directors by a majority vote of the directors not at the time parties to the proceeding.</p>
+
+<p>2. By special legal counsel:</p>
+
+<p>(a) Selected by majority vote of the disinterested directors.</p>
+
+<p>(b) If there are no disinterested directors, selected by majority vote of the board of directors.</p>
+
+<p>3. By the members, but directors who are at the time parties to the proceeding may not vote on the determination.</p>
+
+<p>C. Neither special legal counsel nor any member has any liability whatsoever for a determination made pursuant to this section. In voting pursuant to subsection B of this section, directors shall discharge their duty in accordance with section 10-3830.</p>
+
+<p>D. Authorization of indemnification and evaluation as to reasonableness of expenses shall be made in the same manner as the determination that indemnification is permissible, except that if the determination is made by special legal counsel, authorization of indemnification and evaluation as to reasonableness of expenses shall be made by those entitled under subsection B, paragraph 2 of this section to select counsel. </p>
+
+</BODY>
+
+</HTML>

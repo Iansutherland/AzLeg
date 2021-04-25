@@ -1,0 +1,23 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3632 - Demand</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3632</font>. <font color=PURPLE><u>Demand</u></font></p>
+
+<p>No complainant may commence a derivative proceeding until both:</p>
+
+<p>1. A written demand has been made on the corporation to take suitable action.</p>
+
+<p>2. Ninety days have expired from the date the demand was made unless the complainant has earlier been notified that the demand has been rejected by the corporation or unless the statute of limitations will expire within the ninety days or unless irreparable injury to the corporation would result by waiting for the expiration of the ninety day period. </p>
+
+</BODY>
+
+</HTML>

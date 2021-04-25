@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2266 - Dissolution or liquidation</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2266</font>. <font color=PURPLE><u>Dissolution or liquidation</u></font></p>
+
+<p>In the event of dissolution or liquidation of a corporation none of the corporation's assets shall be distributed to the shareholders until all sums due the members of the corporation as creditors have been paid in full. </p>
+
+</BODY>
+
+</HTML>

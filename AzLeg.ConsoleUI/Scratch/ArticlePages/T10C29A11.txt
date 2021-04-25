@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3611 - Transfers</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3611</font>. <font color=PURPLE><u>Transfers</u></font></p>
+
+<p>A. Except as set forth in or authorized by the articles of incorporation or bylaws, no member of a corporation may transfer a membership or any right arising from that membership.</p>
+
+<p>B. If transfer rights are provided, no restriction on them is binding with respect to a member holding a membership issued prior to the adoption of the restriction unless the restriction is approved by the members and the affected member. </p>
+
+</BODY>
+
+</HTML>

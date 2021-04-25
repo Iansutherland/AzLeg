@@ -1,0 +1,29 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2215 - Corporation name</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2215</font>. <font color=PURPLE><u>Corporation name</u></font></p>
+
+<p>A. The name of a domestic professional corporation and of a foreign professional corporation authorized to transact business in this state, in addition to satisfying the requirements of sections 10-401 and 10-1506, shall:</p>
+
+<p>1. Contain the words &quot;professional corporation&quot;, &quot;professional association&quot;, &quot;service corporation&quot;, &quot;limited&quot; or &quot;chartered&quot; or the abbreviation &quot;P.C.&quot;, &quot;P.A.&quot;, &quot;S.C.&quot;, &quot;Ltd.&quot;,  &quot;Chtd.&quot;, &quot;PC&quot;, &quot;PA&quot;, &quot;SC&quot;, &quot;LTD&quot; or &quot;CHTD&quot;.</p>
+
+<p>2. Not contain language stating or implying that it is incorporated for a purpose other than that authorized by section 10-2211 and its articles of incorporation.</p>
+
+<p>3. Conform with any rule adopted by the licensing authority having jurisdiction over a professional service described in the corporation's articles of incorporation.</p>
+
+<p>B. Sections 10-401 and 10-1506 do not prevent the use of a name otherwise prohibited by those sections if it is the personal name of a shareholder or former shareholder of the domestic or foreign professional corporation or the name of an individual who was associated with a predecessor of the corporation. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

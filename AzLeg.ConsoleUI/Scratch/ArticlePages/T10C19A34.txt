@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2134 - Disposition of property</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2134</font>. <font color=PURPLE><u>Disposition of property</u></font></p>
+
+<p>A. The board of directors of a generation and transmission cooperative may, without authorization by the members, authorize the execution and delivery of mortgages or deeds of trust pledging or encumbering any or all of the property, assets, rights, privileges, licenses, franchises and permits of the generation and transmission cooperative, whether acquired or to be acquired, and wherever situated, as well as their revenues, all upon terms and conditions as the board of directors determines, to secure any indebtedness of the generation and transmission cooperative. Any such mortgages or deeds of trust are exempt from the mortgage recording tax.</p>
+
+<p>B. A generation and transmission cooperative may not sell, lease or otherwise dispose of all or a substantial portion of its property unless the sale, lease or other disposition is authorized by the affirmative vote of not less than a majority of those members of the generation and transmission cooperative, acting through their voting delegates, present at a meeting of the members. </p>
+
+</BODY>
+
+</HTML>

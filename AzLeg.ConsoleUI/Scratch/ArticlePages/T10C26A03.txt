@@ -1,0 +1,37 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3303 - Emergency powers</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3303</font>. <font color=PURPLE><u>Emergency powers</u></font></p>
+
+<p>A. In anticipation of or during an emergency as prescribed in subsection D of this section, the board of directors of a corporation may:</p>
+
+<p>1. Modify lines of succession to accommodate the incapacity of any director, officer, employee or agent.</p>
+
+<p>2. Relocate the principal office, designate alternative principal offices or regional offices or authorize the officers to do so.</p>
+
+<p>B. During an emergency as prescribed in subsection D of this section, unless emergency bylaws provide otherwise:</p>
+
+<p>1. Notice of a meeting of the board of directors need be given only to those directors whom it is practicable to reach and may be given in any practicable manner, including by publication and radio.</p>
+
+<p>2. One or more officers of the corporation present at a meeting of the board of directors may be deemed to be directors for the meeting, in order of rank and within the same rank in order of seniority, as necessary to achieve a quorum.</p>
+
+<p>C. Corporate action taken in good faith during an emergency under this section to further the ordinary affairs of the corporation:</p>
+
+<p>1. Binds the corporation.</p>
+
+<p>2. May not be used to impose liability on a corporate director, officer, employee or agent.</p>
+
+<p>D. An emergency exists for purposes of this section if a quorum of the corporation's directors cannot readily be assembled because of a local emergency, a state of emergency or a state of war emergency all as defined in section 26-301. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2067 - Nonprofit operation</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2067</font>. <font color=PURPLE><u>Nonprofit operation</u></font></p>
+
+<p>A cooperative shall be operated on a nonprofit basis for the mutual benefit of its members and patrons. The by-laws of a cooperative or its contracts with consumers shall contain such provisions relative to the disposition of revenues and receipts as may be necessary and appropriate to establish and maintain its nonprofit and cooperative character. </p>
+
+</BODY>
+
+</HTML>

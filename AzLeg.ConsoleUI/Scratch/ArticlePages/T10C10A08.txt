@@ -1,0 +1,43 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1008 - Amendment pursuant to reorganization</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1008</font>. <font color=PURPLE><u>Amendment pursuant to reorganization</u></font></p>
+
+<p>A. A corporation's articles of incorporation may be amended pursuant to this section without action by the board of directors or shareholders to carry out a plan of reorganization confirmed by an order or decree of a court of competent jurisdiction under a federal statute or a statute of this state if the articles of incorporation after amendment contain only provisions required or permitted by section 10-202.</p>
+
+<p>B. Before the date of entry of a final decree in the reorganization proceeding, the individual or individuals designated by the plan shall deliver to the commission for filing articles of amendment setting forth all of the following:</p>
+
+<p>1. The name of the corporation.</p>
+
+<p>2. The text of each amendment contained in the plan of reorganization.</p>
+
+<p>3. The date of the court's order or decree confirming the plan of reorganization containing the articles of amendment.</p>
+
+<p>4. The title of the reorganization proceeding in which the order or decree was entered.</p>
+
+<p>5. A statement that the court had jurisdiction of the proceeding under federal or state statute.</p>
+
+<p>C. Shareholders of a corporation undergoing reorganization do not have dissenters' rights except as and to the extent provided in the reorganization plan.</p>
+
+<p>D. This section does not apply after entry of a final decree in the reorganization proceeding even though the court retains jurisdiction of the proceeding for limited purposes unrelated to consummation of the reorganization plan.</p>
+
+<p>E. Within sixty days after the commission approves the filing, either of the following must occur:</p>
+
+<p>1. A copy of the articles of amendment shall be published. An affidavit evidencing the publication may be filed with the commission.</p>
+
+<p>2. The commission shall input the information regarding the approval into the database as prescribed by section 10-130. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

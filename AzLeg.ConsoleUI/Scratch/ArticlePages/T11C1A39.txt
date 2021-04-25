@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>11-139 - Compliance with federal law</TITLE>
+<!Creation Date: 08/11/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>11-139</font>. <font color=PURPLE><u>Compliance with federal law</u></font></p>
+
+<p>If the formation of new counties is approved by an election pursuant to section 11-137, the attorney general shall immediately initiate proceedings to determine compliance with applicable federal laws. The commission, with the concurrence of the attorney general, may correct minor deficiencies in order to achieve compliance, but if it is finally determined that the formation of the new county or counties does not comply with applicable federal laws, the proceedings under this article regarding those counties are terminated, the new county or counties shall not be formed and the affected county or counties shall continue in existence. </p>
+
+</BODY>
+
+</HTML>

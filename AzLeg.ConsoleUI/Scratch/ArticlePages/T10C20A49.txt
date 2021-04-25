@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2249 - Application to existing corporations</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2249</font>. <font color=PURPLE><u>Application to existing corporations</u></font></p>
+
+<p>A. This chapter applies to all Arizona corporations that were incorporated under or that were subject to chapter 3, article 1 of this title on December 31, 1995. If an existing corporation to which this chapter applies is required to amend its articles of incorporation to comply with this chapter, it shall do so on or before April 1, 1996.</p>
+
+<p>B. This chapter does not apply to a corporation now existing or later incorporated under a law of this state other than this chapter unless the corporation elects professional corporation status under section 10-2210. </p>
+
+</BODY>
+
+</HTML>

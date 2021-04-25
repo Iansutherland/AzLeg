@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1440 - Deposit with department of revenue</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1440</font>. <font color=PURPLE><u>Deposit with department of revenue</u></font></p>
+
+<p>Assets of a dissolved corporation that should be transferred to a creditor, claimant or shareholder of the corporation who either cannot be found or who is not competent to receive them and does not have a legal representative who is legally competent to receive them shall be reduced to cash and deposited with the unclaimed property division of the department of revenue for safekeeping. When the creditor, claimant, shareholder or legal representative who is legally competent to receive the distributive portion furnishes satisfactory proof of entitlement to the amount deposited, the unclaimed property division of the department of revenue shall pay the creditor, claimant, shareholder or legal representative that amount. </p>
+
+</BODY>
+
+</HTML>

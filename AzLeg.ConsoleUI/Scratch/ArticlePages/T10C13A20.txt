@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1320 - Notice of dissenters' rights</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1320</font>. <font color=PURPLE><u>Notice of dissenters' rights</u></font></p>
+
+<p>A. If proposed corporate action creating dissenters' rights under section 10-1302 is submitted to a vote at a shareholders' meeting, the meeting notice shall state that shareholders are or may be entitled to assert dissenters' rights under this article and shall be accompanied by a copy of this article.</p>
+
+<p>B. If corporate action creating dissenters' rights under section 10-1302 is taken without a vote of shareholders, the corporation shall notify in writing all shareholders entitled to assert dissenters' rights that the action was taken and shall send them the dissenters' notice described in section 10-1322. </p>
+
+</BODY>
+
+</HTML>

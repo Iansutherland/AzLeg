@@ -1,0 +1,23 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2258 - Board of directors</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2258</font>. <font color=PURPLE><u>Board of directors</u></font></p>
+
+<p>A. The affairs of a corporation shall be conducted by a board of directors, consisting of fifteen persons, who shall all be at least eighteen years of age and be citizens of the United States. In addition, the executive director of the Arizona development board or its successor, shall act as a nonvoting ex officio member of the board of directors.</p>
+
+<p>B. At the first meeting of the shareholders and members of a corporation and at each annual meeting thereafter, six directors shall be elected by the shareholders and nine directors shall be elected by the members. Each member shall have one vote for each one thousand dollars of the member's outstanding loans to the corporation and the uncalled balance of the member's loan agreement with the corporation. A member shall be entitled to cast his votes for directors on a cumulative basis.</p>
+
+<p>C. The first meeting of the shareholders and members of the corporation shall be held at a time and place to be fixed by the temporary board of directors, which shall be as soon as reasonably possible after the certificate required by section 10-2261 has been filed with the superintendent of financial institutions. </p>
+
+</BODY>
+
+</HTML>

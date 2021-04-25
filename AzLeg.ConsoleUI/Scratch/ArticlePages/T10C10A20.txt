@@ -1,0 +1,25 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1020 - Amendment by board of directors or shareholders</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1020</font>. <font color=PURPLE><u>Amendment by board of directors or shareholders</u></font></p>
+
+<p>A. A corporation's board of directors may amend or repeal the corporation's bylaws unless either:</p>
+
+<p>1. The articles of incorporation or chapters 1 through 17 of this title reserve this power exclusively to the shareholders in whole or part.</p>
+
+<p>2. The shareholders in amending or repealing a particular bylaw provide expressly that the board of directors may not amend or repeal that bylaw.</p>
+
+<p>B. A corporation's shareholders may amend or repeal the corporation's bylaws even though the bylaws may also be amended or repealed by the board of directors. </p>
+
+</BODY>
+
+</HTML>

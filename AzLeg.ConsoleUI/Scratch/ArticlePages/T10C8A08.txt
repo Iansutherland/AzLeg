@@ -1,0 +1,25 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-808 - Removal of directors by shareholders</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-808</font>. <font color=PURPLE><u>Removal of directors by shareholders</u></font></p>
+
+<p>A. The shareholders may remove one or more directors with or without cause unless the articles of incorporation provide that directors may be removed only for cause.</p>
+
+<p>B. If a director is elected by a voting group of shareholders, only the shareholders of that voting group may participate in the vote to remove the director.</p>
+
+<p>C. If less than the entire board is to be removed, a director shall not be removed if the number of votes sufficient to elect the director under cumulative voting is voted against the director's removal.</p>
+
+<p>D. A director may be removed by the shareholders only at a meeting, and the meeting notice shall state that the purpose or one of the purposes of the meeting is removal of the director. </p>
+
+</BODY>
+
+</HTML>

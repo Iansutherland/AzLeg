@@ -1,0 +1,27 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1328 - Procedure if shareholder dissatisfied with payment or offer</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1328</font>. <font color=PURPLE><u>Procedure if shareholder dissatisfied with payment or offer</u></font></p>
+
+<p>A. A dissenter may notify the corporation in writing of the dissenter's own estimate of the fair value of the dissenter's shares and amount of interest due and either demand payment of the dissenter's estimate, less any payment under section 10-1325, or reject the corporation's offer under section 10-1327 and demand payment of the fair value of the dissenter's shares and interest due, if either:</p>
+
+<p>1. The dissenter believes that the amount paid under section 10-1325 or offered under section 10-1327 is less than the fair value of the dissenter's shares or that the interest due is incorrectly calculated.</p>
+
+<p>2. The corporation fails to make payment under section 10-1325 within sixty days after the date set for demanding payment.</p>
+
+<p>3. The corporation, having failed to take the proposed action, does not return the deposited certificates or does not release the transfer restrictions imposed on uncertificated shares within sixty days after the date set for demanding payment.</p>
+
+<p>B. A dissenter waives the right to demand payment under this section unless the dissenter notifies the corporation of the dissenter's demand in writing under subsection A of this section within thirty days after the corporation made or offered payment for the dissenter's shares. </p>
+
+</BODY>
+
+</HTML>

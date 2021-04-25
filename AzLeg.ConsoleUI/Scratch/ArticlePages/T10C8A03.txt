@@ -1,0 +1,23 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-803 - Number and election of directors</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-803</font>. <font color=PURPLE><u>Number and election of directors</u></font></p>
+
+<p>A. A board of directors shall consist of one or more individuals, with the number specified in or fixed in accordance with the articles of incorporation or bylaws.</p>
+
+<p>B. The articles of incorporation or bylaws may establish a variable range for the size of the board of directors by fixing a minimum and maximum number of directors. If a variable range is established, the number of directors may be fixed or changed from time to time, within the minimum and maximum, by the shareholders or the board of directors.</p>
+
+<p>C. Directors shall be elected at the first annual shareholders' meeting and at each annual meeting thereafter unless their terms are staggered under section 10-806. </p>
+
+</BODY>
+
+</HTML>

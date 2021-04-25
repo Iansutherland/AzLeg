@@ -1,0 +1,33 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-723 - Shares held by nominees</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-723</font>. <font color=PURPLE><u>Shares held by nominees</u></font></p>
+
+<p>A. A corporation may establish a procedure by which the beneficial owner of shares that are registered in the name of a nominee is recognized by the corporation as the shareholder. The extent of this recognition may be determined in the procedure.</p>
+
+<p>B. The procedure may set forth:</p>
+
+<p>1. The types of nominees to which it applies.</p>
+
+<p>2. The rights or privileges that the corporation recognizes in a beneficial owner.</p>
+
+<p>3. The manner in which the procedure is selected by the nominee.</p>
+
+<p>4. The information that must be provided when the procedure is selected.</p>
+
+<p>5. The period for which selection of the procedure is effective.</p>
+
+<p>6. Other aspects of the rights and duties created. </p>
+
+</BODY>
+
+</HTML>

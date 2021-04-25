@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-204 - Actions before incorporation; liability</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-204</font>. <font color=PURPLE><u>Actions before incorporation; liability</u></font></p>
+
+<p>Any person purporting to act as or on behalf of a corporation that knew or should have known that the corporation has not been formed under chapters 1 through 17 of this title is liable for all debts and liabilities incurred by the act. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

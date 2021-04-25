@@ -1,0 +1,23 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3630 - Definitions</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3630</font>. <font color=PURPLE><u>Definitions</u></font></p>
+
+<p>In this article, unless the context otherwise requires:</p>
+
+<p>1. &quot;Derivative proceeding&quot; means a civil suit in the right of a domestic corporation or, to the extent provided in section 10-3637, in the right of a foreign corporation.</p>
+
+<p>2. &quot;Independent person&quot; means a person with no personal interest in the transaction and no personal or other relationship which influences the person. </p>
+
+</BODY>
+
+</HTML>

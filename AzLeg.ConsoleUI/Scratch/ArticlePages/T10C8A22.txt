@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-822 - Notice of meetings</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-822</font>. <font color=PURPLE><u>Notice of meetings</u></font></p>
+
+<p>A. Unless the articles of incorporation or bylaws provide otherwise, regular meetings of the board of directors may be held without notice of the date, time, place or purpose of the meeting.</p>
+
+<p>B. Unless the articles of incorporation or bylaws provide otherwise, special meetings of the board of directors shall be preceded by at least two days' notice of the date, time and place of the meeting. The notice need not describe the purpose of the special meeting unless required by the articles of incorporation or bylaws. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,25 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3706 - Waiver of notice</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3706</font>. <font color=PURPLE><u>Waiver of notice</u></font></p>
+
+<p>A. A member may waive any notice required by chapters 24 through 40 of this title, the articles of incorporation or bylaws before or after the date and time stated in the notice. The waiver shall be in writing, be signed by the member entitled to the notice, and be delivered to the corporation for inclusion in the minutes or filing with the corporate records.</p>
+
+<p>B. A member's attendance at a meeting:</p>
+
+<p>1. Waives objection to lack of notice or defective notice of the meeting, unless the member at the beginning of the meeting objects to holding the meeting or transacting business at the meeting.</p>
+
+<p>2. Waives objection to consideration of a particular matter at the meeting that is not within the purpose or purposes described in the meeting notice, unless the member objects to considering the matter at the time it is presented. </p>
+
+</BODY>
+
+</HTML>

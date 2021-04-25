@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3130 - Powers</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3130</font>. <font color=PURPLE><u>Powers</u></font></p>
+
+<p>The commission has the power and authority reasonably necessary to enable it to administer this title efficiently and to perform the duties imposed on it by this title, including the power and authority to make rules and regulations for those purposes. </p>
+
+</BODY>
+
+</HTML>

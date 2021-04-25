@@ -1,0 +1,25 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1321 - Notice of intent to demand payment</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1321</font>. <font color=PURPLE><u>Notice of intent to demand payment</u></font></p>
+
+<p>A. If proposed corporate action creating dissenters' rights under section 10-1302 is submitted to a vote at a shareholders' meeting, a shareholder who wishes to assert dissenters' rights shall both:</p>
+
+<p>1. Deliver to the corporation before the vote is taken written notice of the shareholder's intent to demand payment for the shareholder's shares if the proposed action is effectuated.</p>
+
+<p>2. Not vote the shares in favor of the proposed action.</p>
+
+<p>B. A shareholder who does not satisfy the requirements of subsection A of this section is not entitled to payment for the shares under this article. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1005 - Amendment before issuance of shares</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1005</font>. <font color=PURPLE><u>Amendment before issuance of shares</u></font></p>
+
+<p>If a corporation has not yet issued shares, an amendment to the articles of incorporation may be adopted by a majority of the members of the board of directors, unless the articles of incorporation require adoption by a greater number of the members of the board of directors. </p>
+
+</BODY>
+
+</HTML>

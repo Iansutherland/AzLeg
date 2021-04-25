@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-806 - Staggered terms for directors</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-806</font>. <font color=PURPLE><u>Staggered terms for directors</u></font></p>
+
+<p>The articles of incorporation may provide for staggering the directors' terms of office by dividing the total number of directors into two, three or, to the extent not inconsistent with cumulative voting rights, more groups, with each group having at least three directors and each group containing as equal a number of directors as is possible. The term of office of the directors in the first group expires at the first annual shareholders' meeting following their election, the term of office of the directors in the second group expires at the second annual shareholders' meeting following their election, and the term of office of the directors in the third or other additional group, if any, expires at the third or other appropriate subsequent annual shareholders' meeting following their election. At each annual shareholders' meeting held after the division of the directors into groups, directors shall be elected to hold office until the second succeeding annual meeting, if there are two groups, until the third succeeding annual meeting, if there are three groups, or until the appropriate succeeding annual meeting, if there are more than three groups. </p>
+
+</BODY>
+
+</HTML>

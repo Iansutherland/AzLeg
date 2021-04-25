@@ -1,0 +1,23 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1509 - Resignation of statutory agent of foreign corporation</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1509</font>. <font color=PURPLE><u>Resignation of statutory agent of foreign corporation</u></font></p>
+
+<p>A. The statutory agent of a foreign corporation may resign the agency appointment by delivering to the commission for filing an original and two copies of a signed statement of resignation. The statement of resignation may include a disclosure that the known place of business of the foreign corporation has changed or has been discontinued. The statutory agent shall give written notification of the resignation to the foreign corporation at its last known address, other than that of the resigning statutory agent.</p>
+
+<p>B. After the receipt and the filing of the statement of resignation, the commission shall mail one copy to the foreign corporation at its known place of business within the state, if not discontinued. The commission shall mail another copy of the statement of resignation to the foreign corporation at its last known office in the jurisdiction of incorporation.</p>
+
+<p>C. The agency appointment is deemed terminated and the known place of business is discontinued, if so provided, on the thirty-first day after the date on which the statement was delivered to the commission for filing. </p>
+
+</BODY>
+
+</HTML>

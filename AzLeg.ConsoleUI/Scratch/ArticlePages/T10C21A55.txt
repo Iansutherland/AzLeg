@@ -1,0 +1,29 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2255 - Loans by members</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2255</font>. <font color=PURPLE><u>Loans by members</u></font></p>
+
+<p>A. Notwithstanding the provisions of any other law, the notes or other interest-bearing obligations of a corporation shall be legal investments for the members of the corporation, subject to the applicable loan limits of subsection B.</p>
+
+<p>B. As required by its loan agreement, a member shall lend funds to the corporation as and when called upon by it to do so, but the total amount in which a corporation may be indebted to a member at any one time shall not exceed:</p>
+
+<p>1. If a bank, two per cent of the total of the bank's capital stock, surplus, capital notes and capital debentures.</p>
+
+<p>2. If a savings and loan association, one per cent of loans outstanding or two hundred fifty thousand dollars, whichever is the lesser.</p>
+
+<p>C. All loan limits shall be established at the thousand dollars nearest to the amount computed on an actual basis. All calls of funds which members are committed to lend to a corporation shall be prorated by the corporation among the members in the same proportion that the lending commitment of each bears to the aggregate lending commitments of all members of the corporation. Upon six months' prior written notice to the corporation of its intention, a member may terminate its loan agreement and after the effective date of withdrawal, the member shall not be obligated to make any loan to the corporation, but shall remain a member so long as the corporation is indebted to it.</p>
+
+<p>D. At no time shall the total obligations of a corporation exceed ten times the amount of its paid-in capital and surplus. </p>
+
+</BODY>
+
+</HTML>

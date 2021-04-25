@@ -1,0 +1,53 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1003 - Amendment by board of directors and shareholders</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1003</font>. <font color=PURPLE><u>Amendment by board of directors and shareholders</u></font></p>
+
+<p>A. The following apply to amendments to the articles of incorporation:</p>
+
+<p>1. A corporation's board of directors may propose one or more amendments to the articles of incorporation for submission to the shareholders.</p>
+
+<p>2. For the amendment to be adopted both:</p>
+
+<p>(a) The board of directors shall recommend the amendment to the shareholders unless the board of directors determines that because of conflict of interest or other special circumstances it should make no recommendation and communicates the basis for that determination to the shareholders with the amendment.</p>
+
+<p>(b) The shareholders entitled to vote on the amendment shall approve the amendment as provided in paragraph 5 of this subsection.</p>
+
+<p>3. The board of directors may condition its submission of the proposed amendment on any basis.</p>
+
+<p>4. The corporation shall notify each shareholder, whether or not entitled to vote, of the proposed shareholders' meeting in accordance with section 10-705. The notice of meeting shall also state that the purpose or one of the purposes of the meeting is to consider the proposed amendment and shall contain or be accompanied by a copy or summary of the amendment.</p>
+
+<p>5. Unless chapters 1 through 17 of this title, the articles of incorporation or the board of directors acting pursuant to paragraph 3 of this subsection requires a greater vote or a vote by voting groups, the amendment to be adopted shall be approved by both:</p>
+
+<p>(a) A majority of the votes entitled to be cast on the amendment by any voting group with respect to which the amendment would create dissenters' rights.</p>
+
+<p>(b) The votes required by sections 10-725 and 10-726 by every other voting group entitled to vote on the amendment.</p>
+
+<p>B. The following apply to amendments to the articles of incorporation:</p>
+
+<p>1. If the articles of incorporation expressly permit, the shareholders may propose amendments to the articles of incorporation. If so permitted, the articles of incorporation shall set forth procedures for adopting shareholder initiated amendments, including the percentage of voting power and method of notice required to propose an amendment and the responsibility for calling a shareholder meeting to consider the amendment.</p>
+
+<p>2. For the amendment to be adopted, both:</p>
+
+<p>(a) The shareholders entitled to vote on the amendment shall approve the amendment as provided in paragraph 3 of this subsection.</p>
+
+<p>(b) The corporation shall notify each shareholder in accordance with subsection A, paragraph 4 of this section.</p>
+
+<p>3. Unless chapters 1 through 17 of this title or the articles of incorporation require a greater vote or a vote by voting groups, the amendment to be adopted shall be approved by both:</p>
+
+<p>(a) A majority of the votes entitled to be cast on the amendment by any voting group with respect to which the amendment would create dissenters' rights.</p>
+
+<p>(b) The votes required by sections 10-725 and 10-726 by every other voting group entitled to vote on the amendment. </p>
+
+</BODY>
+
+</HTML>

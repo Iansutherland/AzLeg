@@ -1,0 +1,33 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3501 - Known place of business and statutory agent</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3501</font>. <font color=PURPLE><u>Known place of business and statutory agent</u></font></p>
+
+<p>Each corporation shall continuously maintain in this state both:</p>
+
+<p>1. A known place of business that may be the address of its statutory agent.</p>
+
+<p>2. A statutory agent who may be either:</p>
+
+<p>(a) An individual who resides in this state.</p>
+
+<p>(b) A domestic business or nonprofit corporation formed under this title.</p>
+
+<p>(c) A foreign business or nonprofit corporation authorized to transact business or conduct affairs in this state.</p>
+
+<p>(d) A limited liability company formed under title 29.</p>
+
+<p>(e) A limited liability company authorized to transact business in this state. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3206 - Bylaws</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3206</font>. <font color=PURPLE><u>Bylaws</u></font></p>
+
+<p>A. The board of directors of a corporation shall adopt initial bylaws for the corporation.</p>
+
+<p>B. The bylaws of a corporation may contain any provision for regulating and managing the affairs of the corporation that is not inconsistent with law or the articles of incorporation. </p>
+
+</BODY>
+
+</HTML>

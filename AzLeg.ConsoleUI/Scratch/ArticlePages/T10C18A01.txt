@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1801 - Law applicable to close corporations</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1801</font>. <font color=PURPLE><u>Law applicable to close corporations</u></font></p>
+
+<p>Close corporations organized pursuant to this article are subject to the provisions of chapters 1 through 17 of this title except insofar as this article modifies or differs from such provisions, in which case this article prevails. This article shall be applicable to all close corporations except insofar as this article otherwise provides. This article shall be construed to simplify the management, structure and operations of close corporations. </p>
+
+</BODY>
+
+</HTML>

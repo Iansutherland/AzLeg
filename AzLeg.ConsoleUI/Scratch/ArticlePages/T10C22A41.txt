@@ -1,0 +1,51 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2441 - Preparation of annual benefit report</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2441.</font> <font color=PURPLE><u>Preparation of annual benefit report</u></font></p>
+
+<p>A. A benefit corporation shall prepare an annual benefit report that includes all of the following:</p>
+
+<p>1. A narrative description of:</p>
+
+<p>(a) The ways in which the benefit corporation pursued general public benefit during the year and the extent to which general public benefit was created.</p>
+
+<p>(b) Both:</p>
+
+<p>(i) The ways in which the benefit corporation pursued a specific public benefit that the articles of incorporation state is the purpose of the benefit corporation to create.</p>
+
+<p>(ii) The extent to which the specific public benefit was created.</p>
+
+<p>(c) Any circumstances that have hindered the benefit corporation in creating general public benefit or a specific public benefit.</p>
+
+<p>(d) The process and rationale for selecting or changing the third-party standard used to prepare the benefit report.</p>
+
+<p>2. An assessment of the overall social and environmental performance of the benefit corporation against a third-party standard that is either of the following:</p>
+
+<p>(a) Applied consistently with any application of that standard in prior benefit reports.</p>
+
+<p>(b) Accompanied by an explanation of the reasons for either of the following:</p>
+
+<p>(i) Any inconsistent application.</p>
+
+<p>(ii) The change to that standard from the one used in the immediately prior report.</p>
+
+<p>3. The compensation paid by the benefit corporation during the year to each director in the capacity of a director.</p>
+
+<p>4. A statement of any connection between the organization that established the third-party standard, or its directors, its officers or any holder of five per cent or more of the governance interests in the organization and the benefit corporation or its directors, its officers or any holder of five per cent or more of the outstanding shares of the benefit corporation, or any other financial or governance relationship that might materially affect the credibility of the use of the third-party standard.</p>
+
+<p>B. Neither the benefit report nor the assessment of the performance of the benefit corporation in the benefit report required by subsection A, paragraph 2 of this section is required to be audited or certified by a third-party standards provider. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

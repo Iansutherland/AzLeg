@@ -1,0 +1,33 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1301 - Definitions</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1301</font>. <font color=PURPLE><u>Definitions</u></font></p>
+
+<p>In this article, unless the context otherwise requires:</p>
+
+<p>1. &quot;Beneficial shareholder&quot; means the person who is a beneficial owner of shares held in a voting trust or by a nominee as the record shareholder.</p>
+
+<p>2. &quot;Corporation&quot; means the issuer of the shares held by a dissenter before the corporate action or the surviving or acquiring corporation by merger or share exchange of that issuer.</p>
+
+<p>3. &quot;Dissenter&quot; means a shareholder who is entitled to dissent from corporate action under section 10-1302 and who exercises that right when and in the manner required by article 2 of this chapter.</p>
+
+<p>4. &quot;Fair value&quot; with respect to a dissenter's shares means the value of the shares immediately before the effectuation of the corporate action to which the dissenter objects, excluding any appreciation or depreciation in anticipation of the corporate action unless exclusion is inequitable.</p>
+
+<p>5. &quot;Interest&quot; means interest from the effective date of the corporate action until the date of payment at the average rate currently paid by the corporation on its principal bank loans or, if none, at a rate that is fair and equitable under the circumstances.</p>
+
+<p>6. &quot;Record shareholder&quot; means the person in whose name shares are registered in the records of a corporation or the beneficial owner of shares to the extent of the rights granted by a nominee certificate on file with a corporation.</p>
+
+<p>7. &quot;Shareholder&quot; means the record shareholder or the beneficial shareholder. </p>
+
+</BODY>
+
+</HTML>

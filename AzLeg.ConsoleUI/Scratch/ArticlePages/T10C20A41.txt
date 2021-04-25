@@ -1,0 +1,27 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2241 - Termination of professional corporation status</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2241</font>. <font color=PURPLE><u>Termination of professional corporation status</u></font></p>
+
+<p>A. If a professional corporation ceases to render professional services or otherwise elects to terminate its professional corporation status, it shall amend its articles of incorporation to:</p>
+
+<p>1. Delete references to rendering professional services, unless as described in section 10-2213 the services may be rendered in the business corporation form.</p>
+
+<p>2. Delete references to it being a professional corporation.</p>
+
+<p>3. Conform its corporation name to the requirements of section 10-401.</p>
+
+<p>B. After the amendment becomes effective, the corporation may continue in existence as a business corporation under chapters 1 through 17 of this title and it is no longer subject to this chapter. </p>
+
+</BODY>
+
+</HTML>

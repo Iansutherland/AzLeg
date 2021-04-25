@@ -1,0 +1,25 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3823 - Waiver of notice</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3823</font>. <font color=PURPLE><u>Waiver of notice</p>
+
+<p></u></font>A. A director may waive any notice required by chapters 24 through 40 of this title, the articles of incorporation or bylaws before or after the date and time stated in the notice. Except as provided in subsection B of this section, the waiver shall be in writing and signed by the director entitled to the notice, or by electronic transmission, and filed with the minutes or corporate records.</p>
+
+<p>B. A director's attendance at or participation in a meeting waives any required notice to the director of the meeting unless the director at the beginning of the meeting or promptly on the director's arrival at the meeting objects to holding the meeting or transacting business at the meeting and does not thereafter vote for or assent to action taken at the meeting.</p>
+
+<p>C. For the purposes of this section, a waiver may be signed using an electronic signature as defined in section 44-7002. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

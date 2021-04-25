@@ -1,0 +1,23 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-603 - Issued and outstanding shares</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-603</font>. <font color=PURPLE><u>Issued and outstanding shares</u></font></p>
+
+<p>A. A corporation may issue the number of shares of each class or series authorized by the articles of incorporation. Shares that are issued are outstanding shares until they are reacquired, redeemed, converted or canceled.</p>
+
+<p>B. The reacquisition, redemption or conversion of outstanding shares is subject to the limitations of subsection C of this section and to section 10-640.</p>
+
+<p>C. At all times that shares of the corporation are outstanding, one or more shares that together have unlimited voting rights and one or more shares that together are entitled to receive the net assets of the corporation on dissolution must be outstanding. </p>
+
+</BODY>
+
+</HTML>

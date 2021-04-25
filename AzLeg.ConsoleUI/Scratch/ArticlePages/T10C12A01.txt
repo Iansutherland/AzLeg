@@ -1,0 +1,27 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1201 - Sale of assets in regular course of business and mortgage of assets</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1201</font>. <font color=PURPLE><u>Sale of assets in regular course of business and mortgage of assets</u></font></p>
+
+<p>A. On the terms and conditions and for the consideration determined by the board of directors, a corporation may:</p>
+
+<p>1. Sell, lease, exchange or otherwise dispose of all or substantially all of its property in the usual and regular course of business.</p>
+
+<p>2. Mortgage, pledge, dedicate to the repayment of indebtedness, whether with or without recourse, or otherwise encumber any or all of its property whether or not in the usual and regular course of business.</p>
+
+<p>3. Transfer any or all of its property to a corporation all the shares of which are owned by the corporation.</p>
+
+<p>B. Unless the articles of incorporation require it, approval by the shareholders of a transaction described in subsection A is not required. </p>
+
+</BODY>
+
+</HTML>

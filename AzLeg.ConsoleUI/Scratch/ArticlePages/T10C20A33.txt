@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2233 - Privileged communications</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2233</font>. <font color=PURPLE><u>Privileged communications</u></font></p>
+
+<p>Nothing in this chapter shall be construed to alter any privilege applicable to communications between an individual rendering professional services and the person receiving the services recognized under any applicable law. The privilege applies to a domestic or foreign professional corporation and to its employees in all situations in which it applies to communications between an individual rendering professional services on behalf of the corporation and the person receiving the services. </p>
+
+</BODY>
+
+</HTML>

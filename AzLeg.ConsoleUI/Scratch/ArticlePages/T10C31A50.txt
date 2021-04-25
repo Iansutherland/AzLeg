@@ -1,0 +1,37 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3850 - Definitions</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3850</font>. <font color=PURPLE><u>Definitions</u></font></p>
+
+<p>In this article, unless the context otherwise requires:</p>
+
+<p>1. &quot;Corporation&quot; includes any domestic or foreign predecessor entity of a corporation in a merger or other transaction in which the predecessor's existence ceased upon consummation of the transaction.</p>
+
+<p>2. &quot;Director&quot; means an individual who is or was a director of a corporation or an individual who, while a director of a corporation, is or was serving at the corporation's request as a director, officer, partner, trustee, employee or agent of another foreign or domestic corporation, partnership, joint venture, trust, employee benefit plan or other entity. A director is considered to be serving an employee benefit plan at the corporation's request if the director's duties to the corporation also impose duties on or otherwise involve services by the director to the plan or to participants in or beneficiaries of the plan. Director includes the estate or personal representative of a director and includes ex officio members of the board.</p>
+
+<p>3. &quot;Expenses&quot; include attorney fees and other costs and expenses reasonably related to a proceeding.</p>
+
+<p>4. &quot;Liability&quot; means the obligation to pay a judgment, settlement, penalty or fine, including an excise tax assessed with respect to an employee benefit plan, or reasonable expenses actually incurred with respect to a proceeding and includes obligations and expenses that have not yet been paid by the indemnified persons but that have been or may be incurred.</p>
+
+<p>5. &quot;Officer&quot; means an individual who is or was an officer of a corporation or an individual who, while an officer of a corporation, is or was serving at the corporation's request as a director, officer, partner, trustee, employee or agent of another foreign or domestic corporation, partnership, joint venture, trust, employee benefit plan or other entity. An officer is considered to be serving an employee benefit plan at the corporation's request if the officer's duties to the corporation also impose duties on or otherwise involve services by the officer to the plan or to participants in or beneficiaries of the plan. Officer includes the estate or personal representative of an officer.</p>
+
+<p>6. &quot;Official capacity&quot; means if used with respect to a director, the office of director in a corporation and, if used with respect to an officer as contemplated in section 10-3856, the office in a corporation held by the officer. Official capacity does not include service for any other foreign or domestic corporation or any partnership, joint venture, trust, employee benefit plan, or other entity.</p>
+
+<p>7. &quot;Outside director&quot; means a director who, when serving as a director, is not or was not a compensated officer, employee or member holding more than ten per cent of the voting power of the corporation or any affiliate of the corporation or an officer, employee or holder of more than ten per cent of the voting power of such a member or any affiliate of that member.</p>
+
+<p>8. &quot;Party&quot; includes an individual who was, is or is threatened to be made a named defendant or respondent in a proceeding.</p>
+
+<p>9. &quot;Proceeding&quot; means any threatened, pending or completed action, suit or proceeding, whether civil, criminal, administrative or investigative and whether formal or informal. </p>
+
+</BODY>
+
+</HTML>

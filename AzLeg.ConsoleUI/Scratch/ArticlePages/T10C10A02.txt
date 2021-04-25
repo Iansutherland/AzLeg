@@ -1,0 +1,31 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1002 - Amendment by board of directors</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1002</font>. <font color=PURPLE><u>Amendment by board of directors</u></font></p>
+
+<p>Unless the articles of incorporation provide otherwise, a corporation's board of directors may adopt one or more amendments to the corporation's articles of incorporation without shareholder action to either:</p>
+
+<p>1. Extend the duration of the corporation if it was incorporated at a time when limited duration was required by law.</p>
+
+<p>2. Delete the names and addresses of the initial directors.</p>
+
+<p>3. Delete the name and address of the initial statutory agent or known place of business, if a statement of change is on file with the commission.</p>
+
+<p>4. Change each issued and unissued authorized share of an outstanding class into a greater number of whole shares if the corporation has only shares of that class outstanding, with all shares of the class being treated identically.</p>
+
+<p>5. Change the corporate name by substituting the word &quot;corporation&quot;, &quot;incorporated&quot;, &quot;company&quot; or &quot;limited&quot; or the abbreviation &quot;corp.&quot;, &quot;inc.&quot;, &quot;co.&quot; or &quot;ltd.&quot; for a similar word or abbreviation in the name or by adding, deleting or changing a geographical attribution for the name.</p>
+
+<p>6. Make any other change expressly permitted by chapters 1 through 17 of this title to be made without shareholder action.  </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,27 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-142 - Number of shareholders</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-142</font>. <font color=PURPLE><u>Number of shareholders</u></font></p>
+
+<p>A. For purposes of chapters 1 through 17 of this title, the following identified as a shareholder in a corporation's current record of shareholders constitutes one shareholder:</p>
+
+<p>1. Three or fewer co-owners.</p>
+
+<p>2. Any corporation, partnership, trust, estate or other entity.</p>
+
+<p>3. The trustees, guardians, custodians or other fiduciaries of a single trust, estate or account.</p>
+
+<p>B. For purposes of chapters 1 through 17 of this title, shareholdings registered in substantially similar names constitute one shareholder if it is reasonable to believe that the names represent the same person. </p>
+
+</BODY>
+
+</HTML>

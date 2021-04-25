@@ -1,0 +1,23 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1841 - Claim for unclaimed shares or dividends</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1841</font>. <font color=PURPLE><u>Claim for unclaimed shares or dividends</u></font></p>
+
+<p>A. A person who is the owner, or the heir, devisee, successor or assign of the owner, of monies or securities acquired by the state pursuant to article XI, section 8, Constitution of Arizona, as unclaimed shares or dividends of a corporation, may file a verified claim for them with the department of administration alleging the nature of the claim and praying that the monies or shares be paid or delivered to him.</p>
+
+<p>B. Claims for monies or securities acquired before June 16, 1941 shall be filed within ten years after that date. Claims for monies or securities thereafter acquired shall be filed within twenty years after the date of acquisition.</p>
+
+<p>C. A claim filed under the provisions of this section shall be accompanied by the certificate of stock upon which it is based, together with a statement signed and sworn to by the person having lawful custody of the books of the corporation, stating that the claimant, or his predecessor in interest, appears on the books as the rightful owner of the stock. If the claimant is the heir, devisee, successor or assign of the owner shown on the books of the corporation, he shall also make satisfactory proof of his claim of ownership. </p>
+
+</BODY>
+
+</HTML>

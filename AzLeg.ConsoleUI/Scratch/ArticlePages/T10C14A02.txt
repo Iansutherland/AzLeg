@@ -1,0 +1,31 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1402 - Dissolution by board of directors and shareholders</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1402</font>. <font color=PURPLE><u>Dissolution by board of directors and shareholders</u></font></p>
+
+<p>A. A corporation's board of directors may propose dissolution for submission to the shareholders.</p>
+
+<p>B. For a proposal to dissolve to be adopted both:</p>
+
+<p>1. The board of directors shall recommend dissolution to the shareholders, unless the board of directors determines that because of conflict of interest or other special circumstances it should make no recommendation and communicates the basis for its determination to the shareholders.</p>
+
+<p>2. The shareholders entitled to vote shall approve the proposal to dissolve as provided in subsection E of this section.</p>
+
+<p>C. The board of directors may condition its submission of the proposal for dissolution on any basis.</p>
+
+<p>D. The corporation shall notify each shareholder, whether or not entitled to vote, of the proposed shareholders' meeting in accordance with section 10-705. The notice shall also state that the purpose or one of the purposes of the meeting is to consider dissolving the corporation.</p>
+
+<p>E. Unless the articles of incorporation or the board of directors acting pursuant to subsection C of this section requires a greater vote or a vote by voting groups, the proposal to dissolve, in order to be adopted, shall be approved by a majority of all of the votes entitled to be cast on that proposal. </p>
+
+</BODY>
+
+</HTML>

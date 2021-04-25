@@ -1,0 +1,29 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3631 - Standing</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3631</font>. <font color=PURPLE><u>Standing</u></font></p>
+
+<p>A. A proceeding may be brought in the right of a domestic corporation to procure a judgment in its favor by either:</p>
+
+<p>1. In the case of a corporation that has members, any member or members having twenty-five per cent or more of the voting power or by fifty members, whichever is less.</p>
+
+<p>2. In the case of a corporation that does not have members, any director or twenty-five per cent of the directors, whichever is greater.</p>
+
+<p>B. In any such proceeding, each complainant shall both:</p>
+
+<p>1. Have been a member or director, as applicable, of the corporation at the time of the act or omission complained of.</p>
+
+<p>2. Fairly and adequately represent the interests of the corporation in enforcing the right of the corporation. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3201 - Incorporators</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3201</font>. <font color=PURPLE><u>Incorporators</u></font></p>
+
+<p>One or more persons may act as the incorporator or incorporators of a corporation by delivering articles of incorporation and a certificate of disclosure to the commission for filing. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3807 - Resignation of directors</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3807</font>. <font color=PURPLE><u>Resignation of directors</u></font></p>
+
+<p>A. A director may resign at any time by delivering written notice to the board of directors, its presiding officer or the corporation.</p>
+
+<p>B. A resignation is effective when the notice is delivered unless the notice specifies a later effective date or event. If a resignation is made effective at a later date, the board may fill the pending vacancy before the effective date if the board provides that the successor does not take office until the effective date. </p>
+
+</BODY>
+
+</HTML>

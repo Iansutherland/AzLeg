@@ -1,0 +1,29 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3810 - Removal of directors by judicial proceeding</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3810</font>. <font color=PURPLE><u>Removal of directors by judicial proceeding</u></font></p>
+
+<p>A. The court in the county where a corporation's known place of business or, if none in this state, its statutory agent is located may remove a director of the corporation from office in a proceeding commenced either by the corporation or by its members holding at least twenty-five per cent of the voting power of any class, if the court finds that both:</p>
+
+<p>1. The director engaged in fraudulent conduct or intentional criminal conduct with respect to the corporation.</p>
+
+<p>2. Removal is in the best interests of the corporation.</p>
+
+<p>B. The court that removes a director may bar the director from serving on the board for a period prescribed by the court, but in no event may the period exceed five years.</p>
+
+<p>C. If members commence a proceeding under subsection A, they shall make the corporation a party defendant, unless the corporation elects to become a party plaintiff.</p>
+
+<p>D. The articles of incorporation or bylaws of a corporation organized for religious purposes may limit or prohibit the application of this section. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,25 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2019 - Annual reports</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2019</font>. <font color=PURPLE><u>Annual reports</u></font></p>
+
+<p>The association shall make an annual report on forms furnished by the corporation commission, containing a general statement of its business during the fiscal year showing:</p>
+
+<p>1. The number of members and amount of membership fees received.</p>
+
+<p>2. The total expense of operations.</p>
+
+<p>3. Its indebtedness or liabilities, and its balance sheets. </p>
+
+</BODY>
+
+</HTML>

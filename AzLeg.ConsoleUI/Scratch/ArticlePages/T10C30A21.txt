@@ -1,0 +1,25 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3721 - Voting entitlement generally</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3721</font>. <font color=PURPLE><u>Voting entitlement generally</u></font></p>
+
+<p>A. Unless the articles of incorporation or bylaws provide otherwise, each member is entitled to one vote on each matter voted on by the members. A member is entitled to vote only on those matters expressly provided in the articles of incorporation or bylaws.</p>
+
+<p>B. Unless the articles of incorporation or bylaws or written agreement signed by the subject members and delivered to the corporation provide otherwise, if a membership stands of record in the names of two or more persons, those persons' acts with respect to voting shall have the following effect:</p>
+
+<p>1. If only one votes, the act binds all.</p>
+
+<p>2. If more than one votes, the vote shall be divided on a pro rata basis. </p>
+
+</BODY>
+
+</HTML>

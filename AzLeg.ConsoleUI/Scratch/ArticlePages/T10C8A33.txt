@@ -1,0 +1,29 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-833 - Liability for unlawful distributions</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-833</font>. <font color=PURPLE><u>Liability for unlawful distributions</u></font></p>
+
+<p>A. A director who votes for or assents to a distribution made in violation of section 10-640 or the articles of incorporation is personally liable to the corporation for the amount of the distribution that exceeds what could have been distributed without violating section 10-640 or the articles of incorporation if it is established that the director's duties were not performed in compliance with section 10-830.</p>
+
+<p>B. A director of a corporation who is present at a meeting of its board of directors at which action on any distribution in violation of section 10-640 is taken is presumed to have assented to the action taken unless his dissent is entered in the minutes of the meeting or unless he files his written dissent to the action with the secretary of the meeting before the adjournment of the meeting or forwards the dissent by registered or certified mail to the secretary of the corporation before 5:00 p.m. of the next business day after the adjournment of the meeting. The right to dissent does not apply to a director who voted in favor of the action.</p>
+
+<p>C. A director who is held liable under subsection A of this section for an unlawful distribution is entitled to contribution from:</p>
+
+<p>1. Every other director who could be held liable under subsection A of this section for the unlawful distribution.</p>
+
+<p>2. Each shareholder for the amount the shareholder accepted knowing the distribution was made in violation of section 10-640 or the articles of incorporation.</p>
+
+<p>D. A proceeding under this section is barred unless it is commenced within four years after the date on which the effect of the distribution was measured under section 10-640, subsection E or G. </p>
+
+</BODY>
+
+</HTML>

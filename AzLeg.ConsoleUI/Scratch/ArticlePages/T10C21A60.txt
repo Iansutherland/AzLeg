@@ -1,0 +1,35 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2260 - Approval of articles of incorporation; incorporation</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2260</font>. <font color=PURPLE><u>Approval of articles of incorporation; incorporation</u></font></p>
+
+<p>A. The articles of incorporation required by this chapter shall be filed with the superintendent of financial institutions. Within sixty days after the receipt of the articles of incorporation, the superintendent shall approve or disapprove the articles of incorporation.</p>
+
+<p>B. If the superintendent disapproves the articles, the superintendent shall promptly give notice of the disapproval to the incorporators, stating in detail the reason for his action. Upon remedying the defect or defects, the incorporators may, in the same manner, refile the articles.</p>
+
+<p>C. If the superintendent finds that the articles of incorporation are in the form prescribed by this chapter or have been made to conform with this chapter, the superintendent shall conduct any investigation deemed necessary to ascertain from the best sources of information available:</p>
+
+<p>1. Whether the name of the proposed corporation is likely to mislead the public as to its character or purposes.</p>
+
+<p>2. Whether the convenience and advantage of the public will be served by the proposed corporation.</p>
+
+<p>3. Whether the economic condition of the area in which the corporation may be expected to do most of its business affords reasonable promise of adequate support for the activities of such corporation.</p>
+
+<p>4. Whether the responsibility, character and general fitness for the business of the incorporators, directors and officers named in the articles are such as to command confidence and to warrant the belief that the business of the proposed corporation will be honestly and efficiently conducted, in accordance with the intent and purpose of this chapter.</p>
+
+<p>D. If the superintendent finds, on the basis of the facts disclosed by the superintendent’s investigation, that the proposed incorporation meets all the requirements of this chapter, the superintendent shall endorse approval on the articles of incorporation and the articles may then be filed with the corporation commission. The corporation commission shall not issue a certificate of incorporation to a business development corporation without the approval by the superintendent endorsed on the articles of incorporation.</p>
+
+<p>E. If the superintendent finds, on the basis of the facts disclosed by the superintendent’s investigation, that the proposed incorporation does not meet all the requirements of this chapter, the superintendent shall disapprove the articles and return them to the incorporators stating in detail the reasons for doing so. </p>
+
+</BODY>
+
+</HTML>

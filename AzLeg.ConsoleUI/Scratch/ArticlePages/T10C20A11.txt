@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2211 - Purposes</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2211</font>. <font color=PURPLE><u>Purposes</u></font></p>
+
+<p>A. Except to the extent authorized by subsection B of this section or the other provisions of this chapter, a corporation may elect professional corporation status under section 10-2210 solely for the purpose of rendering professional services, including services ancillary to them, and solely within a single profession.</p>
+
+<p>B. A corporation may elect professional corporation status under section 10-2210 for the purpose of rendering professional services within two or more categories of professional service, and for the purpose of engaging in any lawful business authorized by section 10-301, unless the combination of professional purposes or of professional and business purposes is expressly prohibited by a licensing law of this state applicable to one or more of the professions in the combination or by a licensing authority with jurisdiction over one or more of the professions in the combination. </p>
+
+</BODY>
+
+</HTML>

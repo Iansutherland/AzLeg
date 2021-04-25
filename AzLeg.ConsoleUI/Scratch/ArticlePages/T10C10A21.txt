@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1021 - Bylaw increasing quorum or voting requirement for shareholders</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1021</font>. <font color=PURPLE><u>Bylaw increasing quorum or voting requirement for shareholders</u></font></p>
+
+<p>A. If authorized by the articles of incorporation, the shareholders may adopt or amend a bylaw that fixes a greater quorum or voting requirement for shareholders, or voting groups of shareholders, than is required by chapters 1 through 17 of this title. The adoption or amendment of a bylaw that adds, changes or deletes a greater quorum or voting requirement for shareholders shall meet the same quorum requirement and shall be adopted by the same vote and voting groups required to take action under the quorum and voting requirement then in effect or proposed to be adopted, whichever is greater.</p>
+
+<p>B. A bylaw that fixes a greater quorum or voting requirement for shareholders under subsection A shall not be adopted, amended or repealed by the board of directors. </p>
+
+</BODY>
+
+</HTML>

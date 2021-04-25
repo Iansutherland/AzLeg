@@ -1,0 +1,29 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3701 - Annual and regular meetings; exceptions</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3701</font>. <font color=PURPLE><u>Annual and regular meetings; exceptions</u></font></p>
+
+<p>A. Unless otherwise provided in the articles of incorporation or bylaws, a corporation with members shall hold a membership meeting annually at a time stated in or fixed in accordance with the bylaws.</p>
+
+<p>B. A corporation with members may hold regular membership meetings at the times stated in or fixed in accordance with the bylaws.</p>
+
+<p>C. A corporation may hold annual and regular membership meetings in or out of this state at the place stated in or fixed in accordance with the bylaws. If no place is stated in or fixed in accordance with the bylaws, the corporation shall hold annual and regular meetings at the corporation's principal office.</p>
+
+<p>D. At regular meetings the members shall consider and act on any matter raised and that is consistent with the notice requirements of section 10-3705.</p>
+
+<p>E. The failure to hold an annual or regular meeting at a time stated in or fixed in accordance with a corporation's bylaws does not affect the validity of any corporate action.</p>
+
+<p>F. Notwithstanding this chapter, a condominium association shall comply with title 33, chapter 9 and a planned community association shall comply with title 33, chapter 16 to the extent that this chapter is inconsistent with title 33, chapters 9 and 16. </p>
+
+</BODY>
+
+</HTML>

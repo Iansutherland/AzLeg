@@ -1,0 +1,31 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2251 - Definitions</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2251</font>. <font color=PURPLE><u>Definitions</u></font></p>
+
+<p>In this chapter, unless the context otherwise requires:</p>
+
+<p>1. &quot;Bank&quot; means any banking corporation or national banking association.</p>
+
+<p>2. &quot;Corporation&quot; means a business development corporation formed under the provisions of this chapter.</p>
+
+<p>3. &quot;Member&quot; means any bank or federal or state savings and loan association authorized to do business within this state which shall undertake to lend money to the corporation upon its call and in accordance with the provisions of this chapter.</p>
+
+<p>4. &quot;Shareholder&quot; means a registered owner of shares in a corporation formed under the provisions of this chapter.</p>
+
+<p>5. &quot;Shares&quot; means units into which the shareholders' rights to participate in the control of a corporation, in its surplus or profits, or in the distribution of its assets, are divided. </p>
+
+<p>6. &quot;Superintendent of financial institutions&quot; means the superintendent of the financial institutions division of the department of insurance and financial institutions. </p>
+
+</BODY>
+
+</HTML>

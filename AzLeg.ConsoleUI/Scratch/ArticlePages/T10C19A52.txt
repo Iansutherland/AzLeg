@@ -1,0 +1,33 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2052 - Purpose</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2052</font>. <font color=PURPLE><u>Purpose</u></font></p>
+
+<p>A. Cooperative nonprofit membership corporations may be organized under this article for any of the following purposes:</p>
+
+<p>1. Supplying, purchasing, marketing, selling, transmitting or distributing electric energy to persons and promoting and extending the use of electric energy.</p>
+
+<p>2. Providing billing, metering, communications and other services related or incidental to supplying, providing or transmitting electric energy, whether or not the cooperative is itself supplying or transmitting that energy.</p>
+
+<p>3. Engaging in activities designed to promote economic development of rural areas as described in section 10-2057.</p>
+
+<p>4. Engaging in activities for any lawful purpose.</p>
+
+<p>5. Directly or through an affiliate, providing broadband service to areas in which the cooperative provides electric energy services.</p>
+
+<p>B. In a rural area where there is no telephone service, a cooperative that is supplying electric energy in the area may enter into a cooperative agreement with the existing holder of a certificate of convenience and necessity for telephone service in the general area to supply telephone service in the same area.</p>
+
+<p>C. Generation and transmission cooperatives as defined in article 4 of this chapter are subject to article 4 of this chapter and not to this article. </p>
+
+</BODY>
+
+</HTML>

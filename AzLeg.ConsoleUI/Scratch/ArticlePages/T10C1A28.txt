@@ -1,0 +1,37 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-128 - Certificate of good standing</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-128</font>. <font color=PURPLE><u>Certificate of good standing</u></font></p>
+
+<p>A. A person may apply to the commission to furnish a certificate of good standing for a domestic or foreign corporation.</p>
+
+<p>B. A certificate of good standing sets forth all of the following:</p>
+
+<p>1. The domestic corporation's corporate name or the foreign corporation's corporate name used in this state.</p>
+
+<p>2. That either:</p>
+
+<p>(a) The domestic corporation is incorporated under the laws of this state and the date of its incorporation.</p>
+
+<p>(b) The foreign corporation is authorized to transact business in this state.</p>
+
+<p>3. That all affidavits and annual reports required before the date of the certificate have been filed with the commission.</p>
+
+<p>4. That all annual filing fees due before the date of the certificate have been paid.</p>
+
+<p>5. That, according to the records of the commission, the corporation is in good standing in this state.</p>
+
+<p>C. Subject to any qualification stated in the certificate, a certificate of good standing issued by the commission may be relied on as conclusive evidence of the matters stated in the certificate. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,37 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-625 - Form and content of certificates</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-625</font>. <font color=PURPLE><u>Form and content of certificates</u></font></p>
+
+<p>A. Shares may but need not be represented by certificates. Unless chapters 1 through 17 of this title or another statute expressly provides otherwise, the rights and obligations of shareholders are identical whether or not their shares are represented by certificates. A certificate shall not be issued for any share until such share is fully paid.</p>
+
+<p>B. At a minimum each share certificate shall state on its face all of the following:</p>
+
+<p>1. The name of the issuing corporation and that it is organized under the laws of this state.</p>
+
+<p>2. The name of the person to whom issued.</p>
+
+<p>3. The number and class of shares and the designation of the series, if any, the certificate represents.</p>
+
+<p>C. If the issuing corporation is authorized to issue different classes of shares or different series within a class, the designations, relative rights, preferences and limitations applicable to each class and the variations in rights, preferences and limitations determined for each series, and the authority of the board of directors to determine variations for future series, shall be summarized on the front or back of each certificate. Alternatively, each certificate may state conspicuously on its front or back that the corporation will furnish this information to the shareholder on request in writing and without charge.</p>
+
+<p>D. Each share certificate:</p>
+
+<p>1. Shall be signed either manually or in facsimile by one or more officers designated in the bylaws or by the board of directors.</p>
+
+<p>2. May bear the corporate seal or its facsimile.</p>
+
+<p>E. If the person who signed either manually or in facsimile a share certificate no longer holds office when the certificate is issued, the certificate is nevertheless valid. </p>
+
+</BODY>
+
+</HTML>

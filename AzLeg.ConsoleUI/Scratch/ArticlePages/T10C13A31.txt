@@ -1,0 +1,29 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1331 - Court costs and attorney fees</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1331</font>. <font color=PURPLE><u>Court costs and attorney fees</u></font></p>
+
+<p>A. The court in an appraisal proceeding commenced under section 10-1330 shall determine all costs of the proceeding, including the reasonable compensation and expenses of any master appointed by the court. The court shall assess the costs against the corporation, except that the court shall assess costs against all or some of the dissenters to the extent the court finds that the fair value does not materially exceed the amount offered by the corporation pursuant to sections 10-1325 and 10-1327 or that the dissenters acted arbitrarily, vexatiously or not in good faith in demanding payment under section 10-1328.</p>
+
+<p>B. The court may also assess the fees and expenses of attorneys and experts for the respective parties in amounts the court finds equitable either:</p>
+
+<p>1. Against the corporation and in favor of any or all dissenters if the court finds that the corporation did not substantially comply with the requirements of article 2 of this chapter.</p>
+
+<p>2. Against the dissenter and in favor of the corporation if the court finds that the fair value does not materially exceed the amount offered by the corporation pursuant to sections 10-1325 and 10-1327.</p>
+
+<p>3. Against either the corporation or a dissenter in favor of any other party if the court finds that the party against whom the fees and expenses are assessed acted arbitrarily, vexatiously or not in good faith with respect to the rights provided by this chapter.</p>
+
+<p>C. If the court finds that the services of an attorney for any dissenter were of substantial benefit to other dissenters similarly situated and that the fees for those services should not be assessed against the corporation, the court may award to these attorneys reasonable fees to be paid out of the amounts awarded the dissenters who were benefitted. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,35 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2201 - Definitions</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2201</font>. <font color=PURPLE><u>Definitions</u></font></p>
+
+<p>In this chapter, unless the context otherwise requires:</p>
+
+<p>1. &quot;Disqualified person&quot; means an individual or entity that is not or ceases to be a qualified person.</p>
+
+<p>2. &quot;Foreign professional corporation&quot; means a corporation or association for profit incorporated for the purpose of rendering professional services under a law other than the law of this state.</p>
+
+<p>3. &quot;License&quot; or &quot;licensed&quot; means any license, authorization, certificate, registration, certificate of registration, membership or other evidence of the satisfaction of the requirements of this state for the practice of a professional service.</p>
+
+<p>4. &quot;Licensing authority&quot; means the officer, board, agency, court or other authority in this state empowered by law to license or otherwise authorize the rendition of a professional service.</p>
+
+<p>5. &quot;Professional corporation&quot; or &quot;domestic professional corporation&quot; means a corporation for profit that is not a foreign professional corporation and that is incorporated under or subject to this chapter.</p>
+
+<p>6. &quot;Professional service&quot; means a service that may be lawfully rendered only by a person licensed or otherwise authorized by a licensing authority in this state to render the service.</p>
+
+<p>7. &quot;Qualified person&quot; means a person that is eligible under this chapter to be issued shares by a professional corporation.</p>
+
+<p>8. &quot;Voting shares&quot; means shares entitled to vote for election of directors of the professional corporation. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,25 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-746 - Payment of expenses</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-746</font>. <font color=PURPLE><u>Payment of expenses</u></font></p>
+
+<p>On termination of the derivative proceeding the court may either:</p>
+
+<p>1. Order the corporation to pay the plaintiff's reasonable expenses, including attorney fees, incurred in the proceeding if it finds that the proceeding has resulted in a substantial benefit to the corporation.</p>
+
+<p>2. Order the plaintiff to pay any defendant's reasonable expenses, including attorney fees, incurred in defending the proceeding if it finds that the proceeding was commenced or maintained without reasonable cause or for an improper purpose.</p>
+
+<p>3. Order a party to pay an opposing party's reasonable expenses, including attorney fees, incurred because of the filing of any pleading, motion or other paper, if it finds that the pleading, motion or other paper was not well grounded in fact, after reasonable inquiry, or warranted by existing law or a good faith argument for the extension, modification or reversal of existing law and was interposed for an improper purpose, such as to harass or to cause unnecessary delay or needless increase in the cost of litigation. </p>
+
+</BODY>
+
+</HTML>

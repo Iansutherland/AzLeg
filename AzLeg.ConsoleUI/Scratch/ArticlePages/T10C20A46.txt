@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2246 - Revocation of certificate of authority</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2246</font>. <font color=PURPLE><u>Revocation of certificate of authority</u></font></p>
+
+<p>Pursuant to chapter 15, article 3 of this title, the commission may administratively revoke the authority of a foreign professional corporation to transact business in this state if a licensing authority with jurisdiction over a professional service described in the corporation's articles of incorporation certifies to the commission that the corporation has violated or is violating a provision of this chapter and describes the violation in the certificate. </p>
+
+</BODY>
+
+</HTML>

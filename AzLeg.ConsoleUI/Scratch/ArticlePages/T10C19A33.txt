@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2133 - Nonprofit operation</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2133</font>. <font color=PURPLE><u>Nonprofit operation</u></font></p>
+
+<p>A generation and transmission cooperative shall be operated on a nonprofit basis for the mutual benefit of its members and patrons. The bylaws of a generation and transmission cooperative or its contracts with consumers shall contain such provisions relative to the disposition of revenues and receipts as are necessary and appropriate to establish and maintain its nonprofit and cooperative character. </p>
+
+</BODY>
+
+</HTML>

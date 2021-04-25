@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1326 - Failure to take action</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1326</font>. <font color=PURPLE><u>Failure to take action</u></font></p>
+
+<p>A. If the corporation does not take the proposed action within sixty days after the date set for demanding payment and depositing share certificates, the corporation shall return the deposited certificates and release the transfer restrictions imposed on uncertificated shares.</p>
+
+<p>B. If after returning deposited certificates and releasing transfer restrictions, the corporation takes the proposed action, it shall send a new dissenters' notice under section 10-1322 and shall repeat the payment demand procedure. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,29 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-631 - Corporation's acquisition of its own shares</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-631</font>. <font color=PURPLE><u>Corporation's acquisition of its own shares</u></font></p>
+
+<p>A. A corporation may acquire its own shares, and shares so acquired constitute authorized but unissued shares.</p>
+
+<p>B. If the articles of incorporation prohibit the reissue of acquired shares, the number of authorized shares is reduced by the number of shares acquired, effective on amendment of the articles of incorporation.</p>
+
+<p>C. The board of directors may adopt a statement that is entitled &quot;statement pursuant to section 10-631&quot;, that constitutes an amendment to the articles of incorporation, that is effective as provided in section 10-123 and that is effective without shareholder action. The statement must set forth all of the following:</p>
+
+<p>1. The name of the corporation.</p>
+
+<p>2. The reduction in the number of authorized shares, itemized by class and series.</p>
+
+<p>3. The total number of authorized shares, itemized by class and series, remaining after reduction of the shares. </p>
+
+</BODY>
+
+</HTML>

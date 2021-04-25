@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-802 - Qualification of directors</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-802</font>. <font color=PURPLE><u>Qualification of directors</u></font></p>
+
+<p>The articles of incorporation or bylaws may prescribe qualifications for directors. A director need not be a resident of this state or a shareholder of the corporation unless the articles of incorporation or bylaws so prescribe. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,23 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-741 - Standing</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-741</font>. <font color=PURPLE><u>Standing</u></font></p>
+
+<p>A shareholder may not commence or maintain a derivative proceeding unless the shareholder both:</p>
+
+<p>1. Was a shareholder of the corporation at the time of the act or omission complained of or became a shareholder through transfer by operation of law from one who was a shareholder at that time.</p>
+
+<p>2. Fairly and adequately represents the interests of the corporation in enforcing the right of the corporation. </p>
+
+</BODY>
+
+</HTML>

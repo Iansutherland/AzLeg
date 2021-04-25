@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2146 - Exemption from securities regulations</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2146</font>. <font color=PURPLE><u>Exemption from securities regulations</u></font></p>
+
+<p>The provisions of title 44, chapter 12 do not apply to any note, bond or other evidence of indebtedness issued by a generation and transmission cooperative doing business in this state pursuant to this article, to the United States or any agency or instrumentality of the United States or to any mortgage, deed of trust or other instrument executed to secure the note, bond or other evidence of indebtedness, and such provisions do not apply to the issuance of membership certificates or other evidence of member interest by a generation and transmission cooperative. </p>
+
+</BODY>
+
+</HTML>

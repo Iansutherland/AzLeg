@@ -1,0 +1,43 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1420 - Grounds for administrative dissolution</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1420</font>. <font color=PURPLE><u>Grounds for administrative dissolution</u></font></p>
+
+<p>The commission may commence a proceeding under section 10-1421 to administratively dissolve a corporation if either:</p>
+
+<p>1. The corporation does not pay within sixty days after they are due any fees or penalties imposed by chapters 1 through 17 of this title.</p>
+
+<p>2. The corporation does not deliver its annual report to the commission within sixty days after it is due.</p>
+
+<p>3. The corporation is without a statutory agent or known place of business in this state for sixty days or more.</p>
+
+<p>4. The corporation does not notify the commission within sixty days that its statutory agent or known place of business has been changed, that its statutory agent has resigned or that its principal office has been discontinued.</p>
+
+<p>5. The corporation has failed to make any publication required by this title, provided the commission has notified the corporation of the intent of the commission to commence a dissolution proceeding for that reason and the corporation has failed to file an affidavit of publication or other appropriate evidence of publication within sixty days after that notice.</p>
+
+<p>6. The corporation's period of duration stated in its articles of incorporation expires.</p>
+
+<p>7. The corporation has failed to comply with section 10-202, subsection F.</p>
+
+<p>8. Any officer or other representative of the corporation has made any misrepresentation of a material matter in any application, report or other document submitted by the corporation pursuant to chapters 1 through 17 of this title.</p>
+
+<p>9. The corporation has failed to comply with section 10-1403, subsection D or E, or the commission has not received the notice required by section 10-1403, subsection C, within six months after filing articles of dissolution.</p>
+
+<p>10. The corporation has failed to file a certificate of disclosure or answer interrogatories as prescribed in chapters 1 through 17 of this title.</p>
+
+<p>11. The corporation failed to comply with section 10-1623, subsection&nbsp;A. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

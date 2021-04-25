@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1001 - Authority to amend</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1001</font>. <font color=PURPLE><u>Authority to amend</u></font></p>
+
+<p>A. A corporation may amend its articles of incorporation at any time to add or change a provision that is required or permitted in the articles of incorporation or to delete a provision that is not required in the articles of incorporation. Whether a provision is required or permitted in the articles of incorporation is determined as of the effective date of the amendment.</p>
+
+<p>B. A shareholder of the corporation does not have a vested property right resulting from any provision in the articles of incorporation, including provisions relating to management, control, capital structure, dividend entitlement or purpose or duration of the corporation. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3633 - Stay of proceedings</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3633</font>. <font color=PURPLE><u>Stay of proceedings</u></font></p>
+
+<p>If the corporation commences an inquiry into the allegations made in the demand or complaint, the court may stay any derivative proceeding for such period as the court deems appropriate. </p>
+
+</BODY>
+
+</HTML>

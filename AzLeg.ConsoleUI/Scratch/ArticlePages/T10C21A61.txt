@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2261 - Authorization to commence business</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2261</font>. <font color=PURPLE><u>Authorization to commence business</u></font></p>
+
+<p>A corporation formed under this chapter shall not begin the transaction of any business, except such as is incident to its organization or to the obtaining of members of subscriptions to or payment for its shares, until it certifies to the superintendent of financial institutions that there has been paid into the corporate treasury a minimum of one hundred thousand dollars from the sale at par value of the capital stock of the corporation. </p>
+
+</BODY>
+
+</HTML>

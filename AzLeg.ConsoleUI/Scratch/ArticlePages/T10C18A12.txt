@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1812 - Variable relative rights</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1812</font>. <font color=PURPLE><u>Variable relative rights</u></font></p>
+
+<p>The articles of incorporation may provide for varying relationships among investors as to relative rights in capital units. It is not necessary that each close corporation provide in its articles of incorporation for variable relative rights of capital units as enumerated in this section. Only those variable relative rights of capital units set forth in the articles of incorporation shall apply to the particular close corporation. When no provision is made in the articles of incorporation concerning a particular relative right of capital units, then that particular relative right of capital units shall be proportionate to the dollar amount of the capital units. </p>
+
+</BODY>
+
+</HTML>

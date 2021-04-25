@@ -1,0 +1,31 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3845 - Officers' authority to execute documents</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3845</font>. <font color=PURPLE><u>Officers' authority to execute documents</u></font></p>
+
+<p>Any contract or other instrument in writing executed or entered into between a corporation and any other person is not invalidated as to the corporation by any lack of authority of the signing officers in the absence of actual knowledge on the part of the other person that the signing officers had no authority to execute the contract or other instrument if it is signed by two individuals who are either:</p>
+
+<p>1. Both the presiding officer of the board of directors and the president.</p>
+
+<p>2. Either the presiding officer of the board of directors or the president, and one of the following:</p>
+
+<p>(a) A vice-president.</p>
+
+<p>(b) The secretary.</p>
+
+<p>(c) The treasurer.</p>
+
+<p>(d) The executive director. </p>
+
+</BODY>
+
+</HTML>

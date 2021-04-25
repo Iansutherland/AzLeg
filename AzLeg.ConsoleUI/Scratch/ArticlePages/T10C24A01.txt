@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3101 - Short title</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3101</font>. <font color=PURPLE><u>Short title</u></font></p>
+
+<p>Chapters 24 through 40 shall be known and may be cited as the Arizona nonprofit corporation act. </p>
+
+</BODY>
+
+</HTML>

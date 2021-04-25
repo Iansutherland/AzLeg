@@ -1,0 +1,23 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1505 - Effect of grant of authority</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1505</font>. <font color=PURPLE><u>Effect of grant of authority</u></font></p>
+
+<p>A. A grant of authority to transact business authorizes the foreign corporation to transact business in this state subject to the right of this state to revoke the grant of authority as provided in chapters 1 through 17 of this title.</p>
+
+<p>B. A foreign corporation with a valid grant of authority has the same but no greater rights and has the same but no greater privileges as and except as otherwise provided by chapters 1 through 17 of this title and is subject to the same duties, restrictions, penalties and liabilities now or later imposed on a domestic corporation of like character.</p>
+
+<p>C. Chapters 1 through 17 of this title do not authorize this state to regulate the organization or internal affairs of a foreign corporation authorized to transact business in this state. </p>
+
+</BODY>
+
+</HTML>

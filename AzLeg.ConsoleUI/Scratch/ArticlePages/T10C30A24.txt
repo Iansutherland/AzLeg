@@ -1,0 +1,49 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3724 - Proxies</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3724</font>. <font color=PURPLE><u>Proxies</u></font></p>
+
+<p>A. A member may vote the member's votes in person or by proxy.</p>
+
+<p>B. Unless the articles of incorporation or bylaws prohibit or limit proxy voting, a member may appoint a proxy to vote or otherwise act for the member by signing an appointment form, either personally or by the member's attorney-in-fact.</p>
+
+<p>C. An appointment of a proxy is effective on receipt by the secretary or other officer or agent authorized to tabulate votes. An appointment is valid for eleven months unless a different period is expressly provided in the appointment form.</p>
+
+<p>D. An appointment of a proxy is revocable by the member unless the appointment form conspicuously states that it is irrevocable and the appointment is coupled with an interest. Appointments coupled with an interest include the appointment of any of the following:</p>
+
+<p>1. A pledgee.</p>
+
+<p>2. A person who purchased, agreed to purchase, holds an option to purchase or holds any other right to acquire the membership interest.</p>
+
+<p>3. A creditor of the corporation who extended or continued credit to the corporation under terms requiring the appointment.</p>
+
+<p>4. An employee of the corporation whose employment contract requires the appointment.</p>
+
+<p>5. A party to a voting agreement created pursuant to section 10-3731.</p>
+
+<p>E. The death or incapacity of the member who appoints a proxy does not affect the right of the corporation to accept the proxy's authority unless the secretary or other officer or agent authorized to tabulate votes receives written notice of the death or incapacity before the proxy exercises authority under the appointment.</p>
+
+<p>F. Appointment of a proxy is revoked by the person who appoints the proxy by either:</p>
+
+<p>1. Attending any meeting and voting in person.</p>
+
+<p>2. Signing and delivering to the secretary or other officer or agent authorized to tabulate proxy votes either a writing stating that the appointment of the proxy is revoked or a subsequent appointment form.</p>
+
+<p>G. An appointment made irrevocable under subsection D of this section is revoked if the interest with which it is coupled is extinguished.</p>
+
+<p>H. A transferee for value of a membership interest subject to an irrevocable appointment may revoke the appointment if the transferee did not know of its existence at the time that the transferee acquired the membership interest and the existence of the irrevocable appointment was not noted conspicuously on the transfer documents.</p>
+
+<p>I. Subject to section 10-3727 and to any express limitation on the proxy's authority that appears on the face of the appointment form, a corporation may accept the proxy's vote or other action as that of the member making the appointment. </p>
+
+</BODY>
+
+</HTML>

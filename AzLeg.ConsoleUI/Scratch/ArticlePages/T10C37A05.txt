@@ -1,0 +1,51 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-11405 - Effect of dissolution</TITLE>
+<!Creation Date: 08/11/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-11405</font>. <font color=PURPLE><u>Effect of dissolution</u></font></p>
+
+<p>A. A dissolved corporation continues its corporate existence but shall not carry on any activities except that activity appropriate to wind up and liquidate its affairs, including:</p>
+
+<p>1. Preserving and protecting its assets and minimizing its liabilities.</p>
+
+<p>2. Discharging or making provision for discharging its liabilities and obligations.</p>
+
+<p>3. Disposing of its properties that will not be distributed in kind.</p>
+
+<p>4. Returning, transferring or conveying assets held by the corporation on a condition requiring return, transfer or conveyance, which condition occurs by reason of the dissolution, in accordance with such condition.</p>
+
+<p>5. Transferring, subject to any contractual or legal requirements, its assets as provided in or authorized by its articles of incorporation or bylaws.</p>
+
+<p>6. If no provision has been made in its articles of incorporation or bylaws for distribution of assets on dissolution and the corporation is organized for charitable, religious, eleemosynary, benevolent, educational or similar purposes, to one or more domestic or foreign corporations, societies or organizations engaged in activities substantially similar to those of the dissolving corporation.</p>
+
+<p>7. If no provision has been made in its articles of incorporation or bylaws for distribution of assets on dissolution, transferring its assets to its members or, if it has no members, to those persons whom the corporation holds itself out as benefitting or serving.</p>
+
+<p>8. Doing every other act necessary to wind up and liquidate its assets and affairs.</p>
+
+<p>B. Dissolution of a corporation does not:</p>
+
+<p>1. Transfer title to the corporation's property, except as provided in section 10-11421.</p>
+
+<p>2. Subject its directors or officers to standards of conduct that are different from those prescribed in chapter 31 of this title.</p>
+
+<p>3. Change quorum or voting requirements for its board of directors or members, change provisions for selection, resignation or removal of its directors or officers, or both, or change provisions for amending its bylaws.</p>
+
+<p>4. Prevent commencement of a proceeding by or against the corporation in its corporate name or any officers, directors or members or affect applicable statutes of limitations.</p>
+
+<p>5. Abate or suspend a proceeding pending by or against the corporation or any officers, directors or members on the effective date of dissolution.</p>
+
+<p>6. Terminate the authority of the statutory agent of the corporation.</p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

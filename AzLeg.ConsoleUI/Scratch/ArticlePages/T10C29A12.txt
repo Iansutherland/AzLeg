@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3612 - Member's liability to third parties</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3612</font>. <font color=PURPLE><u>Member's liability to third parties</u></font></p>
+
+<p>A member of a corporation is not personally liable for the acts, debts, liabilities or obligations of the corporation. </p>
+
+</BODY>
+
+</HTML>

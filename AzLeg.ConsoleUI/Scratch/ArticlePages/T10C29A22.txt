@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3622 - Purchase of memberships</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3622</font>. <font color=PURPLE><u>Purchase of memberships</u></font></p>
+
+<p>Except as provided in the articles of incorporation or bylaws, a corporation may purchase the membership of a member who resigns or whose membership is terminated for the amount and pursuant to the conditions set forth in or authorized by its articles of incorporation or bylaws. A corporation shall not make a payment that violates section 10-11301 or 10-11302. </p>
+
+</BODY>
+
+</HTML>

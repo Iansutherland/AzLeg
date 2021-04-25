@@ -1,0 +1,37 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-602 - Terms of class or series determined by board of directors</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-602</font>. <font color=PURPLE><u>Terms of class or series determined by board of directors</u></font></p>
+
+<p>A. If the articles of incorporation so provide, the board of directors may determine, in whole or in part, the preferences, limitations and relative rights, within the limits set forth in section 10-601, of either:</p>
+
+<p>1. Any class of shares before the issuance of any shares of that class.</p>
+
+<p>2. One or more series within a class before the issuance of any shares of that series.</p>
+
+<p>B. Each series of a class shall be given a distinguishing designation.</p>
+
+<p>C. Unless otherwise expressly permitted by chapters 1 through 17 of this title, all shares of a series shall have preferences, limitations and relative rights identical to those of other shares of the same series and, except to the extent otherwise provided in the description of the series, with those of other series of the same class.</p>
+
+<p>D. Before issuing any shares of a class or series created under this section, the corporation shall deliver to the commission for filing a statement entitled &quot;statement pursuant to section 10-602&quot;, which constitutes an amendment to the articles of incorporation and which is effective as provided in section 10-123 and without shareholder action, that sets forth all of the following:</p>
+
+<p>1. The name of the corporation.</p>
+
+<p>2. The text of the resolution determining the terms of the class or series of shares.</p>
+
+<p>3. The date it was adopted.</p>
+
+<p>4. A statement that the resolution was duly adopted by the board of directors. </p>
+
+</BODY>
+
+</HTML>

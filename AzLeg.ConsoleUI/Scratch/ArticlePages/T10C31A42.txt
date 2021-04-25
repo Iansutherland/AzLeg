@@ -1,0 +1,37 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3842 - Standards of conduct for officers</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3842</font>. <font color=PURPLE><u>Standards of conduct for officers</u></font></p>
+
+<p>A. If an officer has discretionary authority with respect to any duties, an officer's duties shall be discharged under that authority:</p>
+
+<p>1. In good faith.</p>
+
+<p>2. With the care an ordinarily prudent person in a like position would exercise under similar circumstances.</p>
+
+<p>3. In a manner the officer reasonably believes to be in the best interests of the corporation.</p>
+
+<p>B. In discharging duties, an officer is entitled to rely on information, opinions, reports or statements, including financial statements and other financial data, if prepared or presented by either:</p>
+
+<p>1. One or more officers or employees of the corporation whom the officer reasonably believes to be reliable and competent in the matters presented.</p>
+
+<p>2. Legal counsel, public accountants or other persons as to matters the officer reasonably believes are within the person's professional or expert competence.</p>
+
+<p>3. In the case of corporations organized for religious purposes, religious authorities and ministers, priests, rabbis or other persons whose position or duties in the religious organization the officer believes justify reliance and confidence and who the officer believes to be reliable and competent in the matters presented.</p>
+
+<p>C. An officer is not acting in good faith if the officer has knowledge concerning the matter in question that makes reliance otherwise permitted by subsection B unwarranted.</p>
+
+<p>D. An officer is not liable for any action taken as an officer or any failure to take any action if the officer's duties were performed in compliance with this section. In any proceeding commenced under this section or any other provision of this chapter, an officer has all of the defenses and presumptions ordinarily available to an officer. An officer is presumed in all cases to have acted, failed to act or otherwise discharged such officer's duties in accordance with subsection A. The burden is on the party challenging an officer's action, failure to act or other discharge of duties to establish by clear and convincing evidence facts rebutting the presumption. </p>
+
+</BODY>
+
+</HTML>

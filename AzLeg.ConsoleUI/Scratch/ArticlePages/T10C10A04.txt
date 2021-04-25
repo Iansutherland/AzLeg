@@ -1,0 +1,43 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1004 - Voting on amendments by voting groups</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1004</font>. <font color=PURPLE><u>Voting on amendments by voting groups</u></font></p>
+
+<p>A. The holders of the outstanding shares of a class are entitled to vote as a separate voting group, if shareholder voting is otherwise required by chapters 1 through 17 of this title, on a proposed amendment if the amendment would either:</p>
+
+<p>1. Increase or decrease the aggregate number of authorized shares of the class.</p>
+
+<p>2. Effect an exchange or reclassification of all or part of the shares of the class into shares of another class.</p>
+
+<p>3. Effect an exchange or reclassification, or create the right of exchange of all or part of the shares of another class into shares of the class.</p>
+
+<p>4. Change the designations, rights, obligations, preferences or limitations of all or part of the shares of the class.</p>
+
+<p>5. Change the shares of all or part of the class into a different number of shares of the same class.</p>
+
+<p>6. Create a new class of shares having rights or preferences with respect to distributions or to dissolution that are prior, superior or substantially equal to the shares of the class.</p>
+
+<p>7. Increase rights, preferences or number of authorized shares of any class that, after giving effect to the amendment, have rights or preferences with respect to distributions or to dissolution that are prior, superior or substantially equal to the shares of the class.</p>
+
+<p>8. Limit or deny an existing preemptive right of all or part of the class.</p>
+
+<p>9. Cancel or otherwise affect rights to distributions or dividends that have accumulated but have not yet been declared on all or part of the shares of the class.</p>
+
+<p>B. If a proposed amendment would affect a series of a class of shares in one or more of the ways described in subsection A, the shares of that series are entitled to vote as a separate voting group on the proposed amendment.</p>
+
+<p>C. If a proposed amendment that entitles two or more series of shares to vote as separate voting groups under this section would affect those two or more series in the same or a substantially similar way, the shares of all of the series so affected must vote together as a single voting group on the proposed amendment.</p>
+
+<p>D. A class or series of shares is entitled to the voting rights granted by this section although the articles of incorporation provide that the shares are nonvoting shares. </p>
+
+</BODY>
+
+</HTML>

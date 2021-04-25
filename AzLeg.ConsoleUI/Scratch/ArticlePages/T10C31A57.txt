@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3857 - Insurance</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3857</font>. <font color=PURPLE><u>Insurance</u></font></p>
+
+<p>A corporation may purchase and maintain insurance on behalf of an individual who is or was a director or officer of the corporation or who, while a director or officer of the corporation, is or was serving at the request of the corporation as a director, officer, partner, trustee, employee or agent of another foreign or domestic corporation, partnership, joint venture, trust, employee benefit plan or other entity, against liability asserted against or incurred by the individual in that capacity or arising from the individual's status as a director or officer, whether or not the corporation would have power to indemnify or advance expenses to the person against the same liability under this article. </p>
+
+</BODY>
+
+</HTML>

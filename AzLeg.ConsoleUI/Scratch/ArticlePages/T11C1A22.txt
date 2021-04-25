@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>11-122 - Survey of boundary</TITLE>
+<!Creation Date: 08/11/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>11-122</font>. <font color=PURPLE><u>Survey of boundary</u></font></p>
+
+<p>At any time before the final hearing of the action, the court may order a survey to be made of the disputed boundary line by the state engineer or by such other surveyor as it designates, and it may direct maps and drawings of the survey to be made, the expense to be borne by the two counties equally, or in such proportion as the court directs. The court may direct a further survey to be made if necessary. </p>
+
+</BODY>
+
+</HTML>

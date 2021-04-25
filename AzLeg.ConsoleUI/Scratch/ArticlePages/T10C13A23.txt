@@ -1,0 +1,23 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1323 - Duty to demand payment</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1323</font>. <font color=PURPLE><u>Duty to demand payment</u></font></p>
+
+<p>A. A shareholder sent a dissenters' notice described in section 10-1322 shall demand payment, certify whether the shareholder acquired beneficial ownership of the shares before the date required to be set forth in the dissenters' notice pursuant to section 10-1322, subsection B, paragraph 3 and deposit the shareholder's certificates in accordance with the terms of the notice.</p>
+
+<p>B. A shareholder who demands payment and deposits the shareholder's certificates under subsection A of this section retains all other rights of a shareholder until these rights are canceled or modified by the taking of the proposed corporate action.</p>
+
+<p>C. A shareholder who does not demand payment or does not deposit the shareholder's certificates if required, each by the date set in the dissenters' notice, is not entitled to payment for the shareholder's shares under this article. </p>
+
+</BODY>
+
+</HTML>

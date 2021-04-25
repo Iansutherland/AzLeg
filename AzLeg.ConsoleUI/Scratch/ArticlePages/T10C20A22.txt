@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2222 - Share transfer restriction</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2222</font>. <font color=PURPLE><u>Share transfer restriction</u></font></p>
+
+<p>A. Voting shares, fractional voting shares and rights or options to purchase voting shares of a professional corporation that are held by persons described in section 10-2220, subsection A, paragraphs 1, 2 and 3 may be transferred or pledged, whether voluntarily, involuntarily, by operation of law or by court judgment or otherwise, only to those persons. Voting shares, fractional voting shares and rights or options to purchase voting shares of a professional corporation that are held by persons described in section 10-2220, subsection A, paragraph 4 may be transferred or pledged, whether voluntarily, involuntarily, by operation of law or by court judgment or otherwise, only to persons qualified under section 10-2220 to be issued voting shares.</p>
+
+<p>B. A transfer or pledge made in violation of subsection A of this section is void. </p>
+
+</BODY>
+
+</HTML>

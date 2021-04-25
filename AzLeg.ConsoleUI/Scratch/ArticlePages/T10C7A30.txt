@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-730 - Voting trusts</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-730</font>. <font color=PURPLE><u>Voting trusts</u></font></p>
+
+<p>One or more shareholders may create a voting trust, conferring on one or more trustees the right to vote or otherwise act for them, by signing an agreement setting out the provisions of the trust and transferring their shares to the trustee or trustees. The agreement may contain any lawful provision not inconsistent with the purposes of the trust. </p>
+
+</BODY>
+
+</HTML>

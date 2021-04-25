@@ -1,0 +1,35 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-604 - Fractional shares</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-604</font>. <font color=PURPLE><u>Fractional shares</u></font></p>
+
+<p>A. A corporation may:</p>
+
+<p>1. Issue certificates representing fractions of a share or pay in money the fair value of fractions of a share as determined by the board of directors.</p>
+
+<p>2. Arrange for the disposition of fractional shares by those entitled to the fractional shares.</p>
+
+<p>3. Issue scrip in registered or bearer form that is executed by the corporation, which execution may be by facsimile signature, and that entitles the holder to receive a full share on surrendering enough scrip to equal a full share.</p>
+
+<p>B. Each certificate representing scrip must be conspicuously labeled &quot;scrip&quot; and must contain the information required by section 10-625, subsection B.</p>
+
+<p>C. A certificate representing fractions of a share entitles the holder to exercise the rights of a shareholder, including the right to vote, to receive dividends and to participate in the assets of the corporation on liquidation. The holder of scrip is not entitled to exercise any rights of a shareholder unless otherwise provided for in the scrip.</p>
+
+<p>D. The board of directors may authorize the issuance of scrip subject to any conditions that the board of directors deems advisable. The conditions may, but are not required to, include any of the following:</p>
+
+<p>1. That the scrip will become void if not exchanged for full shares before a specified date.</p>
+
+<p>2. That the shares for which the scrip is exchangeable may be sold by the corporation and the proceeds may be paid or distributed to the holders of the scrip. </p>
+
+</BODY>
+
+</HTML>

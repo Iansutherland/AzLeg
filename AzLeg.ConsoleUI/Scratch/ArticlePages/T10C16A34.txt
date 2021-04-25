@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1634 - Information disclosed by interrogatories</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1634</font>. <font color=PURPLE><u>Information disclosed by interrogatories</u></font></p>
+
+<p>Interrogatories propounded by the commission and the answers to the interrogatories shall not be open to public inspection and the commission shall not disclose any facts or information obtained from the interrogatories and answers except if its official duty requires the facts or information to be made public or if the interrogatories or the answers are required for evidence in any criminal proceeding or in any other action by this state. </p>
+
+</BODY>
+
+</HTML>

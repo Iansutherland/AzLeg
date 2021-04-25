@@ -1,0 +1,47 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1809 - Capital units, transfers and encumbrances</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1809</font>. <font color=PURPLE><u>Capital units, transfers and encumbrances</u></font></p>
+
+<p>A. Until a statement substantially in the form set forth in subsection B of this section has been filed with the commission, any transfer, hypothecation, other voluntary encumbrance or security interest in or of any capital unit or units shall be void as to creditors and subsequent purchasers for valuable consideration without notice.</p>
+
+<p>B. The statement of transfer, hypothecation or other voluntary encumbrance or security interest in or of any capital unit or units in a close corporation shall be acknowledged and be substantially in one of the following forms:</p>
+
+<p>1. Transfer:</p>
+
+<p>On the ___________________ day of _______________, _____________, the undersigned  (name of transferor)  transferred to  (name of transferee), whose address is  (address of transferee)   (all or a stated percentage) of the undersigned's interest in the capital units of (name of corporation), an Arizona close corporation.</p>
+
+<p>                     (signature of transferor) </p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>acknowledgment</p>
+
+<p>2. Hypothecation, other voluntary encumbrance or security interest:</p>
+
+<p>On the __________ day of _______________, ___________, the undersigned  (name of debtor) hypothecated and voluntarily encumbered to  (name of creditor)   (all or a stated percentage)  of the undersigned's interest in the capital units of  (name of corporation) , an Arizona close corporation.</p>
+
+<p>                      (signature of debtor) </p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>acknowledgment</p>
+
+<p>C. Sections 47-8101 through 47-8407 and title 47, chapter 9, articles 3, 4 and 5 do not apply to any hypothecation, other voluntary encumbrance or any creation of a security interest in or of capital units of a close corporation. Title 47, chapter 9, article 6 applies to defaults and the rights and remedies for the enforcement of defaults. </p>
+
+</BODY>
+
+</HTML>

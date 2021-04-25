@@ -1,0 +1,33 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-11002 - Amendment by board of directors</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-11002</font>. <font color=PURPLE><u>Amendment by board of directors</u></font></p>
+
+<p>A. If a corporation has members who are otherwise entitled to vote on amendments to the corporation's articles, then unless the articles of incorporation provide otherwise, a corporation's board of directors may adopt one or more amendments to the corporation's articles without member approval to either:</p>
+
+<p>1. Extend the duration of the corporation if it was incorporated at a time when limited duration was required by law.</p>
+
+<p>2. Delete the names and addresses of the initial directors.</p>
+
+<p>3. Delete the name and address of the initial statutory agent or known place of business, if a statement of change is on file with the commission.</p>
+
+<p>4. Change the corporate name by substituting the word &quot;corporation&quot;, &quot;incorporated&quot;, &quot;company&quot;, &quot;limited&quot;, &quot;association&quot;, &quot;society&quot;, or the abbreviation &quot;corp.&quot;, &quot;inc.&quot;, &quot;co.&quot;, &quot;ltd.&quot;, &quot;assn.&quot; or &quot;socy.&quot; for a similar word or abbreviation in the name, or by adding, deleting or changing a geographical attribution to the name.</p>
+
+<p>5. Make any other change expressly permitted by chapters 24 through 40 of this title or the articles of incorporation to be made by director action.</p>
+
+<p>B. If a corporation has no members or if no members are entitled to vote on the proposed amendment, the board of directors may adopt one or more amendments to the corporation's articles of incorporation.</p>
+
+<p>C. Adoption of an amendment pursuant to this section requires the approval in writing by any person or persons whose approval is required pursuant to section 10-11030 for an amendment to the articles of incorporation or bylaws. </p>
+
+</BODY>
+
+</HTML>

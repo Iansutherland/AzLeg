@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1843 - Court action upon refusal to pay claim</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1843</font>. <font color=PURPLE><u>Court action upon refusal to pay claim</u></font></p>
+
+<p>In the event the director of the department of administration refuses to approve any claim presented as provided in section 10-1841, the claimant may file a complaint in the superior court in Maricopa county, and shall serve a copy thereof upon the attorney general, alleging the nature of his claim and praying that the money or securities be paid or delivered to him. If the court finds for the plaintiff, judgment shall be entered accordingly, and the court shall certify the judgment to the director of the department of administration, who shall thereupon issue the order or draw the warrant as provided in section 10-1842. Appeal may be taken from the judgment of the superior court as in other cases. </p>
+
+</BODY>
+
+</HTML>

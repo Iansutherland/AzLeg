@@ -1,0 +1,53 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-825 - Committees</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-825</font>. <font color=PURPLE><u>Committees</u></font></p>
+
+<p>A. Unless the articles of incorporation or bylaws provide otherwise, the board of directors may create one or more committees and may appoint members of the board of directors to serve on them. Each committee shall have one or more members, and each member of a committee shall serve at the pleasure of the board of directors.</p>
+
+<p>B. The creation of a committee and appointment of members to it shall be approved by the greater of:</p>
+
+<p>1. A majority of all of the directors in office when the action is taken.</p>
+
+<p>2. The number of directors required by the articles of incorporation or bylaws to take action under section 10-824.</p>
+
+<p>C. Sections 10-820 through 10-824 governing meetings, action without meetings and notice, waiver of notice, quorum and voting requirements of the board of directors also apply to committees and their members.</p>
+
+<p>D. Subject to the limitations set forth in subsection E of this section, each committee may exercise the authority of the board of directors under section 10-801 to the extent specified by the board of directors or in the articles of incorporation or bylaws.</p>
+
+<p>E. A committee shall not take any of the following actions:</p>
+
+<p>1. Authorize distributions.</p>
+
+<p>2. Approve or submit to shareholders any action that requires the shareholders' approval under this chapter.</p>
+
+<p>3. Fill vacancies on the board of directors or on any of its committees.</p>
+
+<p>4. Amend articles of incorporation pursuant to section 10-1002.</p>
+
+<p>5. Adopt, amend or repeal bylaws.</p>
+
+<p>6. Approve a plan of merger not requiring shareholder approval.</p>
+
+<p>7. Authorize or approve reacquisition of shares, except according to a formula or method prescribed by the board of directors.</p>
+
+<p>8. Authorize or approve the issuance, sale or contract for sale of shares or determine the designation and relative rights, preferences and limitations of a class or series of shares, except that the board of directors may authorize a committee or an executive officer of the corporation to do so within limits specifically prescribed by the board of directors.</p>
+
+<p>9. Fix the compensation of directors for serving on the board or any committee of the board of directors.</p>
+
+<p>F. The creation of, delegation of authority to or action by a committee does not alone constitute compliance by a director with the standards of conduct prescribed in section 10-830.</p>
+
+<p>G. The board may designate one or more directors as alternate members of any committee who may replace any absent member at any meeting of the committee. </p>
+
+</BODY>
+
+</HTML>

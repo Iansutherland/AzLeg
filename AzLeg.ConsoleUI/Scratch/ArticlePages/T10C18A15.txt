@@ -1,0 +1,33 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1815 - Involuntary dissolution or liquidation pursuant to court order</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1815</font>. <font color=PURPLE><u>Involuntary dissolution or liquidation pursuant to court order</u></font></p>
+
+<p>The superior court shall have full power to liquidate the assets and business of a close corporation:</p>
+
+<p>1. In an action filed by an investor when the court finds:</p>
+
+<p>(a) That a deadlock or dispute involving the internal affairs of the corporation, continues to impair or threatens to impair the value of the assets or the continued conduct of the business of the corporation, notwithstanding bona fide attempts to utilize the arbitration provisions in the articles of incorporation if available and the provisions of section 10-1814.</p>
+
+<p>(b) That a deadlock or dispute involving the internal affairs of the corporation, impairs or threatens to impair the value of the assets or the continued conduct of the business of the corporation and no provision is contained in the articles of incorporation for arbitration of such disputes and that it would be useless effort to invoke the provisions of section 10-1814.</p>
+
+<p>(c) That the investors are so divided respecting the management of the business and affairs of the corporation that either the corporation is suffering or will suffer irreparable injury, or the business and affairs of the corporation can no longer be conducted to the advantage of the investors generally, and the provisions of sections 10-1806 and 10-1814 are inapplicable.</p>
+
+<p>(d) That the corporation has abandoned its business and has failed within a reasonable period of time to take steps to dissolve and liquidate its affairs and distribute its assets.</p>
+
+<p>2. In an action by a creditor of the corporation in the manner provided by section 10-1430, subsection B.</p>
+
+<p>3. In an action filed by the attorney general in the manner provided by section 10-1430, subsection A. </p>
+
+</BODY>
+
+</HTML>

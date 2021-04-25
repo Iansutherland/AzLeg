@@ -1,0 +1,33 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2721 - Control share acquisitions; exemption from article</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2721</font>. <font color=PURPLE><u>Control share acquisitions; exemption from article</u></font></p>
+
+<p>A. This article does not apply to a control share acquisition if any of the following applies:</p>
+
+<p>1. The articles of incorporation or bylaws of the issuing public corporation contain a provision adopted before it became an issuing public corporation and not subsequently amended expressly electing not to be subject to this article.</p>
+
+<p>2. An amendment to the articles of incorporation or bylaws of the issuing public corporation is approved by the shareholders which hold a majority of the outstanding voting power of all shares, excluding shares beneficially owned by interested shareholders and their affiliates and associates, expressly electing not to be subject to this article and the amendment provides that it does not apply to any control share acquisition made on or before the effective date of the amendment to the articles of incorporation or bylaws.</p>
+
+<p>3. The control share acquisition was consummated before, or a binding agreement to make the control share acquisition was entered into before, July 23, 1987.</p>
+
+<p>4. The control share acquisition was inadvertent and the acquiring person, as soon as practicable, divests itself of a sufficient amount of the shares so that it no longer is the beneficial owner, directly or indirectly, of shares within the range specified in section 10-2722, subsection A that resulted in the control share acquisition.</p>
+
+<p>5. The corporation, by action of its board of directors, adopts an amendment to its bylaws within forty-five days of the effective date of this section expressly electing not to be governed by this article.</p>
+
+<p>B. An amendment to the bylaws adopted pursuant to subsection A, paragraph 2 of this section shall not be further amended by the board of directors without the approval of the shareholders which hold a majority of the outstanding voting power of all shares excluding shares beneficially owned by interested shareholders and their affiliates and associates.</p>
+
+<p>C. An amendment to the bylaws adopted pursuant to subsection A, paragraph 5 shall not be further amended by the board of directors without the approval of shareholders which hold a majority of the outstanding voting power of all shares excluding shares beneficially owned by interested shareholders and their affiliates and associates. </p>
+
+</BODY>
+
+</HTML>

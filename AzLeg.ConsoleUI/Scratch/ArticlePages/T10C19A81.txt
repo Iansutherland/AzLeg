@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2081 - Exemption from antitrust statutes</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2081</font>. <font color=PURPLE><u>Exemption from antitrust statutes</u></font></p>
+
+<p>The provisions of title 44, chapter 10, article 1 do not apply to any conduct or activity of a cooperative organized pursuant to this article, if the conduct or activity is approved by a statute of this state or of the United States or by the corporation commission or an administrative agency of this state or of the United States that has jurisdiction of the subject matter. This section does not apply to the provision of competitive electric generation service and other services. </p>
+
+</BODY>
+
+</HTML>

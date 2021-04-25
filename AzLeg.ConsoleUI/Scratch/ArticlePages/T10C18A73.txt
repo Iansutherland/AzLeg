@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1873 - Form of association authorized</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1873</font>. <font color=PURPLE><u>Form of association authorized</u></font></p>
+
+<p>A business trust is permitted as a recognized form of association for the conduct of business within this state. </p>
+
+</BODY>
+
+</HTML>

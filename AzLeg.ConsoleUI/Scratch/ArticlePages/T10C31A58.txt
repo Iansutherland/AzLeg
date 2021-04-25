@@ -1,0 +1,23 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3858 - Application of article</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3858</font>. <font color=PURPLE><u>Application of article</u></font></p>
+
+<p>A. A provision treating a corporation's indemnification of or advance for expenses to directors that is contained in its articles of incorporation, bylaws, a resolution of its members or board of directors or a contract or otherwise is valid only if and to the extent the provision is consistent with this article. If the articles of incorporation limit indemnification or advances for expenses, indemnification and advances for expenses are valid only to the extent consistent with the articles of incorporation.</p>
+
+<p>B. This article does not limit a corporation's power to pay or reimburse expenses incurred by a director in connection with the director's appearance as a witness in a proceeding at a time when the director has not been made a named defendant or respondent to the proceeding.</p>
+
+<p>C. This article does not limit a corporation's power to indemnify, advance expenses or maintain insurance on behalf of an employee or agent. </p>
+
+</BODY>
+
+</HTML>

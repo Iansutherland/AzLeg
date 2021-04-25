@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-301 - Purposes</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-301</font>. <font color=PURPLE><u>Purposes</u></font></p>
+
+<p>Subject to any limitations or requirements contained in its articles of incorporation or in any other applicable law, a corporation shall have the purpose of engaging in and may engage in any lawful business activity. </p>
+
+</BODY>
+
+</HTML>

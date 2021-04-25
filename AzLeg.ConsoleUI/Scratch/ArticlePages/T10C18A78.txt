@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1878 - Taxation</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1878</font>. <font color=PURPLE><u>Taxation</u></font></p>
+
+<p>Any business trust created under this article or entering this state pursuant to this article shall pay such taxes and fees as are imposed by the laws of this state or any political subdivision thereof on domestic and foreign corporations, respectively, on an identical basis therewith. </p>
+
+</BODY>
+
+</HTML>

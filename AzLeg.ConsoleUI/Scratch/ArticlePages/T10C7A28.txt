@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-728 - Voting for directors; cumulative voting</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-728</font>. <font color=PURPLE><u>Voting for directors; cumulative voting</u></font></p>
+
+<p>A. Unless otherwise provided in the articles of incorporation, directors are elected by a plurality of the votes cast by the shares entitled to vote in the election at a meeting at which a quorum is present.</p>
+
+<p>B. At each election for directors, shareholders are entitled to cumulate their votes by multiplying the number of votes they are entitled to cast by the number of directors for whom they are entitled to vote and casting the product for a single candidate or distributing the product among two or more candidates. </p>
+
+</BODY>
+
+</HTML>

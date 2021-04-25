@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3610 - Difference in rights and obligations of members</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3610</font>. <font color=PURPLE><u>Difference in rights and obligations of members</u></font></p>
+
+<p>All members have the same rights and obligations with respect to voting, dissolution, redemption and transfer, unless the articles of incorporation or bylaws establish classes of membership with different rights or obligations or otherwise provide. All members have the same rights and obligations with respect to any other matters, except as set forth in or authorized by the articles of incorporation or bylaws. </p>
+
+</BODY>
+
+</HTML>

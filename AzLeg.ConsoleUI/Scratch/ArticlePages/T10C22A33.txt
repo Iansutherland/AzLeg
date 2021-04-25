@@ -1,0 +1,43 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2433 - Right of action</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2433.</font> <font color=PURPLE><u>Right of action</u></font></p>
+
+<p>A. Except in a benefit enforcement proceeding, a person may not bring an action or assert a claim against a benefit corporation or its directors or officers with respect to either of the following:</p>
+
+<p>1. The failure to pursue or create general public benefit or a specific public benefit set forth in its articles of incorporation.</p>
+
+<p>2. The violation of an obligation, duty or standard of conduct under this chapter.</p>
+
+<p>B. A benefit corporation is not liable for monetary damages under this chapter for any failure of the benefit corporation to pursue or create general public benefit or a specific public benefit.</p>
+
+<p>C. A benefit enforcement proceeding may be commenced or maintained only by either of the following:</p>
+
+<p>1. Directly by the benefit corporation.</p>
+
+<p>2. Derivatively in accordance with chapter 7, article 4 of this title by any of the following:</p>
+
+<p>(a) A person or group of persons that owns beneficially or of record at least two per cent of the total number of shares of all classes and series outstanding at the time of the act or omission that is the subject of the complaint.</p>
+
+<p>(b) A director.</p>
+
+<p>(c) A person or group of persons that owns beneficially or of record five per cent or more of the outstanding equity interests in an entity of which the benefit corporation is a subsidiary at the time of the act or omission that is the subject of the complaint.</p>
+
+<p>(d) Other persons as specified in the articles of incorporation or bylaws of the benefit corporation.</p>
+
+<p>D. For the purposes of this section, a person is the beneficial owner of shares or equity interests if the shares or equity interests are held in a voting trust or by a nominee on behalf of the beneficial owner. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

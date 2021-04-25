@@ -1,0 +1,43 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2259 - Method of incorporation</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2259</font>. <font color=PURPLE><u>Method of incorporation</u></font></p>
+
+<p>A. A corporation may be formed by five or more residents of the state of Arizona who each subscribe to at least one share of stock of the corporation.</p>
+
+<p>B. The articles of incorporation shall set forth:</p>
+
+<p>1. The name of the proposed corporation which shall include the words &quot;business development corporation&quot;.</p>
+
+<p>2. The purpose for which it is to be formed which shall be within the purposes and powers set forth in this chapter.</p>
+
+<p>3. The location of the principal place of business of the corporation, but the corporation may have offices in such other places in the state as may be fixed by the board of directors.</p>
+
+<p>4. The term of its existence.</p>
+
+<p>5. The authorized capital stock of the corporation.</p>
+
+<p>6. The names and addresses of the incorporators and the amount of their capital stock subscriptions.</p>
+
+<p>7. The names and addresses of eight temporary directors.</p>
+
+<p>8. The name and address of the treasurer.</p>
+
+<p>9. The names and addresses of five qualified banks which have obligated themselves to become members of the corporation at the time of its incorporation.</p>
+
+<p>10. Any other provisions not inconsistent with law which the proposed corporation may adopt governing the regulation and conduct of its affairs.</p>
+
+<p>C. A corporation formed under this chapter may amend its articles of incorporation provided that prior to the filing of articles of amendment with the corporation commission the same shall have been approved by the superintendent of financial institutions in the manner and as provided for in section 10-2260. </p>
+
+</BODY>
+
+</HTML>

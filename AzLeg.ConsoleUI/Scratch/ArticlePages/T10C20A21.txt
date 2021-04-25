@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2221 - Shares and professional corporation status on shares</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2221</font>. <font color=PURPLE><u>Shares and professional corporation status on shares</u></font></p>
+
+<p>Notwithstanding section 10-627, no statement or notice of any restrictions imposed by this chapter on the transfer of shares of a professional corporation is required to appear on any share certificate issued by a professional corporation or to otherwise be provided to the shareholders of a professional corporation. </p>
+
+</BODY>
+
+</HTML>

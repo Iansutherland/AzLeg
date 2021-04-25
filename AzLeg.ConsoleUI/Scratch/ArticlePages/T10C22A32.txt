@@ -1,0 +1,41 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2432 - Standard of conduct for officers</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2432</font>. <font color=PURPLE><u>Standard of conduct for officers</u></font></p>
+
+<p>A. Each officer of a benefit corporation shall consider the interests and factors described in section 10-2431, subsection A, in the manner provided in that subsection, if both of the following apply:</p>
+
+<p>1. The officer has discretion to act with respect to a matter.</p>
+
+<p>2. It reasonably appears to the officer that the matter may have a material effect on the general public benefit or specific public benefit identified in the articles of incorporation of the benefit corporation.</p>
+
+<p>B. The consideration of interests and factors in the manner described in subsection A of this section does not constitute a violation of section 10-842.</p>
+
+<p>C. Except as otherwise provided in this section, the standards of conduct and presumptions prescribed in chapter 8 of this title apply to officers of benefit corporations.</p>
+
+<p>D. Except as provided in the articles of incorporation or bylaws, an officer is not personally liable for monetary damages for failure of the benefit corporation to pursue or create general public benefit or a specific public benefit.</p>
+
+<p>E. An officer does not have a duty to a person that is a beneficiary of the general public benefit purpose or the specific public benefit purpose of a benefit corporation arising from the status of the person as a beneficiary.</p>
+
+<p>F. An officer who makes a business judgment in good faith fulfills the duty under this section if all of the following apply:</p>
+
+<p>1. The officer is not interested in the subject of the business judgment.</p>
+
+<p>2. The officer is informed with respect to the subject of the business judgment to the extent the officer reasonably believes to be appropriate under the circumstances.</p>
+
+<p>3. The officer rationally believes that the business judgment is in the best interests of the benefit corporation. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,25 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3822 - Call and notice of meetings</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3822</font>. <font color=PURPLE><u>Call and notice of meetings</u></font></p>
+
+<p>A. Unless the articles of incorporation, bylaws or subsection C of this section provide otherwise, regular meetings of the board of directors may be held without notice of the date, time, place or purpose of the meeting.</p>
+
+<p>B. Unless the articles of incorporation, bylaws or subsection C of this section provide otherwise, special meetings of the board of directors shall be preceded by at least two days' notice of the date, time and place of the meeting. The notice need not describe the purpose of the special meeting unless required by the articles of incorporation or bylaws.</p>
+
+<p>C. In corporations without members any board action to remove a director or to approve a matter that would require approval by the members if the corporation had members is not valid unless each director is given at least two days' written notice that the matter will be voted on at a directors' meeting or unless notice is waived pursuant to section 10-3823.</p>
+
+<p>D. Unless the articles of incorporation or bylaws provide otherwise, the presiding officer of the board of directors, the president or twenty per cent of the directors then in office may call and give notice of a meeting of the board. </p>
+
+</BODY>
+
+</HTML>

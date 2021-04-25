@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2257 - Temporary board of directors</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2257</font>. <font color=PURPLE><u>Temporary board of directors</u></font></p>
+
+<p>Until the election of a board of directors under section 10-2258, all of the affairs of the corporation shall be conducted by a temporary board of directors. The temporary board shall consist of fifteen members who shall all be at least eighteen years of age and citizens of the United States and who shall be designated by incorporators of the corporation in the articles of incorporation. Upon the election and qualification of a board of directors under section 10-2258, the temporary board of directors shall be deemed dissolved. </p>
+
+</BODY>
+
+</HTML>

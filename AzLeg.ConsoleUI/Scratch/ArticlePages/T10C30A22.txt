@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3722 - Quorum requirements</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3722</font>. <font color=PURPLE><u>Quorum requirements</u></font></p>
+
+<p>Unless chapters 24 through 40 of this title or the articles of incorporation provide for a higher or lower quorum the bylaws may provide the number or percentage of members entitled to vote, present or represented by proxy, or the number or percentage of votes entitled to be cast by members present or represented by proxy, that shall constitute a quorum at a meeting of members. In the absence of that provision, members, present or represented by proxy, holding one-tenth of the votes entitled to be cast, shall constitute a quorum. </p>
+
+</BODY>
+
+</HTML>

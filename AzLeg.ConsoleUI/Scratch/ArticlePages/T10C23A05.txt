@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2705 - Compensation agreements</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2705</font>. <font color=PURPLE><u>Compensation agreements</u></font></p>
+
+<p>During any tender offer or request or invitation for tenders of any class or series of shares of an issuing public corporation, other than an offer, request or invitation by the issuing public corporation, the issuing public corporation shall not enter into or amend, directly or indirectly, agreements containing provisions, whether or not dependent on the occurrence of any event or contingency, that increase, directly or indirectly, the current or future compensation of any officer or director of the issuing public corporation. This section does not prohibit routine increases in compensation or other routine compensation agreements undertaken in the ordinary course of the issuing public corporation's business. </p>
+
+</BODY>
+
+</HTML>

@@ -21,7 +21,7 @@ namespace AzLeg.ConsoleUI
                 //all  the file names of the title page html files
                 var fileList = Directory.GetFiles(".\\Scratch\\TitlePages");
                 //don't run these again because they've already been loaded
-                if (true)
+                if (false)
                 {
                     foreach (string url in fileList)
                     {
@@ -74,12 +74,16 @@ namespace AzLeg.ConsoleUI
                 foreach(string url in fileList)
                 {
                     string fileContents = File.ReadAllText(url);
+                    //get chapter sections from Title directory
                     List<string> chapterSectionList = scraper.ParseChapterSections(fileContents);
                     chapterSectionList.Remove("");
+
                     foreach(string chapterSection in chapterSectionList)
                     {
+                        //get article sections from chapter section
                         var articleSectionList = scraper.ParseArticleSections(chapterSection);
                         articleSectionList.Remove("");
+
                         foreach (var article in articleSectionList)
                         {
                             Console.WriteLine($"article section processing");
@@ -141,14 +145,24 @@ namespace AzLeg.ConsoleUI
                                 {
                                     var a = 1;
                                 }
-                                if(legArticle.Heading.Length >= 50)
+                                if(legArticle.Heading.Length >= 1000)
                                 {
-                                    var a = 1;
+                                    var a = 1; 
                                 }
 
                                 if(legArticle.Citation.Length >= 20)
                                 {
                                     var a = 1;
+                                }
+
+                                var existingArticle = context.LegArticles.Count(x => x.Citation == legArticle.Citation);
+                                if (existingArticle > 0)
+                                {
+                                    Console.WriteLine($"skipping article citation: {legArticle.Citation}. Already present in DB");
+                                }
+                                else
+                                {
+                                    context.LegArticles.Add(legArticle);
                                 }
 
                                 if (downloadedFile)

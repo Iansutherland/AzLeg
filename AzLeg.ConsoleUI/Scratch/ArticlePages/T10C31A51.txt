@@ -1,0 +1,45 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3851 - Authority to indemnify</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3851</font>. <font color=PURPLE><u>Authority to indemnify</u></font></p>
+
+<p>A. Except as provided in subsection D of this section, a corporation may indemnify an individual made a party to a proceeding because either:</p>
+
+<p>1. The individual is or was a director against liability incurred in the proceeding if all of the following conditions exist:</p>
+
+<p>(a) The individual's conduct was in good faith.</p>
+
+<p>(b) The individual reasonably believed:</p>
+
+<p>(i) In the case of conduct in an official capacity with the corporation, that the conduct was in its best interests.</p>
+
+<p>(ii) In all other cases, that the conduct was at least not opposed to its best interests.</p>
+
+<p>(c) In the case of any criminal proceedings, the individual had no reasonable cause to believe the conduct was unlawful.</p>
+
+<p>2. The director engaged in conduct for which broader indemnification has been made permissible or obligatory under a provision of the articles of incorporation pursuant to section 10-3202, subsection B, paragraph 2.</p>
+
+<p>B. A director's conduct with respect to an employee benefit plan for a purpose the director reasonably believed to be in the interests of the participants in and beneficiaries of the plan is conduct that satisfies the requirement of subsection A, paragraph 1, subdivision (a) of this section.</p>
+
+<p>C. The termination of a proceeding by judgment, order, settlement or conviction or on a plea of no contest or its equivalent is not of itself determinative that the director did not meet the standard of conduct described in this section.</p>
+
+<p>D. A corporation may not indemnify a director under this section either:</p>
+
+<p>1. In connection with a proceeding by or in the right of the corporation in which the director was adjudged liable to the corporation.</p>
+
+<p>2. In connection with any other proceeding charging improper personal benefit to the director, whether or not involving action in the director's official capacity, in which the director was adjudged liable on the basis that personal benefit was improperly received by the director.</p>
+
+<p>E. Indemnification permitted under this section in connection with a proceeding by or in the right of the corporation is limited to reasonable expenses incurred in connection with the proceeding. </p>
+
+</BODY>
+
+</HTML>

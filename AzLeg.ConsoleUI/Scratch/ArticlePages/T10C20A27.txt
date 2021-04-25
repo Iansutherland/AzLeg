@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2227 - Cancellation of disqualified shares</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2227</font>. <font color=PURPLE><u>Cancellation of disqualified shares</u></font></p>
+
+<p>If the shares of a disqualified shareholder are not acquired pursuant to section 10-2223 within ten months after the death or dissolution of the shareholder or within five months after the disqualification or transfer, the professional corporation shall immediately cancel the shares on its books and the disqualified shareholder shall have no further interest as a shareholder in the corporation other than the right to payment of the price specified in section 10-2223, subsection B. </p>
+
+</BODY>
+
+</HTML>

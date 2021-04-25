@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-11004 - Class voting by members on amendments</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-11004</font>. <font color=PURPLE><u>Class voting by members on amendments</u></font></p>
+
+<p>The members of a class of a corporation are entitled to vote as a class on a proposed amendment to the articles of incorporation only if a class vote is provided for in the articles of incorporation or bylaws. </p>
+
+</BODY>
+
+</HTML>

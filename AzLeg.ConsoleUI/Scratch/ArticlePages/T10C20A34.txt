@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2234 - Responsibility for professional services</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2234</font>. <font color=PURPLE><u>Responsibility for professional services</u></font></p>
+
+<p>A shareholder of a professional corporation is personally and fully liable and accountable for any negligent or wrongful act or misconduct committed by the shareholder or by any person under the shareholder's direct supervision and control while rendering professional services on behalf of the professional corporation to the person for whom the professional services are rendered. The liability of a shareholder of the professional corporation is several only, and a shareholder is not vicariously responsible for the liability of another shareholder. </p>
+
+</BODY>
+
+</HTML>

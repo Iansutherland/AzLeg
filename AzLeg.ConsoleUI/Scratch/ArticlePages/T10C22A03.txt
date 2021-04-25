@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2403 - Incorporation of benefit corporation</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2403.</font> <font color=PURPLE><u>Incorporation of benefit corporation</u></font></p>
+
+<p>A benefit corporation shall be incorporated in accordance with chapter 2, article 1 of this title, except that its articles of incorporation must also state that it is a benefit corporation. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,27 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-725 - Quorum and voting requirements for voting groups</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-725</font>. <font color=PURPLE><u>Quorum and voting requirements for voting groups</u></font></p>
+
+<p>A. Shares entitled to vote as a separate voting group may take action on a matter at a meeting only if the quorum of those shares exists with respect to that matter. Unless the articles of incorporation or chapters 1 through 17 of this title provide otherwise, a majority of the votes entitled to be cast on the matter by the voting group constitutes a quorum of that voting group for action on that matter.</p>
+
+<p>B. Unless otherwise provided in the articles of incorporation or bylaws, once a share is represented for any purpose at a meeting, it is deemed present for quorum purposes for the remainder of the meeting and for any adjournment of that meeting unless a new record date is or must be set for that adjourned meeting.</p>
+
+<p>C. If a quorum exists, action on a matter, other than the election of directors, by a voting group is approved if the votes cast within the voting group favoring the action exceed the votes cast opposing the action, unless the articles of incorporation or chapters 1 through 17 of this title require a greater number of affirmative votes.</p>
+
+<p>D. An amendment of articles of incorporation adding, changing or deleting a quorum or voting requirement for a voting group greater than specified in subsection A or C of this section is governed by section 10-727.</p>
+
+<p>E. The election of directors is governed by section 10-728. </p>
+
+</BODY>
+
+</HTML>

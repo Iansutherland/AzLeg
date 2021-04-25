@@ -1,0 +1,27 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-11024 - Bylaw increasing quorum or voting requirement for directors</TITLE>
+<!Creation Date: 08/11/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-11024</font>. <font color=PURPLE><u>Bylaw increasing quorum or voting requirement for directors</u></font></p>
+
+<p>A. A bylaw that fixes a greater quorum or voting requirement for the board of directors may be amended or repealed as follows:</p>
+
+<p>1. If originally adopted by the members, only by the members.</p>
+
+<p>2. If originally adopted by the board of directors, either by the members or by the board of directors.</p>
+
+<p>B. A bylaw that is adopted or amended by the members and that fixes a greater quorum or voting requirement for the board of directors may provide that it may be amended or repealed only by a specified vote of either the members or the board of directors.</p>
+
+<p>C. Action by the board of directors under subsection A, paragraph 2 to adopt or amend a bylaw that changes the quorum or voting requirement for the board of directors shall meet the same quorum requirement and shall be adopted by the same vote required to take action under the quorum and voting requirement then in effect or proposed to be adopted, whichever is greater.  </p>
+
+</BODY>
+
+</HTML>

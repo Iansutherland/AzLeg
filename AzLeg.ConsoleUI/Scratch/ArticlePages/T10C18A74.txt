@@ -1,0 +1,31 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1874 - Required delivery to commission; certified copy of trust instrument</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1874</font>. <font color=PURPLE><u>Required delivery to commission; certified copy of trust instrument</u></font></p>
+
+<p>A. Any business trust desiring to transact business in this state shall deliver to the commission:</p>
+
+<p>1. An executed copy of the articles, declaration of trust or trust agreement by which the trust was created and all amendments thereto, or a true copy thereof certified to be such by a trustee of the trust before an official authorized to administer oaths or by a public official of another state, territory or country in whose office an executed copy thereof is on file. Such true copy shall be certified within sixty days before it is delivered to the commission.</p>
+
+<p>2. A verified list of the names, residences and post office addresses of its trustees.</p>
+
+<p>3. An affidavit setting forth its assumed business name, if any.</p>
+
+<p>4. If a domestic business trust, the name of its statutory agent appointed as provided for domestic corporations in section 10-501. A foreign business trust shall deliver to the commission, as provided for in section 10-501, the location of its statutory office, the name of its statutory agent and its irrevocable consent to service of process, duly signed by a sufficient number of its trustees to bind the business trust by such irrevocable consent, or accompanied by a duly certified copy of an order or resolution of its trustees authorizing the execution and delivery of such irrevocable consent.</p>
+
+<p>B. The business trust shall file a copy of its articles, declaration of trust or trust agreement by which it was created, certified by the corporation commission, in the office of the county recorder in the county where the principal place of business of the trust is located, where such certified copy shall be indexed and recorded.</p>
+
+<p>C. When a business trust has complied with the delivery requirements as provided in subsections A and B of this section, the commission shall, after determining that the requirements of chapters 1 through 17 of this title, this chapter and other provisions of law have been satisfied, file such delivered documents of foreign and domestic business trusts and such business trusts may thereupon commence business. </p>
+
+</BODY>
+
+</HTML>

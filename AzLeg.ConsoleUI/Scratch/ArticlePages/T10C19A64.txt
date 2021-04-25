@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2064 - Bylaws</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2064</font>. <font color=PURPLE><u>Bylaws</u></font></p>
+
+<p>The board of directors shall adopt the first bylaws of a cooperative to be adopted following incorporation, conversion, merger or consolidation. Thereafter either the board of directors or the members may amend or repeal the bylaws. The bylaws shall set forth the rights and duties of members and directors and may contain other provisions for the regulation and management of the affairs of the cooperative not inconsistent with this article or with its articles of incorporation. </p>
+
+</BODY>
+
+</HTML>

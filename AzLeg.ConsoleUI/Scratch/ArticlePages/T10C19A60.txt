@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2060 - Members in cooperative</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2060</font>. <font color=PURPLE><u>Members in cooperative</u></font></p>
+
+<p>Each incorporator of a cooperative shall be a member of the cooperative, but no other person may become a member unless the person agrees to use electric energy or other services furnished by the cooperative as the cooperative establishes in its bylaws. A husband and wife may hold a joint membership in a cooperative. Membership in a cooperative is not transferable, except as provided in the bylaws. The bylaws may prescribe additional qualifications, limitations, classifications and rights concerning membership. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2053 - Requirements for formation</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2053</font>. <font color=PURPLE><u>Requirements for formation</u></font></p>
+
+<p>Five or more natural persons, or two or more cooperatives, may organize a cooperative in the manner provided in this article. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,39 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3703 - Court ordered meeting; costs; attorney fees</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3703</font>. <font color=PURPLE><u>Court ordered meeting; costs; attorney fees</u></font></p>
+
+<p>A. The court in the county where a corporation's principal office is located, or if the corporation has no principal office in this state, the court in the county where the corporation's known place of business is located, may summarily order a meeting to be held on application by any of the following:</p>
+
+<p>1. Any member, if an annual meeting was not held within fifteen months after its last annual meeting.</p>
+
+<p>2. Any member, if a regular meeting is not held within forty days after the date it was required to be held.</p>
+
+<p>3. A member who signed a demand for a special meeting that is valid under section 10-3702 or a person or persons entitled to call a special meeting, if either:</p>
+
+<p>(a) Notice of the special meeting was not given within thirty days after the date that the demand was delivered to a corporate officer.</p>
+
+<p>(b) The special meeting was not held in accordance with the notice.</p>
+
+<p>B. The court may:</p>
+
+<p>1. Fix the time and place of the meeting.</p>
+
+<p>2. Specify a record date for determining members entitled to notice of and to vote at the meeting.</p>
+
+<p>3. Prescribe the form and content of the meeting notice.</p>
+
+<p>C. If the court orders a meeting, it may also order the corporation to pay the member's costs, including reasonable attorney fees, incurred to obtain the order. </p>
+
+</BODY>
+
+</HTML>

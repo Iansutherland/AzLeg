@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-727 - Greater quorum or voting requirements</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-727</font>. <font color=PURPLE><u>Greater quorum or voting requirements</u></font></p>
+
+<p>A. The articles of incorporation may provide for a greater quorum or voting requirement for shareholders or voting groups of shareholders than is provided for by chapters 1 through 17 of this title.</p>
+
+<p>B. An amendment to the articles of incorporation that adds, changes or deletes a greater quorum or voting requirement must meet the same quorum requirement and be adopted by the same vote and voting groups required to take action under the quorum and voting requirements then in effect or proposed to be adopted, whichever is greater. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,29 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3821 - Action without meeting</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3821</font>. <font color=PURPLE><u>Action without meeting</u></font></p>
+
+<p>A. Unless the articles of incorporation or bylaws provide otherwise, action required or permitted by chapters 24 through 40 of this title to be taken at a directors' meeting may be taken without a meeting if the action is taken by all of the directors. The action must be evidenced by one or more written consents describing the action taken, signed by each director and included in the minutes filed with the corporate records reflecting the action taken.</p>
+
+<p>B. Action taken under this section is effective when the last director signs the consent, unless the consent specifies a different effective date.</p>
+
+<p>C. The consent signed under this section has the effect of a meeting vote and may be described as such in any document.</p>
+
+<p>D. Any director may revoke a consent by delivering a signed revocation of the consent to the president or secretary before the date the last director signs the consent.</p>
+
+<p>E. For the purposes of this section, a consent may be signed using an electronic signature as defined in section 44-7002. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,31 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1504 - Delivery of changes; changes requiring amended authority</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1504</font>. <font color=PURPLE><u>Delivery of changes; changes requiring amended authority</u></font></p>
+
+<p>A. Whenever the articles of incorporation of a foreign corporation authorized to transact business in this state are amended or restated by merger or otherwise, within sixty days after the amendment or restatement becomes effective, the foreign corporation shall deliver to the commission a copy of the amendment or restatement duly authenticated by the secretary of state or other official having custody of corporate records in the state or country where the foreign corporation is incorporated.</p>
+
+<p>B. In addition to the requirement prescribed in subsection A of this section, a foreign corporation authorized to transact business in this state shall amend its application for authority by filing with the commission articles of amendment to application for authority if any of the following occurs:</p>
+
+<p>1. The foreign corporation changes its actual corporate name or the name under which it has obtained authority to transact business in this state pursuant to section 10-1503, subsection A, paragraph 1.</p>
+
+<p>2. The foreign corporation changes its period of duration.</p>
+
+<p>3. The foreign corporation changes its state or country of incorporation.</p>
+
+<p>4. A statement in the application for authority was inaccurate when made. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

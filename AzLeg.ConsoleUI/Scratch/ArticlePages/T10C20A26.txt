@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2226 - Court costs and fees of experts</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2226</font>. <font color=PURPLE><u>Court costs and fees of experts</u></font></p>
+
+<p>A. The court in an appraisal proceeding commenced under section 10-2225 shall determine all costs of the proceeding, including the reasonable compensation and expenses of appraisers appointed by the court, and shall assess the costs against the professional corporation unless the court assesses costs against the disqualified shareholder, in an amount the court finds equitable, if the court finds the shareholder acted arbitrarily, vexatiously or not in good faith in refusing to accept the corporation's offer.</p>
+
+<p>B. The court may also assess the fees and expenses of counsel and experts for the disqualified shareholder against the corporation and in favor of the shareholder if the court finds that the fair value of the disqualified shareholder's shares substantially exceeded the amount offered by the corporation or that the corporation did not make an offer. </p>
+
+</BODY>
+
+</HTML>

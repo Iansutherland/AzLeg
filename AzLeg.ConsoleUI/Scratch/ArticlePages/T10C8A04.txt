@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-804 - Election of directors by certain classes or series of shareholders</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-804</font>. <font color=PURPLE><u>Election of directors by certain classes or series of shareholders</u></font></p>
+
+<p>A. If the articles of incorporation authorize dividing the shares into classes or series, the articles may also authorize the election of all or a specified number of directors by the holders of one or more authorized classes or series of shares.</p>
+
+<p>B. One or more classes or one or more series of shares entitled to elect one or more directors is a separate voting group for purposes of the election of directors. </p>
+
+</BODY>
+
+</HTML>

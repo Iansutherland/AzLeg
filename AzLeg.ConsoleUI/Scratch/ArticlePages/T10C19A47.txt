@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2147 - Exemption from antitrust statutes</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2147</font>. <font color=PURPLE><u>Exemption from antitrust statutes</u></font></p>
+
+<p>The provisions of title 44, chapter 10, article 1 do not apply to any conduct or activity of a generation and transmission cooperative organized pursuant to this article, which conduct or activity is approved by a statute of this state or of the United States or by the corporation commission or an administrative agency of this state or of the United States having jurisdiction of the subject matter. </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2065 - Districts; boundaries</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2065</font>. <font color=PURPLE><u>Districts; boundaries</u></font></p>
+
+<p>The bylaws may provide for the division of the territory served or to be served by a cooperative into two or more districts for any purpose, including, without limitation, the nomination and election of directors and the election and functioning of district delegates.  The bylaws shall prescribe the boundaries of the districts, or the manner of establishing the boundaries, the manner of changing such boundaries and the manner in which the districts shall function. </p>
+
+</BODY>
+
+</HTML>

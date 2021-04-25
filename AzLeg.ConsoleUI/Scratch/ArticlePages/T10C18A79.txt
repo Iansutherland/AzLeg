@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1879 - Corporation laws applicable</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1879</font>. <font color=PURPLE><u>Corporation laws applicable</u></font></p>
+
+<p>Any business trust shall be subject to such applicable provisions of law from time to time in effect with respect to domestic and foreign corporations, respectively. These shall include, without limitation, such applicable provisions of law as relate to the issuance of securities, filing of required statements or reports, service of process, general grants of power to act, withdrawal, right to sue and be sued, limitation of individual liability of shareholders, and rights to acquire, mortgage, sell, lease, operate and otherwise deal in or with real and personal property. </p>
+
+</BODY>
+
+</HTML>

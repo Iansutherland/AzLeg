@@ -1,0 +1,55 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3708 - Action by written ballot; online voting</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3708</font>. <font color=PURPLE><u>Action by written ballot; online voting</u></font></p>
+
+<p>A. Unless prohibited or limited by the articles of incorporation or bylaws, any action that the corporation may take at any annual, regular or special meeting of members may be taken without a meeting if the corporation delivers a written ballot to every member entitled to vote on the matter.</p>
+
+<p>B. A written ballot shall:</p>
+
+<p>1. Set forth each proposed action.</p>
+
+<p>2. Provide an opportunity to vote for or against each proposed action.</p>
+
+<p>C. Approval by written ballot pursuant to this section is valid only if both:</p>
+
+<p>1. The number of votes cast by ballot equals or exceeds the quorum required to be present at a meeting authorizing the action.</p>
+
+<p>2. The number of approvals equals or exceeds the number of votes that would be required to approve the matter at a meeting at which the total number of votes cast was the same as the number of votes cast by ballot.</p>
+
+<p>D. All solicitations for votes by written ballot shall:</p>
+
+<p>1. Indicate the number of responses needed to meet the quorum requirements.</p>
+
+<p>2. State the percentage of approvals necessary to approve each matter other than election of directors.</p>
+
+<p>3. Specify the time by which a ballot must be delivered to the corporation in order to be counted, which time shall not be less than three days after the date that the corporation delivers the ballot.</p>
+
+<p>E. Except as otherwise provided in the articles of incorporation or bylaws, a written ballot shall not be revoked.</p>
+
+<p>F. After providing notice that complies with subsection G of this section to members that a vote shall be conducted by electronic means, a written ballot may be delivered through an online voting system that does all of the following:</p>
+
+<p>1. Authenticates the member's identity.</p>
+
+<p>2. Authenticates the validity of each electronic vote to ensure that the vote is not altered in transit.</p>
+
+<p>3. Transmits a receipt to each member who casts an electronic vote.</p>
+
+<p>4. Stores electronic votes for recount, inspection and review purposes. </p>
+
+<p>G. The notice prescribed by subsection F of this section shall include a reasonable procedure by which a member may obtain and cast a ballot through some other form of delivery, including United States mail delivery and fax transmission. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

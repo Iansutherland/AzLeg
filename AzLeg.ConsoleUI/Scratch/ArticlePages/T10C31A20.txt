@@ -1,0 +1,23 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3820 - Regular and special meetings</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3820</font>. <font color=PURPLE><u>Regular and special meetings</u></font></p>
+
+<p>A. If the time and place of a directors' meeting is fixed by the bylaws or the board of directors, the meeting is a regular meeting. All other meetings are special meetings.</p>
+
+<p>B. A board of directors may hold regular or special meetings in or out of this state.</p>
+
+<p>C. Unless the articles of incorporation or bylaws provide otherwise, the board of directors may permit any or all directors to participate in a regular or special meeting by or conduct the meeting through the use of any means of communication by which all directors participating may simultaneously hear each other during the meeting. A director participating in a meeting by this means is deemed to be present in person at the meeting. </p>
+
+</BODY>
+
+</HTML>

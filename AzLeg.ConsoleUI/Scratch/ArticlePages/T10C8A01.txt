@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-801 - Board of directors</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-801</font>. <font color=PURPLE><u>Board of directors</u></font></p>
+
+<p>A. Notwithstanding section 10-732, each corporation shall have a board of directors.</p>
+
+<p>B. All corporate powers shall be exercised by or under the authority of and the business and affairs of the corporation shall be managed under the direction of its board of directors, subject to any limitation set forth in the articles of incorporation or in an agreement authorized under section 10-732.  </p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,31 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-1803 - Mandatory provisions of articles of incorporation</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-1803</font>. <font color=PURPLE><u>Mandatory provisions of articles of incorporation</u></font></p>
+
+<p>A. The articles of incorporation of a close corporation shall set forth:</p>
+
+<p>1. The name of the corporation which shall contain the words &quot;Arizona close corporation&quot; or an abbreviation therefor.</p>
+
+<p>2. The name and address of the manager or managers of the corporation.</p>
+
+<p>3. The names, addresses and amount of initial contribution of capital units of each of the original investors. The number of original investors shall not exceed ten.</p>
+
+<p>4. The aggregate amount in dollars of the initial capital units to be paid to the corporation.</p>
+
+<p>5. The name, address and signature of the corporation's initial statutory agent.</p>
+
+<p>B. It shall not be necessary to set forth in the articles of incorporation any corporate powers or any corporate purposes. </p>
+
+</BODY>
+
+</HTML>

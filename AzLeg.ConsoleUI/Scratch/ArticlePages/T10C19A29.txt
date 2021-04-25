@@ -1,0 +1,25 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2129 - Annual and special meetings of members; notice; quorum</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2129</font>. <font color=PURPLE><u>Annual and special meetings of members; notice; quorum</u></font></p>
+
+<p>A. An annual meeting of the members of a generation and transmission cooperative shall be held at a time and place provided in the bylaws. Special meetings of the members may be called by the president, by the board of directors, by any three directors or by not less than twenty-five per cent of the voting delegates.</p>
+
+<p>B. Except as otherwise provided in this article, written or printed notice stating the time and place of each meeting of the members and, in the case of a special meeting, the purpose for which the meeting is called shall be given to each member, either personally or by mail, not less than ten nor more than twenty-five days before the date of the meeting. If mailed, the notice is deemed to be given when deposited in the United States mail with postage prepaid addressed to the member at his address appearing on the records of the generation and transmission cooperative.</p>
+
+<p>C. Unless the bylaws prescribe the presence of a greater percentage or number of the members for a quorum, a quorum for the transaction of business at all meetings of the members of a generation and transmission cooperative consists of at least fifty per cent of the voting delegates.</p>
+
+<p>D. A member entitled to notice of a meeting may waive notice in writing either before or after the meeting. If any voting delegate of a member attends the meeting, his attendance constitutes a waiver of notice of the meeting, unless he participates solely to object to the transaction of any business because the meeting has not been legally called or convened. </p>
+
+</BODY>
+
+</HTML>

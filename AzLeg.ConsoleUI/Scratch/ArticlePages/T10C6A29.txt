@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-629 - Adjustment of terms of rights, options and warrants; conditions to exercise of rights, options and warrants</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-629</font>. <font color=PURPLE><u>Adjustment of terms of rights, options and warrants; conditions to exercise of rights, options and warrants</u></font></p>
+
+<p>Rights, options and warrants may include provisions that adjust the terms of the rights, options and warrants on the occurrence of one or more events, including acquisition of shares, reorganization, merger, consolidation or sale of assets. Rights, options and warrants may include conditions regarding the exercise of the rights, options and warrants, including conditions that prevent the holder of a specified percentage of the outstanding shares of the corporation, including subsequent transferees of the holder, from exercising those rights, options and warrants. </p>
+
+</BODY>
+
+</HTML>

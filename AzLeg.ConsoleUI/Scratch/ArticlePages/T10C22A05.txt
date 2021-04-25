@@ -1,0 +1,23 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2405 - Termination of benefit corporation status</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2405</font>. <font color=PURPLE><u>Termination of benefit corporation status</u></font></p>
+
+<p>A. A benefit corporation may terminate its status as a benefit corporation and cease to be subject to this chapter by amending its articles of incorporation to delete the provision required by section 10-2403 or 10-2404 to be stated in the articles of a benefit corporation.  In order to be effective, the amendment must be adopted by at least the minimum status vote.</p>
+
+<p>B. Any sale, lease, exchange or other disposition of all or substantially all of the assets of a benefit corporation, unless the transaction is in the usual and regular course of business, shall not be effective unless the transaction is approved by at least the minimum status vote. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

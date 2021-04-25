@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2228 - Definition of disqualified shareholder</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2228</font>. <font color=PURPLE><u>Definition of disqualified shareholder</u></font></p>
+
+<p>In this article, unless the context otherwise requires, &quot;disqualified shareholder&quot; means a shareholder described in subsection 10-2223, subsection A, paragraph 1 or 2 or the legal representative of that shareholder. </p>
+
+</BODY>
+
+</HTML>

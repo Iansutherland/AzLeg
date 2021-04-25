@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2265 - Supervision and reports</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2265</font>. <font color=PURPLE><u>Supervision and reports</u></font></p>
+
+<p>The superintendent of financial institutions may supervise, examine and control a corporation in the same manner as financial institutions are so supervised, examined and controlled by the superintendent pursuant to law, except that it shall not be the duty of the superintendent to supervise the investment or lending policies of a corporation. In addition to such other reports as are required by law, a corporation shall make an annual report of its condition to the superintendent on or before March 1 of each year. An audit report prepared by a certified public accountant shall accompany the annual report of condition. The audit may be accepted by the superintendent in lieu of an examination. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-744 - Dismissal</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-744</font>. <font color=PURPLE><u>Dismissal</u></font></p>
+
+<p>A. A derivative proceeding may be dismissed by the court on motion by the corporation on any legal grounds including the group specified in subsection B has determined in good faith after conducting a reasonable inquiry on which its conclusions are based that the maintenance of the derivative proceeding is not in the best interests of the corporation.</p>
+
+<p>B. The court may appoint a panel of one or more independent persons on motion by the corporation to determine whether the maintenance of the derivative proceeding is in the best interests of the corporation. In such case, the plaintiff has the burden of proving by clear and convincing evidence that the requirements of subsection A have not been met. A person appointed by the court is not liable whatsoever for a determination made pursuant to this section. </p>
+
+</BODY>
+
+</HTML>

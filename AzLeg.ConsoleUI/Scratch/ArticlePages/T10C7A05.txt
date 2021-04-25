@@ -1,0 +1,27 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-705 - Notice of meeting</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-705</font>. <font color=PURPLE><u>Notice of meeting</u></font></p>
+
+<p>A. A corporation shall notify shareholders of the date, time and place of each annual and special shareholders' meeting at least ten but not more than sixty days before the meeting date. Unless chapters 1 through 17 of this title or the articles of incorporation require otherwise, the corporation is required to give notice only to shareholders entitled to vote at the meeting.</p>
+
+<p>B. Unless chapters 1 through 17 of this title or the articles of incorporation require otherwise, notice of an annual meeting need not include a description of the purpose or purposes for which the meeting is called.</p>
+
+<p>C. Notice of a special meeting shall include a description of the purpose or purposes for which the meeting is called.</p>
+
+<p>D. If not otherwise fixed under section 10-703 or 10-707, the record date for determining shareholders entitled to notice of and to vote at an annual or special shareholders' meeting is the day before the effective date of the first notice to shareholders.</p>
+
+<p>E. Unless the bylaws require otherwise, if an annual or special shareholders' meeting is adjourned to a different date, time or place, notice need not be given of the new date, time or place if the new date, time or place is announced at the meeting before adjournment. However, if a new record date for the adjourned meeting is or must be fixed under section 10-707, notice of the adjourned meeting shall be given under this section to persons who are shareholders as of the new record date. </p>
+
+</BODY>
+
+</HTML>

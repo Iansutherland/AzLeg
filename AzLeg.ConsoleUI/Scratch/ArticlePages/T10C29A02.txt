@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3602 - Consideration</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3602</font>. <font color=PURPLE><u>Consideration</u></font></p>
+
+<p>Except as provided in its articles of incorporation or bylaws, a corporation may admit members for no consideration or for such consideration as is determined by the board. </p>
+
+</BODY>
+
+</HTML>

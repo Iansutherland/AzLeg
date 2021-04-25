@@ -1,0 +1,19 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3603 - No requirement of members</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3603</font>. <font color=PURPLE><u>No requirement of members</u></font></p>
+
+<p>A corporation is not required to have members. </p>
+
+</BODY>
+
+</HTML>

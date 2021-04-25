@@ -1,0 +1,39 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-141 - Notice</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-141</font>. <font color=PURPLE><u>Notice</u></font></p>
+
+<p>A. Notice under chapters 1 through 17 of this title must be in writing unless oral notice is reasonable under the circumstances. Oral notice is not permitted if written notice is required under chapters 1 through 17 of this title.</p>
+
+<p>B. Notice may be communicated in person, by telephone, telegraph, teletype, fax, electronic transmission or other form of wire or wireless communication or by mail or private carrier. If these forms of personal notice are impracticable, notice may be communicated by a newspaper of general circulation in the area where published or by radio, television or other form of public broadcast communication.</p>
+
+<p>C. Written notice by a domestic or foreign corporation to its shareholders, if in a comprehensible form, is effective when mailed, if mailed postpaid and correctly addressed to the shareholder's address shown in the corporation's current record of shareholders.  If in comprehensible form, notice given by electronic transmission is effective when directed to an e-mail address shown on the corporation's current record of shareholders.</p>
+
+<p>D. Written notice to a domestic or foreign corporation that is authorized to transact business in this state may be addressed to its statutory agent at its known place of business or to the corporation or its secretary at its principal office shown in its most recent annual report on file with the commission, or in the case of a foreign corporation that has not yet delivered an annual report, in its application for a certificate of authority.  Unless otherwise prohibited in chapters 1 through 17 of this title, written notice may also be given by electronic transmission when directed to an e-mail address that the corporation or its statutory agent provides.</p>
+
+<p>E. Except as provided in subsection C, written notice, if in a comprehensible form, is effective at the earliest of the following:</p>
+
+<p>1. When received.</p>
+
+<p>2. Five days after its deposit in the United States mail as evidenced by the postmark, if mailed postpaid and correctly addressed.</p>
+
+<p>3. On the date shown on the return receipt, if sent by registered or certified mail, return receipt requested, and if the receipt is signed by or on behalf of the addressee.</p>
+
+<p>F. Oral notice is effective when communicated if communicated in a comprehensible manner.</p>
+
+<p>G. If chapters 1 through 17 of this title prescribe notice requirements for particular circumstances, those requirements govern.  If articles of incorporation or bylaws prescribe notice requirements that are not inconsistent with this section or other provisions of chapters 1 through 17 of this title, those requirements govern. </p>
+
+<p>&nbsp;</p>
+
+</BODY>
+
+</HTML>

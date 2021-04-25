@@ -1,0 +1,33 @@
+<HTML>
+
+<HEAD>
+<TITLE>11-132 - Methods of formation; requirements</TITLE>
+<!Creation Date: 08/11/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>11-132</font>. <font color=PURPLE><u>Methods of formation; requirements</u></font></p>
+
+<p>A. Counties may be formed or divided either by legislative enactment, by statewide initiative pursuant to article IV, part 1, section 1, Constitution of Arizona, or by county initiative pursuant to this article. The requirements of this article, however, do not apply to counties formed or divided by legislative enactment or by statewide initiative.</p>
+
+<p>B. A county shall not be formed or divided by county initiative pursuant to this article unless each proposed county would have all of the following qualifications:</p>
+
+<p>1. At least three-fourths of one per cent of the total state assessed valuation and at least the statewide per capita assessed valuation.</p>
+
+<p>2. A population of at least three-fourths of one per cent of the total state population according to the most recent United States decennial census.</p>
+
+<p>3. At least one hundred square miles of privately owned land.</p>
+
+<p>4. Common boundaries with either:</p>
+
+<p>(a) At least three other existing or proposed counties.</p>
+
+<p>(b) At least two other existing or proposed counties and the state boundary. </p>
+
+</BODY>
+
+</HTML>

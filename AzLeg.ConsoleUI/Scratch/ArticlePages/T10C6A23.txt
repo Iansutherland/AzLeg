@@ -1,0 +1,29 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-623 - Share dividends</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-623</font>. <font color=PURPLE><u>Share dividends</u></font></p>
+
+<p>A. Unless the articles of incorporation provide otherwise, shares may be issued pro rata without consideration to the corporation's shareholders or to the shareholders of one or more classes or series. An issuance of shares under this subsection is a share dividend.</p>
+
+<p>B. Shares of one class or series may not be issued as a share dividend in respect of shares of another class or series unless one of the following occurs:</p>
+
+<p>1. The articles of incorporation so authorize.</p>
+
+<p>2. A majority of the votes entitled to be cast by the class or series to be issued approves the issue.</p>
+
+<p>3. There are no outstanding shares of the class or series to be issued.</p>
+
+<p>C. If the board of directors does not fix the record date for determining shareholders entitled to a share dividend, it is the date the board of directors authorizes the share dividend. </p>
+
+</BODY>
+
+</HTML>

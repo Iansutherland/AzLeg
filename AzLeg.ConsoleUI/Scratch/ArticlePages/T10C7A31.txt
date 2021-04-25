@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-731 - Voting agreements</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-731</font>. <font color=PURPLE><u>Voting agreements</u></font></p>
+
+<p>A. Two or more shareholders may provide for the manner in which they will vote their shares by signing an agreement for that purpose.</p>
+
+<p>B. Unless otherwise provided in the voting agreement, a voting agreement created under this section is specifically enforceable. </p>
+
+</BODY>
+
+</HTML>

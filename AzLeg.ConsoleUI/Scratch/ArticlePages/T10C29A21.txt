@@ -1,0 +1,37 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-3621 - Termination, expulsion and suspension</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-3621</font>. <font color=PURPLE><u>Termination, expulsion and suspension</u></font></p>
+
+<p>A. No member of a corporation may be expelled or suspended, and no membership or memberships in such a corporation may be terminated or suspended, except pursuant to a procedure that is set forth in the articles of incorporation, bylaws or an agreement between the member and the corporation or a procedure that is otherwise appropriate.</p>
+
+<p>B. For purposes of subsection A, a procedure is otherwise appropriate if either:</p>
+
+<p>1. The following are provided:</p>
+
+<p>(a) A written notice at least fifteen days before the expulsion, suspension or termination and the reasons therefor.</p>
+
+<p>(b) An opportunity for the member to be heard, orally or in writing, at least five days before the effective date of the expulsion, suspension or termination by a person or persons authorized to decide that the proposed expulsion, termination or suspension should not take place.</p>
+
+<p>2. It is fair and reasonable taking into consideration all of the relevant facts and circumstances.</p>
+
+<p>C. Any written notice that is mailed shall be sent to the last address of the member shown on the corporation's records.</p>
+
+<p>D. Any proceeding challenging an expulsion, suspension or termination, including a proceeding in which defective notice is alleged, shall begin within six months after the effective date of the expulsion, suspension or termination.</p>
+
+<p>E. A member who has been expelled or suspended may be liable to the corporation for dues, assessments or fees as a result of obligations incurred or commitments made prior to expulsion or suspension.</p>
+
+<p>F. This section does not apply to corporations organized primarily for religious purposes. </p>
+
+</BODY>
+
+</HTML>

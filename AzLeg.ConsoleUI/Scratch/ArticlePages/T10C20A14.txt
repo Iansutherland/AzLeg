@@ -1,0 +1,21 @@
+<HTML>
+
+<HEAD>
+<TITLE>10-2214 - Prohibited activities; authorized investments</TITLE>
+<!Creation Date: 08/10/20>
+<!Author: Arizona Legislative Council>
+<!Typist: dbupdate>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</HEAD>
+
+<BODY>
+
+<p><font color=GREEN>10-2214</font>. <font color=PURPLE><u>Prohibited activities; authorized investments</u></font></p>
+
+<p>A. A professional corporation may not render any professional service or engage in any business other than the professional service, including services ancillary to the professional service, and the business authorized by its articles of incorporation, except to the extent that the other service or business is incidental to or an inconsequential portion of the authorized service or business of that corporation.</p>
+
+<p>B. A professional corporation may invest its monies in or otherwise own real estate, mortgages, stocks, bonds, partnership interests, limited liability company memberships, securities or any other type of investment or property. </p>
+
+</BODY>
+
+</HTML>
